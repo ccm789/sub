@@ -1,823 +1,1573 @@
-tvbus-加拿大,#genre#
-CACC TV,tvbus://4JV3VZtohcxxsLUhKavaHi3naWM1khtmPgDZ4uGj9TW5M1EC7T
-CBC NEWS,tvbus://4sCTvaT1UuJGK2jUyDmV2nANZAVu7DUoroFA6MjH5nfbA7MD5x
-COOKING CHANNEL CANADA,tvbus://3GX3FScqWGwJ7ex7aKRUpApbma4P7GvKYiYRPLGFDgSBhtQ7qU
-DISCOVERY CHANNEL CA,tvbus://4PRxqXjR2DANWcsF5QRoLMapuGmPERFygcn8AkQovcxh9rJXZA
-FOOD NETWORK CA,tvbus://4QGr5hsgM23HBox8kBS7aQtyoV72CHhnW6iqFGBhJwe66fZZfJ
-Food Network CA,tvbus://4QGr5hsgM23HBox8kBS7aQtyoV72CHhnW6iqFGBhJwe66fZZfJ
-HGTV CA,tvbus://36FxE4Boh2dTsTG9czToXSKKTWnL2mQ4RhqbmyynapT9CUKvsX
-HGTV HD,tvbus://36FxE4Boh2dTsTG9czToXSKKTWnL2mQ4RhqbmyynapT9CUKvsX
-HISTORY,tvbus://3NuaE3aHWq1MuGZddr39Lcmrw5Az6VJfWP4PMBBbrmCpPHGnN5
-NATIONAL GEOGRAPHIC 1,tvbus://315Ntkpt8pyuLHb2rDStjrAFCPwSJV8nYuJ1coruLAueCPFMfp
-NTV 7,tvbus://3iCgmSsJKF3hKFTN41itTLzmvi5zqw9qCDvPCfEnLc9qcy3B1j
-OMNI 1,tvbus://32bnemJokrwtLrW6qxY5zMBNmi5bRrJ7UamELmVn8zw29qHSsa
-OMNI 1 CA,tvbus://32bnemJokrwtLrW6qxY5zMBNmi5bRrJ7UamELmVn8zw29qHSsa
-OMNI 2,tvbus://4X92MfUjVuPWYdBRmJyjXytofmH89XeRUZgpu8CDro9LbEBU5U
-OMNI 2 CA,tvbus://4X92MfUjVuPWYdBRmJyjXytofmH89XeRUZgpu8CDro9LbEBU5U
-SPORTSNET 360,tvbus://2xAeSXntnB4LRw5A3NbT7mzHzXp5ewuuUKwdf1vWhjbASA3EV4
-TSN 1,tvbus://3oN7NPfmsXJJzFaNours3hFiTS7izMknwAeozQsx3QVP1kVQSJ
-TSN 2,tvbus://45cqwqd4R4tSna14rqDnc9xF5ZvqsUEvivdqaspZCvznycQEBj
-TSN 3,tvbus://4BXwQmMbXhfsHGMvk8zH5eqGFWmctwEm1k798wJdqxgd4jJe5D
-TSN 4,tvbus://4scNyNSYvg1Kzcqp9ys542Ct3WpZkxQ3G3epXm3DNYnkk53G9w
-TSN 5,tvbus://4LvHUAtQmHJCDfVhFdfu3yfQZw5iMGhA5BdhVk2uNNC2cRJQYb
-The Weather Network CA,tvbus://4qFoKFo2j7YdbA33javL6bAapGDQCkT9HMXU7hRa5BPqkg5UUQ
-
-tvbus-印尼,#genre#
-AFC IN,tvbus://3UMT8WTiVMU1q4KJrgq9XYeijmPCmjta8UgECUuv7JKcMqoxny
-ARIRANG,tvbus://3icGM8eY2c39sFKKURKaqA417vKu5Ww85Q9MnFuPAziyAbbzMH
-AXN ID,tvbus://3dGzNx28FMG27LNCdtMNHiifEM9p6cCBVTppcYXpHGgGvkPWmY
-BLOOMBERG ID,tvbus://3nD3tVxDfQmK1AQSEgqFk37EnkUQabEGH9iKNGjdTcuuuTNkjE
-CHINESE DRAMA,tvbus://3vqfATzx4eCJj13pa9mdGqkcC5JgSwNTcNhVHq3YXeN1W9eZLH
-CNBC  ID,tvbus://3iQ583pR1hr9LLmXjJUtMg1XkHNYLcAucMVsFhx9HCVSLBUAx6
-HBO FAMILY ID,tvbus://4AeLwb7Yh4A34P6XAPtv5SpKLSSZNLz8nSGsGFdsx5T8ovi9PC
-HBO HD ID,tvbus://4h1ZJdMscRPwdsPVKp7LY2ZSVQ2WpnftFumJHiLn4xu3dzymNk
-I - KONSER ID,tvbus://4s3fnpEVu15wnAXkSgsSZiAjRD7odS2CS4pCyiEk6S6RMSAyLJ
-KOMPAS TV,tvbus://4L26Rh886sD5UT8HEth2T3a3m8HuGYZxVf1hYp7vDeqd7HDinV
-LOVE NATURE,tvbus://3ExMjyoRFQNAyLTZZZDpCUWctBXehfF7bfqn9peBrjoGATLWZc
-METRO TV,tvbus://3E3ekJx7arf26JxUf8959WvFZf5WPoj5Scr6TnjCfJ5XbcocD6
-PRAMBORS,tvbus://4gViKeVZkgPF1qF4uf2FToMz4oJfQTSNk6xKYyiZvqhSVyHDNW
-RODJA TV,tvbus://48s6PMo8d8oWhFD7aEowHCLQPGzvGgKUJxvPgg4yTziDhoyWC5
-SCTV,tvbus://3cTHYMprkLZeVpvRziK6SSJGGiuSWzzhjqc1PdsbJZrbugHiBK
-TRANS TV ID,tvbus://3VrPjWYP2aeGu6g26FZNrHXZjvjBdS3gbqZfkNKfjJEfhotmhn
-TVMU ID,tvbus://4RGRnwEx5Hyu1R3rfStB7pu9weqKbtcvq3VFVpn9Wfud6hq2rJ
-
-tvbus-印度,#genre#
-BOOGLE BOLLYWOOD,tvbus://3hpLk4vuR13qoDZXJuSmayDubgfNUWpNXQFsLFtW65FGepAXFa
-HISTORY TV,tvbus://3NuaE3aHWq1MuGZddr39Lcmrw5Az6VJfWP4PMBBbrmCpPHGnN5
-HOLY GOD TV,tvbus://2yJiCPqzcTJt3TNU3yimGiMDNxZLXDbbo3L3yh9A6TnhQifCtz
-INDIA TV,tvbus://4mWazzsH7tZ8fiMN8Q9tpoGcZKX4WgtHTabuUb6k8FTPKTScsk
-JAYA MAX,tvbus://45151agaZLQRhBCLXKzsi7xwuYPezQ8EzkBXYN8eQ7qX7k8pHU
-JAYA MOVIES,tvbus://3EXmher883T1UW1fguCFkPYUoESDwU5rmkmCxyTsB254ecosob
-JAYA PLUS,tvbus://3yGk8Nz5VFTzkhPNfKfWqZrcnkmVWffaGZDER4hh8RwiAkJdYD
-JAYA TV,tvbus://4Ti6joYYqfXs86wfAANgRFLyQRQo2y4TmfaikSVLGoqpXqtVKE
-KTV,tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf
-MAKKAL TV,tvbus://4s2QZX1PcAtHWn84qKkV1exB2r7xtqcDV1Pc6XJ7b9iSiT4JXw
-NEWS 7 TAMIL,tvbus://4XycECZrqEqeCKuaVsjnQrSnXV2x2ZoL3Dpvbs8Qxwif5WHgJC
-POLIMER NEWS,tvbus://3Z9hcpp1W7yCbtrgr72dKXVGry3e1ex13GFo32ywdQKeA8g2mp
-PUTHIYA THALAIMURAI,tvbus://4WuzrerZ42D63kUQL5a2X8uwVzpbSBVyqvr57NHTKqoZf4pTaM
-RAJ NEWS,tvbus://3wXvopRZbZVDioS3FCGxNDxwDPWBAEooZZgjcp73JHLHULahUz
-SIX TV,tvbus://3wLEHYB1bZ3nE51dejTZPg2P16TLCtGLEMe5oXWwUruvAU9HgX
-SRI SANKARA TAMIL,tvbus://4Cd1L5shzpbAtocN3VDw1dvZdAQBJZr3cXoiFZz63jrikjTH7x
-STAR ASTRO,tvbus://4d4sWfBGMR7Erwf97ZFfzDeXtCZs82FUyFkpv4vDugSomQ58x4
-STAR SPORT,tvbus://46uDVDSHTcTMDH2yvv1mVW7aV34k6nXqvUL1VFAKPfWsNAnoko
-STAR VIJAY,tvbus://4d4sWfBGMR7Erwf97ZFfzDeXtCZs82FUyFkpv4vDugSomQ58x4
-SUN LIFE,tvbus://3QjkFs7wDpuq9dLLpWCqumnjcdkHxTpW7VjZAWBdyZN8u7McSv
-SUN MUSIC,tvbus://3BCkouPFWC3gZ7SYGPhZKgA6qzMG9CxQYi9ChKSmSTXiEAZuwR
-SUN NEWS,tvbus://4TDYHfgKmC8GLZEsBCtnvgKWPSGfj78dco6aMHRatpCVgDAKKK
-TV5,tvbus://4RsFNGQRsDFnAeHccb2cRzJmXB81umV2YScACDFwvRQBMhVTV6
-VANITHA TV,tvbus://3Urz7GZDptUv5HYnf6L9cyay7XregizJ9cHyYgmSkkQME1QUep
-VENDHAR TV,tvbus://2xipuWuoi7aELz8JfKjnd83rRKQ6DxuVsNhSjG1uuq43B37d64
-WILLOW CRICKET US,tvbus://3B7ermDyDEDq8rimcJbGkPdJotS9LzRbnQpgrUUeW2STrLHm4c
-ZEE TAMIL,tvbus://4Amxcv7XRNsbZ9qyRiNoTszReGTMRqAv825LBHp8EYEJkH7Bjv
-ZEE THIRAI,tvbus://3DRXHHheu9tGuePdDmw8AZm18EjTS9h2gNzQDtFSKZFkm7XjBu
-
-tvbus-少兒,#genre#
-ANIMAX IDN,tvbus://4rP8nmcr7efoTX5TUnowYzsdjbR1H2Q7eF47Ms7x8U55bjHr2d
-ANIPLUS,tvbus://31fwnSNy7qoTzECmVaVbZqzdLivp76QhzShTEEFKLi9112sfiW
-DISNEY CHANNEL,tvbus://4W2JRGAe7aEnPbkyQjCBmAKBDsfd5AvX5ad27fsEo46fuv26HP
-DISNEY CHANNEL 1,tvbus://4W2JRGAe7aEnPbkyQjCBmAKBDsfd5AvX5ad27fsEo46fuv26HP
-DISNEY JR HD-US,tvbus://39hvrBk7YA7hrngLhEsvdiW5FQqemDb38fRxR7xtDTNPJFyjSb
-DISNEY US 2,tvbus://3rnCZgetBN7wv5QvbsSGzKmgdib4M97s7gbQoB8spyTs37Bx8F
-DISNEY XD,tvbus://2xrMtqJreRpwkUjcjyrzn8stdh4bCeJ9wmnzkfZifidUVL9KqD
-MENTARI TV,tvbus://4JnT5GUY9oZ3J1C357Di9JXUcouJeYZVnzcPtiQtm9B9cKqmsP
-MOMO親子台,tvbus://3o1kzZCaGbiKLhWgxwkMwuUwRdELqCcPXjLYwsED2CL4iN4YVv
-NICK ELODEON US,tvbus://496AKL6kfZMtrYx9iYdsGCDyULcSGfrzeYUWj6iR9yV7AVdMY9
-NICK JR (ENG),tvbus://4YD296bvHyhvgVwweHqLm5mCJ8JnK1BwFKfyw2GmScdbuxPXVr
-NICK JR (IDN),tvbus://3hBvtvxbpxAwVUmWWMbG15Lk2SGSbYptPSapWMAJLmXoCQSPof
-NICK JR.兒童頻道,tvbus://3WN3djXtW9YyX85Fc31xqUV8rdiR98UKAK6gD6TgYQ3tT9Yvh2
-NICK.JR,tvbus://4L1dvSX2ULNBiZVqVTdqxAmFC3WM758zvp61EVkcqsKdBcGeS2
-NICK.JR ENG,tvbus://4L1dvSX2ULNBiZVqVTdqxAmFC3WM758zvp61EVkcqsKdBcGeS2
-NICKELODEON US,tvbus://3kRYyNZLoErFJU7xCSc436J1duqbYXMfx5Bh7ZvCXM2zTxwXWu
-NICKELODEON-US,tvbus://3kRYyNZLoErFJU7xCSc436J1duqbYXMfx5Bh7ZvCXM2zTxwXWu
-動物星球 1,tvbus://3JUUSQBCyZAX9vBQ71NXPD8e5iMcG4VX3pFcrsvJ86zmdn6Tbz
-動物星球 HD,tvbus://4qGzxT7HScsybMhPCaLt9LM5TT6yh8zaP9bjfpnKTCTyHX5ebW
-東森YOYO,tvbus://4gazdPz1YuZKv1gARxLHwen5jbEE1J65KLwB8DGhChkUY2LJUP
-親子臺 1,tvbus://3B8A1x6rf8ra8z5n55MoBvncnEeqS52dtiKhU4kBXFn6T5ioeE
-靖天映畫 HD,tvbus://4U8GA3DnvSwRTyADCdkqHqPPo7zLDfJrZGxRXTyHXMptnQCry2
-龍華卡通,tvbus://3NFVSYVUuyQMRccyrGcRgtT5etdqaztv9iYn7bfhaFGiXynRBf
-
-tvbus-新聞,#genre#
-BBC LIFESTYLE 1,tvbus://3dDa4teN8QbXLeqeePDVg5yQ9maiKHZyNW1u3aP4YFPR2cwiBU
-BBC WORLD NEWS 1,tvbus://4QsH5LokUiPuK1q64tMFmHnAgUu1WwhHSJdPk9S2nTNDzt13AW
-CNN HD 1,tvbus://3KLMdArRoZfHUXzWgesP6HoFUq3pQ99fZVAXBukf8vZFaGf7FV
-CP24,tvbus://4oR9Lpbtzw5GwW8G81wEzR7FFZNn5TdovzvwxDG2j9CtHwzpxy
-DISCOVERY SCIENCE TW,tvbus://3JP6VsjJtPvxZpG1ZndW9TWFWkPrmQC2opXgP1G8DvnwpaQefi
-ESPN,tvbus://4SCUpD4M9ctF4njUtURBBaAm47P46CphcVm6VR2nyRZmV9CYuk
-EURONEWS ENGLISH,tvbus://3H5he9GCrqQeuPdEtqjFYqZQ3FbUNjzx9zia8f8rbfU34cNPAb
-FRANCE 24,tvbus://3oKrH83LgTKi24o8nsFTdcy354zkMtDYxSbxsMvKF3MQpfff63
-NASA LIVE 1,tvbus://3TpeCgRVTh2FgHKiGSpGbVR4dr1ok1zpiyd9ioaeaQGfL4U5SK
-NBC2 NEWS,tvbus://3zHCtuGUjnDrgXZ5Qwqi7RaVwrMxT9utALYVL7RmtG2casAaTd
-TRAVEL CHANNEL,tvbus://3zDPs6uPnVi81etR3DUE8yWXgdeBkhFe6iYs12p37XkDjb4igZ
-TVBS新聞,tvbus://4SfXXXbyhiNG7YkBeuQp5Kx8StZ51Qe6NGkmUjpJ7cdA7sCira
-TVB無線新聞臺 1,tvbus://4i4yqz6j6w32rtAMJvCJWBMky1FMytyqQLEJ4vftkhCY5c7QdH
-中天新聞臺,tvbus://4bqQnbZFtkuCwuMT69MUotsYqH1sDvcVyfX1B5bAAb41UtRaK7
-中視新聞,tvbus://3ahejT4bZVgftsKHzSzNdc3faYAhupSeqAYrikhMTkAVFHVMKa
-台視新聞HD,tvbus://484Ufuv46TtcFDsG2i4eGXWuFsTsxcVcWkVrJqeN1bezbPpQso
-國興衛視 1,tvbus://31EN6n54aSztKTXEEojUof9R8GXKhkS6792EfAKmUmtxQA8gUK
-壹電視新聞 1,tvbus://4TyquPihFBKyn1ZgdLaZpBSREowTiQt7b2vpBGamFRSYovty7c
-寰宇新聞臺 1,tvbus://4N1jjWcvwRYZqiNk2JDQsx1nkKH2Pm7AEeyuwJ1xHsasuFjxnR
-年代新聞臺 1,tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
-新加坡亞洲新聞 1,tvbus://4hA32ABDuiDz14Whu3nrgHYRgh2pyozbmE1pVdp3FjUk8ndtqw
-東森新聞,tvbus://3Ww6YMzqRh9s3CMC8stFEGxPygjdqDrYqzqJA5eip8GbT2XtTA
-東森財經,tvbus://3YrVKyuStTijCkH3qG8vWNjU2Pz9xSWwwFetEGdY3FPaxprja4
-民視新聞,tvbus://4ei6np43Wc3FLxQAS5JST5S3W1C91D6cyVnfZX8qvBc6B6ASfs
-視納華仁紀實頻道,tvbus://4WTwfnHcByoyWvHhsBi6ry7gP3wu6rvJzmXqpzF2d9vKR2J9q4
-達文西,tvbus://3j9ddVkqgrBLssruVmQyhYSRu2kxdyYhBJhVbBN1F99cmVuN1n
-鏡新聞,tvbus://4B9RcMSt1hQUbuZM2m4LUBkbvm3NLnSrD9BP55o2ujtjCddXK7
-非凡新聞,tvbus://4pS6LgmNPcYDLhxED97FYyU6A1gSA9SMsvo289xFmFKDvptFQH
-
-tvbus-日本,#genre#
-ABCテレビ,tvbus://3WpSHVyiZV2UB8RJpHz9mqS88smyL5TMBQtte4SGiFfGPfZa41
-BS-TBS,tvbus://4dUprAz3u8ZY2DFrPFw621jYo1MFgxdw6eeg1DoErt91WZ2Y3B
-BS10スターチャンネル,tvbus://4o5HfLYTyV4GbnfuF7dccwcJ2sUJHWnhbYSZ9E5aaP6M6QDAW3
-BSテレ東,tvbus://4XHavXfcacYCceAzrHsb2TuZZsbLCbXUSjygiQ6RXhSjKqUdgc
-BSフジ,tvbus://4mNvhLbwKpErLrVvH6Zuq9fUPog332jZsabWs1gTevQyAGT8m1
-BS日テレ,tvbus://4cjcneCYDATUHwDGhqdC2jjLewgje9JSwA8bWb322oEfNXYgVs
-BS朝日,tvbus://3Wshp9XrgNQykMHFh7UazuwPjbMYxCH13XiHNYr8K4F1GytxyT
-JAPANEWS 24,tvbus://4owZx9r1FMwrs921TtDBXfHj4voetjDr2TEN9RfdGK4m6D9dTK
-JPNスポーツ 1,tvbus://3iBYQd7XHCpFhqm9wnZStypVoiE7HbcWYAYQVKzhgCXdz56Z8Z
-JPNスポーツ 2,tvbus://4QtUpZJF2kLsdApWYa3GntQmJ6p5E2UvFm313TsGuLaYzdCNJe
-JPNスポーツ 3,tvbus://4gqpJPooEzp93Lf7fd3DWbhBsu3FJScSV2WcqtsNLDuew26mac
-JPNスポーツ 4,tvbus://4DW7QXT8GuycCyzUnGQWnPvWAUwLgQmhAHZ2LSUNDhUzgPZzgh
-MBS チャンネル,tvbus://3iRsi4u7MafxQWJy49ZjKAZwUTdUQbyLLvkRxvKbmYW7xq7zq8
-NHK Eテレ,tvbus://3aef1PPNdzEsJhr34WpKseDi27CdwqvX5P1dmLyLa6jzrCmyev
-NHK WORLD JAPAN,tvbus://3ZWwtBkqDnJ4ax23GKCaoswhv2SP11Q4J3bTRC8eSbgE4Kj7C6
-NHK 総合大阪,tvbus://48hRGoQqmRqB5yk9a3zCU3SXVyWz1mnLajDMPdF4h4sS15uY7M
-WOWOW プライム,tvbus://3g1dPzcYqR1bP1MAZanEoAYvjZy46772MLu6APTwzRPkbRK48R
-WOWOW ライブ,tvbus://4nfCWBhughkYiVWZWqKgq7K2fBQzWV4Cr96VpvfHe54TDpFxR7
-キッズステーション,tvbus://44p97oWa9Guxd7WbdeumTAKQLMryD8xGPZg6rz9aNHVWDWXgR3
-グリーン チャンネル,tvbus://4mosnQmT89TCAtfjgMMnrhPzEWDQbAxEwyRPU761mVHY5m47fL
-ゴルフネットワーク,tvbus://3rSBVN2ub6JXiH7CpeMsE6vXo91PhttPf6otHjBGy9kbxfDLcW
-サンテレビ,tvbus://3o7fgC3R3Mje7fuqpiehPHCNV6XS2dP2sTnCj9LnJ3i8HcaxR1
-スカイA,tvbus://2xFvrEnRLXQDvdjvuXM5unCMaKL4yHycBmXLYkbm8VECecj1HD
-チャンネル銀河,tvbus://3w9XVpDceZqGz8vzxQFcTm7iTbj167RE6yM2fFLFXJeKvNaq1B
-テレビ大阪,tvbus://37QZNzyxDqV8D8UZDoDYGzMsQWSFNc23Uw2GqKw5qJyiNgEtgB
-テレビ朝日,tvbus://36tP65iec1C2BGqqKmeFboU7MC6X3B6k35QTtKztyWwtv7njbP
-テレビ東京,tvbus://3XwNrqo3TFAWcYU992BFpJV9FSUv5SnYQHAe97m1mpEkN2LFpd
-フジテレビ,tvbus://4TfgQv2wjHBqVLNYNqoGspvkXTWBP4P6LKZZDivDDbodeQQfUG
-ムービープラス,tvbus://3jkVVBfx6aAJJA5fiAGvPLQhQ8B1wgiSh3e4qD41F26rB4Evv9
-日テレ,tvbus://37vvEaBqjnMaDyujwQ5DU2b7w3S3us3Dfsvf97pCyXzefyuder
-日テレ NEWS24,tvbus://3MPexsQg2XcQvc9zYyrMbEBmJTqhi5zdm1nW3a5ivRVwg3NqzE
-日テレ ジータス,tvbus://3k67owatEYq7ZYfxsrDnb9VsUaUoQVGSRXTBEjE3cEc6CmZgkV
-映画・チャンネルNECO,tvbus://4aStKJYcZNBqupg8TYuVmNRBQWhBfQqG6enVMEFF1joWNPqNtm
-時代劇専門,tvbus://4Sod7TuDsckoLyN1MRQVw8VK7L2aZQw45nAkcDtUrdczxLFVXQ
-東京MX 1,tvbus://3veTVFaNuMnraaCDENUpo5snrDMYPXjwr6Q62Uv5H7N2utP5nJ
-東映チャンネル,tvbus://3GR4Tig6xFZVddoAmt8K7KmTtE23jxSKDc9DbSUW6LBH8h7jCX
-衛星劇場,tvbus://4oKZcUqVd14TSvspgWkGVai2kXUVC6ABxRTwvkqPGGBhAHZDJf
-ＮＨＫ ＢＳ4K,tvbus://49T8nio4TWSbegb3qwo9oKRBwC7c4LaYV5YEpf3XPX4ky4p6cZ
-
-tvbus-泰國,#genre#
-3 บวก,tvbus://3aKvg49uXdhGne6bnviaWFnGVzMT1cAR9P4ADDZwo9jWJVT23B
-7เอชดี,tvbus://37xTEfEVJGKc9i4JRNeru3JCezGzVj5nmofkpRFPYrxhAeTzPs
-CHANNEL 8 TH,tvbus://3ufBxdrtiCnLTxjD7y1wfGxWu2u1BLmFnYqGct554LPv8cdJjU
-DLTV 1,tvbus://4EyS5nKBFfF7WghZsZMX2nXATv3ZUvQnRWdrSDHji2BWyeegHc
-DLTV 2,tvbus://3MnKzZAf3K8nJ2pH5WTaFauSuxXfkxgjtPhDyBfjAYPquHG18m
-DLTV 3,tvbus://3nKHqqC6PpjSgVjin3xodFrWNhMnnB9Yd2sjQn7rrSyF6V48Xf
-DLTV 4,tvbus://4ZoN1r7mScehnGTLG33hKHd8QL9i7m3aN4qDAFnq1L6Rnrkdrp
-DLTV 5,tvbus://33aiQnqcvuVkczqHKmY5hqrMxbxGn2fAehncN7DnzdNm9Sc3Uf
-HAPPY TV 65,tvbus://4EGFfuLStdHECsq3efZYmQG9dY3JQ1QJtHKuwqsczXkpMKQSDV
-MV ลาว 5,tvbus://4ZXC51uZQ6SEZArAJc7jEfBK8SK7mhQRNBDgwaRYEdQFW4z8Ep
-MVC,tvbus://49B763G5QGeRQPftZWykXjwXCgrGzD2MLgcXnDgJoHR5L66vrN
-MVM,tvbus://4qLv3GxcrM7PW3k2vTEmFhFM3HMwsmD7hsgeSWFp5DvQhLWx9x
-MVTV,tvbus://4LpnuaV3iyEhQDQQ4UptaaKLMsYdgWUqwLUQP9HK1kg1vQG8it
-NNU 5 HD,tvbus://36ntNSL9wU1o7gxLaJimses7q9YDyiyo8SKHCWm6jgZazaB3mc
-ONE 31,tvbus://4ULoMYMN2GEVNeFzFW3FWz4DcgNXRCE6XYmYXD85vgQ9uB46x3
-THAI PBS 3,tvbus://4ddSQPe4b1o51UTmPZgBiCqipbXjvuQB9CaTroEnbNGC45wQgX
-TTD 1,tvbus://4guDYdWcz9HgMXsaghM7NSNWNz2NS59X5BNxH4WG3gTJrHncp1
-TVB TH,tvbus://4mz9KuY4Biw4jKTLkLYGmiXGz2mKJD6pYcVdgsJZxUd9f4qKua
-VTV,tvbus://4nnbx9F7RDLHNknejcRzr5w7gnTeVRMApsPvsbD8KceyMjgHUX
-ชจีเอ็มเอ็ม 25,tvbus://4gZv7wL8hbBmEs1gFm4VBnZszybYcqWH3ysC9SJjnfBhviMZqr
-ช่อง 8,tvbus://3aQAQxVhBczNSkHV8MGJAteb1B1GCTQ97crZ4oWmTeSijpQLvX
-บันเทิงเกินร้อย 3,tvbus://3Kjo3L1Kar72yp16MGFbGBuBLvxDvvCUEteBekXaaTQ1WRu4Ry
-ราม่า CHANNEL,tvbus://4dgr7FYKgkc5PzAn7VwrWYHand4GhLYdN12vKVwucJxLYSDkiX
-ลิโด้ CHANNEL,tvbus://3sYN3ohVvHZGqj9H37zQdyhs8SAg9hJ6pjWT4NWAKYVwVhfQwk
-สกาล่า CHANNEL,tvbus://3mQxkxpFjfw6hU4Df9E46Xem9sfL5wE3uFztzcEKQyzVqq39xP
-สยาม CHANNEL,tvbus://3sRSBXeCkUDqFn6nLLmxWdyFfRBt2qPmFLcFP9yRyVhTpH6dFt
-สามเณรปลูกปัญญาธรรม,tvbus://3HNMmvcoc2zW5n6EgXGaX7zdUdwuBiC5hsT32Y7rAwfuD5dtxo
-อมรินทร์ทีวี HD,tvbus://4m3r5yfTVfKN6LtTb984BrVJajxXyoS4ovX4pnpvZCiNPoNMom
-อีสานทีวี,tvbus://4FrRwXxyRRmxsJ8DCwjAYiaFedPAnJTUzCohv9NpEVwksDEM9W
-เนชั่น ทีวี 22,tvbus://3ND3NyLnCx8zb4kPHyEnED6tWGLBVrhLoU2BXeR2ANgamAy57k
-เวิร์คพอยท์ ทีวี,tvbus://3MZu7HdKcGi3sXNpM9Zes6mvS6Fequh2bcMrHzieaxgyUeER4b
-ไทบ้าน 83,tvbus://4LkfyYmZrE3hMZRhZow7faGRuQc3UTok4yssWWQLD3seXp785d
-ไทยรัฐ ทีวี HD,tvbus://4UT35gknYc1R8MtA9AiJgZQupTu7Go9yQW1qyRpzfDVUDYmkMz
-
-tvbus-测试英文,#genre#
-Amateur,tvbus1://4Fw8pJk1Nq2fQHojbZ3GLEE5oFgYzdhg5y4SBXW2GfijVfEMon
-Anal,tvbus1://3HnbPGrrpNuzt9896EVumrcC5Jbe6dzAoa3iZUtc51Kh9tA3TA
-Asian,tvbus1://3iFmorrRzEM4VfpDd85E4PmDDFS8NCSU2xBR94pFiH71LxrEGS
-BBW,tvbus1://4oKnPuwPWtcML43e7gzMa1L3Frbhb3MiCXJc6WP28DRanijb9U
-Big Butt,tvbus1://3tAHsVA2qbmtcw6gLaxL1GH6LM94sKxfY3RvD9HQVRzMq2A9VF
-Big Dick,tvbus1://3TXTZ64baj69F8xKWjKXrBA8mp3Ea8PwdQxoEhrENea6Q7renV
-Big Tits,tvbus1://3EJU5cWpgdBSZo5EV8UC7bdLYG3KHEadd7th9kSobD7o3ESwwy
-Blonde,tvbus1://3hM7BMeGg1b1KY7gnnkk6e1EkXQGUbNJqrbHLHr53Cre4oSnd6
-Blowjob,tvbus1://4ASg8RyV8v1UJ8BjCb6Dd7eGWZ6Nnsm6iFZWJzBKDwGPRREkGA
-Brunette,tvbus1://3wG3gHtSAyambpzbefzSjNjvxoYoXv3kAjmHmxT8QSnHDVvAon
-Couples,tvbus1://4fQPLVQiiw5hHpjmH857msQXZKi5kykC42Dfva6ThgWJwLrRPE
-Creampie,tvbus1://39YY9r3mkh5TjqtQ8vQnK8jWGijBcKpBQGs1Z4mpPmiTnVyM5V
-Cumshots,tvbus1://3L3i4fcASevv3R9J46n7fK9DarXWnn9Nhix1CpkSKG2HuStWpA
-Dildos Toys,tvbus1://4FKKotqhquH85x4cKGdgscBsAcRGwfFvGBRQHoFU4RpC7tZidG
-Ebony,tvbus1://4AFp9W5KrkD3RNeSuJ41dBg5yFmWYzQxRjdgS9ssrzRXBSQgkJ
-Erotic,tvbus1://4goHs2ibe9awrQyFNdzhzeedyp63ZPjJF8jDXJ6qfS1F4goCrh
-European,tvbus1://4iqogB4CUs294CFLcqDixiTVWTKvNLNiw5AH9r9MFj3SgorSYD
-Facial,tvbus1://414gYpcGYbMHZ9N6LR61jnqCiqTDrA1ZC6mrDpGuFnK7tfXYfJ
-Female Friendly,tvbus1://4TfA9W3bQA7eGxf5VXFVzFgdGZnKyfVUEWnVCzyGBohTEyFgEo
-Fetish,tvbus1://3NcreQcycTPuQQE17CDKmtpmhWeNyNaNvYA5dcYPDBsZCbuYdq
-Fingering,tvbus1://4pehrsfpvrBJCzqJQU199YcTWu1XSULYVvSAPSuCuumputPp8j
-German,tvbus1://3sfJenRPNqmsjNquB25NgdPrBDpHa8jh2suwnDwArdWX4R3eeM
-Group Sex,tvbus1://4rs9bhYcTXKkJ4iR6H6wLUGkziFvk2uVprgGWW7RAuCFnC6Pwu
-HD,tvbus1://44YAoSjRp3LX8qgo9mmy6MsorwceDR1KJfxTtA9gPRE4Y3BzNJ
-Handjob,tvbus1://3nLJEreBf5aZW4y3PzJK9ATmA6o9HS7aPkNmTZFkUaG65Lhiy9
-Hardcore,tvbus1://3J9EtzEorUvQREthiLFiCe3n3zYk3nimUYykG1RHRNv1zUY1dA
-Indian,tvbus1://4HHsMYgB1kboUaygBZ7ZwQJ4Mxhgo23iwu7fKbauai6K322YPK
-Interracial,tvbus1://3HznQBQ6z29UQsk2eGaiA6uCRYoRCaaTV4HB4SxZLqEXsprBvn
-K-Channel,tvbus4://3KNF6kPyzUp3Y349DxJfkiq3TVCQBVJfZ32J25aXdHPuyjS4K5
-K-Channel (2),tvbus4://3KNF6kPyzUp3Y349E1aTu8yQW8q4wbt1u4oorGSiaYz1rHGJbq
-Latina,tvbus1://3Twx7jwfhHRuaWaZG7DzqVAQQCtXGS6pKcjTYFH4uViMnrfjrb
-Lesbian,tvbus1://44K82uczgDjV9isGWuS5KrqHi7cPyRAkj8HP2nKby1Y1pZwPt9
-Masturbation,tvbus1://3DukAhDFvrxZmUJfBaYtoeccqVFCh492HaJob1EW1hHkQLoGi1
-Mature,tvbus1://38WNbkVtY8QLFCKX2yee1WaGmjZvkr8PzLCjqcNuwUfadW8EBU
-Milf,tvbus1://2zxMMqQiK7q9rijZrL877UZpAA1r1mkyFGWaUPhzer5wu29fL1
-Old Young,tvbus1://41fVzQ8evf6r3cqbMaMVQT2TfaHTSoTySGsgm1DndjosYL5M52
-Orgy,tvbus1://3U3RFCE3YY7sRJrGe4VR7pnpgZYFxB91iZEqtC1rFJGQnEKApH
-POV,tvbus1://4KMCg1ZhpWuj4cpiZ5XRkS6v7R5mVzkYjaVmHSXK2iwnZzT3WX
-Playboy,tvbus1://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
-Playboy FHD,tvbus1://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
-Popular With Women,tvbus1://3drnEvuSyUPSCd3R31ykWWnrVCRHKmLVrUL4coBR5iusegAGRU
-Public,tvbus1://441BV144iLvmcucGguGTc9426TF62N5FFQttu6ex4Eeo1MoTTM
-Pussy Licking,tvbus1://3Y4ccVxJJ7xL3gJ22fF2YFHc3TbG5eRnMpb429YGe7kqbb5REE
-Rainbow 1,tvbus4://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
-Rainbow 1 (2),tvbus4://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
-Redhead,tvbus1://3C2H2V5kbWknUrpGyrf9gzyzq1hr7YXPLQRDcoAV794CgkaJuz
-Sextreme,tvbus1://3p1WYXqXpnJG85uBLd2t3m3XDrYnRJicppqR7yuTackDUcvKQS
-Sexy Hot,tvbus1://4brVa3iG5qN1HxxmXZdEViKeZ37359dqDD4iwk2jUgiHMrwXiv
-Shemale,tvbus1://33G1ANe7sNnpnSC7EJrrPfT52qkpAKUXdnMGkSKnajgjnFCcp6
-Solo Male,tvbus1://3qeAArPqSPv8bufs2wHRSQNKXWV3hCiCvkzJUoNbVDuAS7fCsS
-Solo girl,tvbus1://3ZmjQN6GuvKzRLURUzZBM2GqexVoWPoF9dE7yVffwMvvsXhhjf
-Squirting,tvbus1://4M7SzN99XsbtKjHPxVjiQgFPUiN6X21BTtY1JqHrtJS2Ez5u4r
-Straight Sex,tvbus1://3gie7MDUzsKJtnHNLsJhELXdEkrc4VF4E1fHBDRJ7UB4X6Cczb
-Strip,tvbus1://3JvCgQg2qLxtKpPMGGhTpAVCiVsJQzSAMSAaxo4Bi9svCquRv8
-Teen,tvbus1://41jGEj7BQmsTDDqJ1ZWQaM9WxwiBPbCy1eGTyoa1NWyC3dattR
-Threesome,tvbus1://2y2Nfj5m4JTqkLj2KhSUma3fgJ1vfrGvqHnJqwNuBEzj4BcpMY
-Trans,tvbus1://4pRTE74MTtXfiVT39yYVf8vTe8cbp2gHjCfq5ENMmn2Qg6oKNr
-Venus,tvbus1://3BnTk27cgSPG8B2K3xdEazrxVqz8Z7vLPMWa7Ke9A2rkZX1ziE
-Vintage,tvbus1://4WwysQPLXHjExQo8k2nT2d2RTLLCdugaVBN3wz7CqdQ3LM6idQ
-Webcam,tvbus1://4sh4heF4c8FxvH6aWRuMtSxr5utYS8WvkvwCwk78TKGebh7vpS
-Young Old,tvbus1://2y2jjSZfHNVH9BpGkfro71YfgJrXygaKqAq9iDJYLQZ1hvTemU
-analsex,tvbus1://4sc57pZRG5cBnH8oAe8D458Y6UkHCvbWCQJKrXP6b6yqCYURnD
-anime,tvbus1://4sXNHgoRdBShZh2fLnyB5M4GVbW9zQkknJp4LfrKmHD6gQaQ7s
-anime2,tvbus1://4hnjqtSLYuzg7ivkXJN1kE7CB7TjBmVpVrcq85B5YrSH1gMJJb
-beautiful girl,tvbus1://3hBVqurgM4Ak8uj9SvPV23yb2VoHwd2U2dCyfpCC3TV6ZYX1BV
-big ass,tvbus1://3R8QMjzXPgqosHKH8mqhPEvbwz8jRPazSnepEsUJiLMWefRo5V
-big boobs,tvbus1://4ZTQHPqYnyW3uT1EMkufizZt8wtie8ZY3TcoMJd5vLkZKxFBqR
-big cock,tvbus1://3EJF8k2fvdnRzS8FAvK35CgfMHoGxMwsBNRH8LBPcUCHZk7yij
-big pussy,tvbus1://31HGJ13b6wiv7EzPNHdAaVSekxJ2jsi4kgEe9EME2j77y2EA7R
-busty,tvbus1://3EUGFgBBsJ8vitkgdES9cRrUJwhZDkXiMcz1v8abiUdYqZGn1h
-casting,tvbus1://3mVxy3zunWV44a48cUvmGTAoYtpMBqhMbmzk2xnFzSDFb8nYA3
-caught,tvbus1://4bQe6NpTA8suzcUTFe3s1ipouDcG7xiMsB7YLRhci8WmuvVCaG
-chubby,tvbus1://3pFg38NzumgB8SAgzBTjDfSF3wth9JvdXcKKJ7oYXmKCigaUj2
-compilation,tvbus1://3fNbkvqhDS7MxfjVF6dksC8qsUo5w2UyCiCMWzgfgWteLFcEoy
-cuckold,tvbus1://4KJpQYAgZtnYjm1PNTEzLUtva7AxeNPKWRjwa4FX4qNYwXLZ1p
-cumshot,tvbus1://3SxQsM9h1mqoosJL1MuSF1er54HC3tC1yNncsQnC3Vqz2R4wK7
-curvy,tvbus1://3SzECCp9jjGHmPnxEC3fE3iLkxiZ11N62TBrdzNLGkGxwsMx13
-cute,tvbus1://3rpUwbmFgrbkR3VUYjg9ZQKxTSB2qkc89gHDTa9HebNYMEUiWV
-double penetration,tvbus1://4Ba4QwT1nLB2ZXbj4eWgcRdyHwniqxnkEjcVEkTt81zvdjaQf2
-down blouse,tvbus1://4LKck74cj4McTiRTKidZor29BuU1vQcgVs5uU9u35eBH6fm3pL
-dress,tvbus1://34uMtHFKeovBQms8MnDweRxxGcgDoUXkL6B8am2BsHwNhpzATT
-extreme,tvbus1://3j9KFLZxi6Nw7bRpxqWVwautij3oRujNWyVvJZ1Dkg3nnSS2DN
-first time,tvbus1://4BvyTHPqT4y1NcQzzW2aVGLkvhBGxYY61WcyEAtYYxtz3cqXnU
-friend,tvbus1://3PYEPVprRxgYmk3hfLLK2LUt6vkTywWKb63CT2acm2rx8zgb38
-gangbang,tvbus1://3oyZXJjy8ViembrLMmbZyQAxVHUJ9DwNYBWa9qX17gp9GTGAgy
-home,tvbus1://4bssYvgmPda1i8F5iGFjMMRjVNFoW1M8syqWbWGDVEBY8KJrZu
-hot babe,tvbus1://3xxXv4ApGHqDyL27hiib3n642rtgwzTshndVWnqi9wfg6aMz3c
-housewife,tvbus1://4795qeJr8wMXpS4rVWYa9eZmRCozNQQT7FnutNh9rC7Uxn4eht
-huge cock,tvbus1://4QrrAqKt4bB6G8gP6CRbCu5fqdPR5TnGLpiLTi1Q7MQrxp2Coe
-japanese,tvbus1://3zMxJ4FMNR3PEmxBeAmMwVEqd8wy4rcERrLamc6TFdQRSFMeMK
-japanese mom,tvbus1://4CXUsXhYrxu9gNdFWFWpwfXq17f9FYSarjjfwdNDcM38FKBZRS
-masturbationsolo,tvbus1://3AjNptf73nUvdoPoUdmhPAQ17ZPPoUFtBgaMLeCMKTSV51DdQJ
-mom,tvbus1://4nK4h6hD6pN4hVnoEGBfqgEudGDZDedUEQiNmJ9TuUEhfwWcAu
-orgasm,tvbus1://448Pe863zPhGm4hvktj3UixMH8FERRvu2bQTxwpuMkaPSFpgXE
-perverted,tvbus1://3ZGAvm98STdUti1yywcPGnsUCQuxp4JvEuHxjDJedHeFFbj2Ap
-skirt,tvbus1://3SYGLMHYirHPrDbrpeDgK5DvCv6HfgoEK8pg9zFDRjZTYYbEBk
-small tits,tvbus1://3FxzUfXW1LkzHjjTNJCP2GvQKczF6eREfvu4Ba38NAZzRMf9tH
-stockings,tvbus1://4LMarQcYmFFc6qs7vn7Zc1mZCCBE4Ghr3FJSYyqBhF5LL2JJiR
-student,tvbus1://4iEZwcNjp1oDHo2ri3W9ZQcydpWDz8pr3PjyPJvcRVMbDgUKkN
-teenanal,tvbus1://3f4TmabeChnMp6tAE4AphtCQG1fCAXJb92KzcpCUstRbfzfwRc
-tiny,tvbus1://3xc3r4qVWQZis3bzf7AcKNNNYGc2DSu8eydzWa77BokrQ8iJpg
-upskirt,tvbus1://4kDXeAeewMJ1c6ZjnKTxRGEK5zpVuK8iTP9eEsyRu6aXxfNT5B
-whore wives,tvbus1://4Yr7GSePbEe6myLCcsNcFv86S5b8cwSvL3Hsjye3Nr68NU7gTM
-wife,tvbus1://4Sy7yTWHCHFhb9YVdeteRwmmU3ZSmE7AWr6jdaQZqEcQhsyvPH
-young,tvbus1://3GRcJZMiqGVkSkLyvYgRyGc6b2ECbQa17DGTJhqm2PDxtLTgE3
-
-tvbus-港澳,#genre#
-HOY TV,tvbus://3fsky22Yu9aeGT61yK5aKNUGgL18HpHDTmFGXsECGcavzJhdV1
-HOY資訊臺,tvbus://2yaz1i7uNJeMy3JnWm2wAfMGLKd5vGPjunzrFWpDXHzVVwKvZ4
-NOW LIVE,tvbus://4qkdbN15jajLLPwauSQpC1v3NJA9q6peHfbjiGPbpf3NWyvKeN
-NOW NEWS,tvbus://4dXxzBvTbVvQfJ7pwu8igNy761DQVcmdWsNx9SUKVrUAY7gWkv
-RTHK TV 31,tvbus://3vzY42gk8JqMRrvQxSNCWrsydgB1xuLy9CdSJVp4w3texVLKcB
-RTHK TV 32,tvbus://4e3eHVUVwdxR9MWwfgY1ADjWWq6aMTbcc9tBKTpPCR1W7wXRYU
-TVB J1,tvbus://4oR14F8bsLdPpAbDRU2CDn9WJicZBaMqLq2gJL9AFo2R8v6u2g
-TVB PLUS,tvbus://4qi7bQoxzBMEY7Jfgg6WHDW4CA79bbsqWtcv5SbHG2pYKcAnyy
-TVBS 新聞,tvbus://3hEnvwDeqiSKvMmmMLT6SpBv3yYXDkTj5WxYcg2U6bwjjLy8Mn
-TVB娛樂新聞臺,tvbus://2z7jue6gHi7hr4AhhjrCf5XzbRdEmWFwrv6eE1TTafyDHSABag
-TVB明珠臺,tvbus://4BqCdYAZkr9XV3h6uDd7Ugfgnigjqi2tLsHt3nK2f8PukTm47h
-TVB星河頻道,tvbus://4UDLWzVQjbjDZoaGybsDBo4Wxw2aKjYisKvzRn1QwS68L2QEqw
-TVB無線新聞臺,tvbus://2xLZVpbSrZkZFyE9XhhM2cs672mBMVeep5xD7NbtCQz1MpWifo
-TVB經典,tvbus://3E1s9PeDYDG7koQZgH7z7MR7SGTWTs8Vph2Z62XymxLU9krE1r
-VIU TV 6,tvbus://3jvCWc3jWRg5uS8Jd26cSugCBEv4rLkk82jzUryLBJos2CvmKb
-VIUTV,tvbus://3NkG3fw2RJjQrEU2eupHTbopwfxkco8jYd8Wuktiq5uh4R1RUe
-新時代 1,tvbus://46n9HxRUAPvAFTPQpLFvRQDY4ZC2rPc8bp1axBnNZZunAS674Q
-新時代 2,tvbus://3FG5H2hsShTxJnJkumSmpefbknTRCyrtR9sAZAqNvTn6P7uKjA
-新時代西部,tvbus://3bvJBVWF8wmrkp15D13hqaNerqNff4J6btNxngQs9mxLr45kme
-有線18臺,tvbus://36tV14iQdQUsMmkLdevXB8Vk7AqgmxCQy2ujn4wGtufb1QR3SC
-澳門蓮花,tvbus://34HoZHGVjbG6vaCs1e7MsCnVT6vuoDUmKv7cRH9TAF2NRXR2eT
-澳門衛視,tvbus://4QZRDpDNpK3mmq6AAdTZCx3sPmS7oR79Lt1ZFKXUrosYM59PN9
-罪案偵緝,tvbus://3FTRRDXZ3fGeKuSSohgd3Ha1X7vvciM5pWTgVHVRP9kmbcyKzH
-翡翠臺,tvbus://4ZoPc49rRqxUfZaFxEMa6LGAdKQTRRzWdemUqxv95eGLDBDeaM
-耀才財經,tvbus://4PpsVnb8nyyfdEGd8nwxbSJiYpuqudC8F4qpLQmTtVEbitPjVK
-陽光衛視,tvbus://4T7xowPrYqVkmU269QGU4vHiVGjGQk46dHyGwMzbgUS4tYsDj6
-香港國際財經臺,tvbus://4SzwjZiD9dAHRbiGAuoiRXFTE1LA3JCkXuodYZJJUT8Y6Vvub8
-香港衛視HKS,tvbus://3U1omh1EtV2BAUfqGCe95rW39DRQS3y369aYwygn4xvH8i7Psj
-鳳凰中文臺,tvbus://3iUUm17iL22DhjopDJjpJqWTvogs68hBLraNQAuN2hNnDcwNwU
-鳳凰衛視臺,tvbus://4T1W2W4bk8TNJn3orFuuf6NM9NR5z2PJCknRe7URT6FaAUsWYr
-鳳凰資訊臺,tvbus://3u98EH8RMRFkErMsDQYdctnhPxeMjwgojFxA8sAtVaKgbVqunQ
-鳳凰香港,tvbus://3SZpYApwpMkeekjk2mCzz8iWDAWwDwiSKKX4s1gaGLb6p5kajL
-黃金翡翠臺,tvbus://3YFLyZaJxEbtGgoYUCjbcdFMauudguMLhKe1Tww9Hf1NphCvwM
-
-tvbus-澳大利亞,#genre#
-7-FLIX,tvbus://3H1kfCNJyBYRJRBKDi2yNKgSvq93jGXp57x7kEPUMrrSjcWPVw
-7-MATE,tvbus://3vZLtDVxEaSB41i33wdfG5LVhAfwWuPDd5vT5gykF7rf8m9Sj7
-7-NOW,tvbus://48Sbj38Funi4EMhFFQ7AUkx71gGEobafVtPNxA2CL9bD6uf75L
-7-TWO,tvbus://3tBF5JVeUT12AoshFqhawaeKkkcs4Y1x2C3KzwyjAhVKGNnrwz
-9 NEWS TV,tvbus://47ApJEsDuB74eSuvoFA3CaKNM7SnTbpWVKfxvPtWb6uWr88szU
-9-LIFE,tvbus://35HxPuakBNjcr3TqbQWi3Hnnr3Zk7YHFpRbPxTa5uNZSxi7LL7
-ABC AUSTRALIA,tvbus://3rwmrxc6JBxWeDDBnyM11nPyBLZwsenzXZee23Z9Hu8Z6WBRWk
-ABC AUSTRALIA HD,tvbus://4c6fdwkxKMmD8YFvffV51beYCiLxQs3AvJXJs7spnuiPBWfshQ
-ABC NEWS 1,tvbus://4Smx4LsFUWoWHExarWtNXRxCd9bSyzavG9hStj1fsM2GUw6QK3
-ABC NEWS HD,tvbus://37bUGbqETwccUpYWqjHWPZXiiGSMZ3Sv4mVKhbNNfNgaaV9oeQ
-ABC TV,tvbus://4LeRsoRcaEWGvC3vLVTbpMR5M98CS3jPMF9EFuokJj8A3xyCwE
-AUSBIZ TV,tvbus://3YMsEfugJoFmCT9Lu5M79euAhGbmwCQ8DCYXekCPBoBCWfDPYT
-BLOOMBERG TV,tvbus://46TMv1RrDV3rxWJjmYeJ7W95B69ms4TYU1BVuFnhqXGonFYr7M
-CBN NEWS,tvbus://3D4R9HyKZrqJPTbMbAUPbfbhbWkWcfaytcd3SWvt6F5xxh2aro
-EXPO CHANNEL,tvbus://3CpK4J2KW3yn2vkK7WQNkeo6LR7XMfE2fn6seWAXgs7oNaU9Kg
-FOX SPORTS 501,tvbus://3bumHYE5zRH22mLPgKdDPkRWrSUv35KwqymEKXJYb6136crChV
-FOX SPORTS 502,tvbus://35AX8opthGkSeyMbn3FFvvYaYESdcXps465NLubgKf3wtxAY5f
-FOX SPORTS 503,tvbus://3NUHW42fwgssTNG4zfsxxQ3i6RNJ58ccUaWY65o6QRMTbXJQjb
-FOX SPORTS 504,tvbus://3cNAFWwU1pRxnKrXpo1M26wAfs6qiw3vC9QyQ64KKsL3aHPfmg
-FOX SPORTS 505,tvbus://4ZUBD4kHXagceL3vUsdwsn6AwZFyDWXSqSJkkrEjbCyej96c5G
-FOX SPORTS 506,tvbus://4SLqgoh5XhqMkw4fg19cyk7aMsZdrBXJ5DfPY3AYykKvL4ktDg
-FOX SPORTS 507,tvbus://3m32vctjC92CE5YfGojvimoB8bBQSzd6GTmDyyG5ficbrLVutN
-FOX SPORTS NEWS,tvbus://4mJGeNAG4owUzUa7Fn4KLbx6LwbAWMT7L4jJFsiX2ctRsye269
-GUSTO TV,tvbus://3rHxamkXmjau4fAddWVybi2sVXfLn51r1FBoejaKknFzrX236L
-INSIGHT TV,tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR
-INWONDER TV,tvbus://3VrZCtVuLBv15acrjGMAFSpknQD721Pvc32Ckgpi4f7pVAnU4Q
-JUICE TV,tvbus://4MiLEaUF6envNzRcbkkYzxYmJhuoFU2rtnNNAmpdr23BEdbYyT
-RACING COM,tvbus://4e8W2CVA6ZHA2oUjDoe4Qw3VFVWdxvFk3yvjeXDiiGy89F6meU
-SBS FOOD,tvbus://41vk9FrAQyz4KWomm7GVayhwZ9oq3XsfggDq2KrhgFaQKNXQQ6
-SBS VICELAND,tvbus://3hpxcDX3dzR9spfSfSvGmbzN5gd1dAhcSwMd7K1rd5bovfX35K
-SBS WORLD MOVIES,tvbus://3RqJtDnsJdLVHsQPM2LRDS2ThfcbWJbdYRLZrdWnAXdTYcky54
-SKY NEWS,tvbus://32ctX6STXgP2KAv83oW9fyHBcfwtS2sqhN4TK849LYhd6mXxBB
-SKY RACING 1,tvbus://44LAEatZpYtZTwZc4TgcHBDpnoVxKXEnDs4Xz4CfRfa6oMFK5q
-SKY RACING 2,tvbus://48dydKKEgAs57moQp5VFUjvvLCxF2d2f1RTjvGcQkYHRCxKtv7
-
-tvbus-美國,#genre#
-ABC,tvbus://4CqqhP6tWjPjQuNzjkSCCYvDExN6EYFuKGef9JU4oNTedYHCP2
-ABC NEWS,tvbus://37bUGbqETwccUpYWqjHWPZXiiGSMZ3Sv4mVKhbNNfNgaaV9oeQ
-ADULT SWIM,tvbus://4kX57AbBFf3yPpdpGdnvM5UGyUVJJe3Jm989bvAkiBekpC2sdA
-AMC,tvbus://48wFFYEoLr4HR2dVgaxjCmSfziG2nEe7jRhd8bhSKtaeuTxAt1
-BBC EARTH 1,tvbus://3D9Nv9pNGLssbuos5n8ccYjTS4JRm1KGRfE9v779PvXvxCDuMr
-BBC LIFESTYLE,tvbus://4S6jfapMj54wa9GT2JybQxybbMNXdNiQQXXGPWXbchu1nNAVdc
-BBC WORLD NEWS,tvbus://42uFnBQCi1y3WnrkQJAi4MyxXE5CmXr4U6Q9VwL3cWCmFnxV3t
-BEIN  SPORTS 5,tvbus://4YgyFjGpm3KfzosNuSVGyC5rXu6D5Uv7bh6By5JsXRQrCvaAch
-BEIN SPORT 3,tvbus://3DZQbZALJrCQfpQxS1gwDmn1Ez7eSXCeZBm82FrgYje2iSgX97
-BEIN SPORTS,tvbus://3geDWcwUq8pxZhrVK4iPD1Kr9oypuHYhfWvVB3gc4BTbGrCHGR
-BEIN SPORTS 10,tvbus://3vwYWL9ymrqWAHJ8ENeYf19NBsDibCR5Yu3SNeohnCS8AnChB1
-BEIN SPORTS 12,tvbus://3wUD8yAHDnLoL9WztJzR6ZuvSwThJ6C3MaFU36UgTPRdLDXpZy
-BEIN SPORTS 6,tvbus://3YRNebDuWL7KDPRKzqgSoAYkCnrxvsgp1RbPnTjX6qgwcLUNk9
-BEIN SPORTS 7,tvbus://3gSMgNjA7jHu834CB7bYtywC31DvEWfRpywYhAWafdjoDZYq6y
-BEIN SPORTS 8,tvbus://3bQ4rsqw3jfh4jZgj1idd5BcsZwQc29Cti5xv51HWJcqxxXbGj
-BEIN SPORTS 9,tvbus://2zhyWPij5jf8ixiiry99tyELkHLZfxWMTgGgbfRow8CLKCJ5a6
-BET SOUL,tvbus://3ikodjmGvYn1RfxbtB3Uorcg6zjo8znSUEs4acg2ezgxmJMo2o
-BNN BLOOMBERG,tvbus://3fxsd5nnGieZGA1j4EYLja7yCgS7t1JzsjFrcDKPeL44pmBGzt
-CARTOON NETWORK ENG,tvbus://3UU2fZknuDQQCSChtnPyvdjbgH1nyhVpLPrk2Et1ReTtBBao1W
-CBC NEWS NETWORK,tvbus://4sCTvaT1UuJGK2jUyDmV2nANZAVu7DUoroFA6MjH5nfbA7MD5x
-CBS HD-US,tvbus://3RjDC826E9TgbLyPVNQC9QFLgYAzQ45SmnupjwpdbXA24NEEfG
-CBS SPORTS NETWORK,tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
-CHCH,tvbus://45FumzDfqUVAJkXHSVKw7y58mNpaKiykcTJN41KpwARmcu6ojJ
-CINEMAX-US,tvbus://3gm1h2PxEhV9GoVYWZgPH3i3qouaoJRRirHsNErgPaAaPpCNj4
-CMT,tvbus://3cgzuPuU9uhtDYZsmByhqcCza2CzEsr2wdMNLkzPQEMW8wbSLT
-CNBC EN,tvbus://4jkg8PMDZJJobXPkEjv93LygVVz2nJGxcxKhNh76VVZbeYdLMZ
-CNN HD,tvbus://42RG199by3dDESBghkPfMYTDEdxNQ6rTPKbs5gBHRJygX9qnaQ
-COMEDY CENTRAL,tvbus://3ek7WDRMBuYg9jhyZ7Ndnn86GkontWWH5Um35w8Xc9Agp78dJa
-CRAVE 1,tvbus://36bdVM1niM8nkcV1RHK1E8zMDokCqjQ2PBhMYV9UtM2exgQEsd
-CTV,tvbus://4oo1vKu5tmpW8F5Jws2YhDq27Jnp9tmsZ6ovS3YuubinyRwrhy
-CTV 2,tvbus://3ZKcnGFcrWJKvgL8iBQosV1mY6rGzw4tJdJH6fJzZ3qJSycTGk
-CTV COMEDY,tvbus://4ryeYDSE5wNQcziKZkkvG5CqS7wcPG5DPnxom8BVNVdSVrQtrv
-CTV NEWS,tvbus://4MzL4kVkAcvg6d6tD2pKpeeECNuVes5pWarVhHHyM3UWR1rtDz
-CTV SCI-FI,tvbus://3vYFSLx3wN7uEPPsEbVmqisdgC8ixtGifguo49hnTHgHuyAJiN
-CW,tvbus://33kJ7y1jkh7xcRMFG33UejZ8D6eyD35eSb8CL3buoHBiY3T5Qs
-DISCOVERY 1,tvbus://4JXjaxGVQ4KgFfZf1axdzdyfKK3M3QKSExUnygu8rae7KmMeJN
-DISCOVERY ASIA,tvbus://3RVbUkDkHDWTLwresZnCniWYeaZz7THEt49Y8EFPa4cyLGYKVa
-DISCOVERY SCIENCE,tvbus://3JP6VsjJtPvxZpG1ZndW9TWFWkPrmQC2opXgP1G8DvnwpaQefi
-DW NEWS,tvbus://4YVkx1GBBoeRLtsMfzQ2iyghC9i2PLkfZ6j8sHMcGL2Z5sK3so
-EARTH TV,tvbus://4tAZ7Ub1xXV1odTFYxLKJyBW9JPxMWJencGXYjWSZMxEVmukbo
-EPIX 2,tvbus://4ZWBxjbPT7DKMdqdZMUDmKQzBZfFh713ymTNUd7ipkpQoCUy2r
-FOOD NETWORK HD,tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
-FOX NEWS,tvbus://2wwF5Jkrd4tU8D3WRCrq2Miht5WXCoPKsb8s1K38k7e2va6Ch7
-FOX NEWS NOW,tvbus://2wwF5Jkrd4tU8D3WRCrq2Miht5WXCoPKsb8s1K38k7e2va6Ch7
-FOX WEST,tvbus://418qUkXKL4arf7hUMbQtrw5PB5tgmpim8YUYr2zXmRumRPt2pL
-FXX,tvbus://389tH8NdesyQqiHUnjkeBSJShd3GVsh7tteHJQB5noHHxjHVhm
-GOLF,tvbus://4oZXNMBXB316Bwqf2skxAhg9aNEcPBiZEba7zERahtkNbNm8Dm
-HALLMARK,tvbus://4qaVcYCcLEtU9U95yPhGPJiY8ygzvoeKvpNa6r7VhHrpftjx8f
-HGTV US,tvbus://4Xm5zyXA7QwDTkRGU2zEF9zPPMxvsxKZqj8Kt7uKeWeaDjTJX9
-LIFETIME,tvbus://3up82kbSsCM2t5KVy4nSkazME1Wm7bE5Vh4Ns9uNxB55AXnsuY
-NASA LIVE,tvbus://3bNaxaYwC36WDRnwz16LaoUeNePEMXHScmCnvAp28mv2QGFz7E
-NBA US1,tvbus://3dqQgYoRen8R1XREVeJaycRVyhoaQHAp3ho3jqEHNk5t41kHak
-NBC GOLF,tvbus://46UiDE5CgdiodraG4UP4aABCdFdhcpJBVweN2THZSL8ByRQHmN
-NBC SPORTS BAY AREA,tvbus://32du9AixPi7fnezzv89MgsvbGdH9Yc9Pe7iNsjaeq7XtGuDtJz
-NBC US 1,tvbus://4BAS6LKWGFzjB8HyNhYjDFciHJ34UYBUZ86XZP9a2NUwD7Dv3r
-SHOWTIME,tvbus://3i3u6LpK1VxhzFA9PcjYDP1e6HwykGRcHCN24apMGrfGqKni7K
-SPORTNET 360,tvbus://3mJskCCr8GoSapwSkF8GTQGGNQ5T5kqGkVqQJdfD7kopawRX9J
-SPORTNET ON,tvbus://3Z1vKfq5yVxGtmn7pmKQVQ43Siq6fp9wjkfJUzUh3BgLtkbi8r
-SPORTNET ONE,tvbus://4Z9YVChGa1P4T94oeDV1mj8M3VdHuQurGqDuZEdLmaxN5KxXEX
-SPORTNET WORLD,tvbus://3Q6EJiuvyTQJV29kGZgdYw2L75Fqv72ppcnMY2WDLABzbeHduc
-STARZ  EAST,tvbus://3BNXN4my44CAU73ATeFSgsMeFmrzpGnejpAsRSvh9L1mKKJVZb
-STARZ EDGE,tvbus://4RXYN5gzYgNYFHFqSQJWWbBJfAvUfeqVhiNi17LobEvz5zmEDy
-STARZ ENCORE,tvbus://3mvgnHuZxTVMP8tC6qAA7wcGpcewmtiPPHRsThAMg93rnqrXn9
-SYFY TV,tvbus://3PPGYXXYK4Kp4P17DGLKERM7AXW2zHPNVT5CjXF6jzBnRWdgUY
-THE GOLF CHANNEL,tvbus://47Ti5oTUHw4VvpGfBzKMGgGmpkk3cPpqxpd6QfHFEXekgz2EF1
-THE WEATHER NETWORK,tvbus://4qFoKFo2j7YdbA33javL6bAapGDQCkT9HMXU7hRa5BPqkg5UUQ
-TNT,tvbus://3FWjRdCreAc4UQf7ut4vZrAKb2Q1HP2azfSvUXPTtGaKm2Hnkr
-TRACE SPORT STARS,tvbus://4LCLLKmZ6kgQMTFEcMyWpeAUds7FUYHLNtQe4L3CtdUtZnFcKY
-TV LAND,tvbus://3W5tJ5LwRQKGBSQ7ymFKEcqQ4vFcZ9KnwC9WDm6kSggNfinps7
-USA NETWORK,tvbus://3TwM2qpaqayba8nhFzUJZAuFGH5aArNoUhVkWabMn26Y2zMCYi
-USA NETWORK HD,tvbus://4YpMnyP4pZrZKL5CG58x4reRNQgiBWuvLS2NC6NwDpQSsDZq9h
-WORLD FISHING,tvbus://4gFdpQveSLNGVhKaLozCbLDT3Z1LanqvKzJLi8gUmVpeyrf8AU
-
-tvbus-臺灣,#genre#
-AXN臺灣,tvbus://4qLssqfQ5WHuC4Fwx1sCKqTVxxqzF9GYNXFqEoKjouu7TSmhXS
-CI罪案偵緝,tvbus://3FTRRDXZ3fGeKuSSohgd3Ha1X7vvciM5pWTgVHVRP9kmbcyKzH
-CLASSICA 古典樂,tvbus://3rAeNMQMRqf95XUdVc5qJBSaWUiLx6Ya1moUXHDXKC4LVup6cv
-CN卡通,tvbus://4QzPLVZ1jB4BSgXz5BUV3a5J5LjFWSjG5WFxuBZZ85yXVQexAH
-DAZN 1,tvbus://3ZuCH2U3YBQShWXiWYiZXFvb2wPj1AhxzxsLpTa2XjKdrFtT5u
-DAZN 2,tvbus://4D13MJQ6AMZqYnxa75k4FY3wACBrxBKE2wSYoeHwpXTP8mbcE1
-ELTA  1,tvbus://3jWfpipEi6rJR5aGHv2zQJLyodcJpAW7gGt2AdPp62F52VMkBz
-ELTA 2,tvbus://4FYx9MjNs8aCfkSCL7GqQJ5jHMBQvakiYPqE6nEujtsGn9UKDk
-ELTA 3,tvbus://3bxScykisfdkMkC1PUXdHnVK9kMJUWssKVsKVckkU2AFyYQB5H
-ELTA 4,tvbus://44WPFsfT8nbwx3SVnBxXzhfJxfSJh8UE7QTUZHcCDFyiUFGcUb
-ELTA MAX1,tvbus://4LhDaBRugkgVyqGizUUHYeHppZmZEcYse8KpNdmAMyKAXR7Kkz
-ELTA MAX2,tvbus://4s7oJBSrtyUfRYC19QqtTWddc3Ae5Wvv9vLxWpW3ZuuALwxvtn
-ELTA MAX3,tvbus://478Md8fex1oLJkAFunm9joe7LM8yhvR8bAZqFWHvGk4qGHkBsW
-ELTA MAX4,tvbus://4eWVts1WGtLjnq2U5DSrotHcvdFPjLWCYwxbDpokvnf9nnkMSJ
-ELTA MAX5,tvbus://424JGd2o5xWmJY5XfHJb1azFptHhx5avRkwYhpEA3GSM9ixLHw
-ELTA MAX6,tvbus://4adEjpmfTULS8VNY1KCnjkfqoExUtWtSXzWa1cSawsN2fYkYtm
-ELTA MAX7,tvbus://4mMqwK8G6wxbqs53GDdmoQUuotY4ChxeKs6krP5oXZaFM8hSWy
-ELTA MAX8,tvbus://4CZSVTG4gANxeicXswv1NQD1ftH3T9JPSuVpZXxg27TZmVDEgp
-ELTA影劇臺,tvbus://2xJL34zgjJwG4C1omwb8qLuCuiGidGULXkHrfUtef4fWkgj3MV
-ELTA綜合,tvbus://4Y3sck6GkwFstUcdqJUfg2TPQRUtAbqAamTuRyvj9WfJQzCMzp
-ELTV英語學習臺,tvbus://4gRxAXsdyputkuJ4wnDSgJMYk6m9iPiAvx96FWajuYqCtKhWvx
-EYE TV旅遊,tvbus://3hpxxBD9YadeVzoFJL525gCwxewL6cvbfKoWEo6gnnHxS6DMFc
-I-FUN 動漫臺,tvbus://3dYMBWApUCyLqV6tF4XMQGEGewD98rga9q4CeYyGpJr1J3VFqg
-JET綜合,tvbus://4ArGKPQR3DiHcmWKcL3NG8GisfcBoo7Z6N4wM227nswAwS3Ne3
-LIVEABC互動英語頻道,tvbus://4FZJKkwZ2v5J6N5pwUryHVsFB1MUw3xqywPPCvQQ8tQY8TaTyd
-MOMO綜合臺,tvbus://4Z3r9L1oDfRB16TtjSBBRrrhspg2TvsTm3yVJL8MhR9cxoFobr
-MTV LIVE 臺灣,tvbus://3ezuQZAjTDLL1DdA4zLaAYLBFhzLXtogbvzX5DnkSqL6SKfcws
-TVBS精采,tvbus://4nYn2zukL4zFEqLJdkQv78q8tsJCqZQUNT3H8gpXc2w4MG5tt5
-VIVA 1臺,tvbus://4XAG3U9G8yiRs9WD5Z5tDzUcX1CJkAGKrjhzs5DSZghKbPcNqF
-ViVa 2臺,tvbus://3p1YYfFAbNMkBXdLCY9Rz7DeC5KqRNR4Wy3DHmzcYuv3CDYYi7
-Z頻道,tvbus://3CJQ6QyfFMzwpUD5cmA5y6PYgsRkXPrhRsBv48fUeCeBNJMqKM
-三立INEWS,tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
-三立戲劇臺,tvbus://3vspt8zPM2AH7Yi5bVDLCuU3ekgHJqyT6XR9Pggi4HH9AJrvuW
-三立新聞臺,tvbus://4kya4uKHT3KMHvt7j5b2FbKH1m7zA3HwNDdz6oK3VrDZ4aEXYA
-三立綜合臺,tvbus://3PCDVt3xovX1THn927pr8dYy7MsdaCEeHShST6jkzo1KbW5sLV
-三立臺灣臺,tvbus://4kuAAuzLioajb4MeNVcxDXFaL2h4gDSFXRoEz9dxy6q2nHkeDc
-三立都會臺,tvbus://4DEEV5cPgwvaCab32YwjPKi5E8Fm87KreDj9QP7Yfo5vLjs1Rt
-中天亞洲臺,tvbus://3bqGbDMxNFt16EuH8xFYHxXV67wVGbVBsQhsSPapzKv4nWAvgd
-中天娛樂臺,tvbus://3b8LGH9pZN7ezVQSawYnbQX55jECtoGoCXfkKwZjeTffcfmNAd
-中天綜合臺,tvbus://32FRNW4GdxjzKc4WMuTCextAMJCW7QWsZPo66PWGZ7yTPvtVQv
-中視CTV,tvbus://45kPaFv9EYgf7VwcHrKqTKPmcL9kjzpgNfHeWi3mZh3b3ThbEH
-中視新聞HD,tvbus://3ahejT4bZVgftsKHzSzNdc3faYAhupSeqAYrikhMTkAVFHVMKa
-中視經典臺,tvbus://2zD75SHeMd1qsC2vWSiEWrmMdEsNbWRFZn95Td62rBUkgtwpmo
-中視菁采臺,tvbus://4rFLbVG8NMM4dYquQZEJfVDSQHNtNWrhhugpYpJAapwrm2mxc1
-亞洲美食,tvbus://4p2VWHqiEVC1gfx231A6Bc1STK4M6rsexjzhNkHiQdoEVNFtGU
-人間衛視,tvbus://4rfQasxohahUcTgZzKfQ8YjYwhsZt3uaqPzAeMXAgrvVpem8AZ
-佛衛慈悲臺,tvbus://3fVPwSLx8DRHb3kHeuTHdJSgF4ZnrNhwBGCA2PwRPqE7Q62BsL
-信吉衛視,tvbus://3QxLrKtdmT1YfmQbmSgJERMC7emFx46jeJDb2FraDPvqBrjEu3
-信大電視,tvbus://3LchpBPthZRY5wru3nX21EbaEAekptFGrWhU9NYRJKwj91wzNR
-八大娛樂,tvbus://4sAjm2BGonveguwZQGe6dV3UUhLqdGJQtTV33C1L7me2eVy5Xz
-八大戲劇HD,tvbus://4E4YXfSqRqAVNMtJJEPFu5WZwW7gMMWocCQDa6vNUxSWj5rwY7
-八大第1臺HD,tvbus://4TcGBvHa43HwtL25BwNBbgzS3XAmkx1vp86nYAmmJnRThHCPsa
-八大精彩,tvbus://34o4uBnDwSbsZ3SPVjWsgQ1D8ezM8YhryXHe9UzCsUuU1WMUVv
-八大綜合HD,tvbus://3m5HpmJ9RNThF8nc6eu2md28VGUzTYhzacbJvam3ZxHugpWjjx
-八大綜藝,tvbus://3sHstV8SUzDBVqsZK66EbNr7jKzZNHpN82UMgY89ynKawTXHEc
-公視2HD,tvbus://42pqX7d9T8nUMZbEMQVNyYYyGGA1saWNF5KaLwF9hS3uRytfJS
-公視3HD,tvbus://4k72XQXUA4VLJkmxhKJxsYrfy3uDziK2dQB68kS4KDMfBjRr7d
-公視戲劇,tvbus://392xzKcKjjJVm4cEZgKXSaJ97AW9xDFBFXcE3xkfSQJmZcW97B
-動物星球,tvbus://3JUUSQBCyZAX9vBQ71NXPD8e5iMcG4VX3pFcrsvJ86zmdn6Tbz
-博斯無限2,tvbus://4Gq1AejcC5mba16urQMqXvjpGfXJBEszPdoyAFeSnetSWFZTpu
-博斯網球,tvbus://4dW2zuTsdi4WAe3Cju1nnJKUyekdEseZyhA4KsGtGvxZz4ZrrZ
-博斯運動I,tvbus://3kGT7rkpv1vTriATv8QQerAZHDWz1y2fVGDGEX3rr2Kk3T6TYB
-博斯魅力,tvbus://4LWZy5WB8ngVR1MWjXYuqoKCughDLjqZAoZUKXtU9fiifoneDk
-原住民族電視,tvbus://4b5jGoXFAHR8QpqWCnf88kqzaGg17rjDU8uB4TKGKZoFCxSy1Q
-國興衛視,tvbus://31EN6n54aSztKTXEEojUof9R8GXKhkS6792EfAKmUmtxQA8gUK
-壹電視新聞,tvbus://4TyquPihFBKyn1ZgdLaZpBSREowTiQt7b2vpBGamFRSYovty7c
-大愛一臺,tvbus://48sMqednccJStNRU5coV7bWyuihbmekRZEV4tqCYD9Ysc9juWb
-大愛二臺HD,tvbus://4WJWXLZ1dSdzJ2s6kPixCgwYm4Fw5qRwCCVUkmNztdgWLgRMAk
-大立電視臺,tvbus://3o2zX18PdbrJvnaJR1CmtptpFvXCiLyBPAtt9hdKs2CGwhLJM2
-富立電視臺,tvbus://3otES4Us1GX9RuiRvJcPLyjJrxcF6TzK99bFHYBoSsdQNJuaCd
-寰宇新聞台灣,tvbus://4r24DWTpb3cXxw6AfRdTeyBqzH63rhGTBqqvxMspgmDLLAGk93
-寰宇新聞臺,tvbus://4N1jjWcvwRYZqiNk2JDQsx1nkKH2Pm7AEeyuwJ1xHsasuFjxnR
-寰宇財經臺,tvbus://3wqQijrASptVigzibK5UktWLwkLppqpWcoWmcgKimwHmV5jWgL
-年代MUCH,tvbus://3vHnG5zfrqaiEDZfuXFTPnAjpbGANjbEU71hvRwiwnpyxM74Aw
-年代新聞臺,tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
-幸福空間居家,tvbus://4cbPyhPAEG6LW25xn2H97Cxa5eDpAy1bSizwyAsUjvFv1t8r2f
-影迷數位電影臺,tvbus://3QqVYfQpzsKQswxYg7k3j3Nr9Dur5wyGFCNo9Hu8X5tCQBaa95
-新唐人亞太臺,tvbus://3SZsbbzjQQKpgp7fxvZB2CcZRsn6eAKR8cYgkDhPAUWhkQuctL
-智林體育臺,tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
-東森戲劇,tvbus://3BA9w9Cd3QaXwX98PvHfbJkrvPQahC83KRNuiyQzQhgunYu79b
-東森洋片,tvbus://3pL49aZD2TyhiQyWBfJ2rYC8sfp75oVKsPYfFuWf1QdBtdNGze
-東森綜合,tvbus://3ntc3awUV3uL4gvU3jp6mpp6rB2J5JbgDPFMLW4TasZED7By4M
-東森財經新聞,tvbus://3YrVKyuStTijCkH3qG8vWNjU2Pz9xSWwwFetEGdY3FPaxprja4
-東森超視,tvbus://2zrU3yEjeaQNcXvsLtaAFD5cExi2ZNghd3QT6f47PGCpag1jnj
-東森電影,tvbus://4bBhDVmAULzhMpGgKomVBPS9GJ5cXjrtrHSwCqnroJBvLbi3xt
-東風衛視,tvbus://4h1MpthRYZDGPgs2uQJ3knohvCPqCsFYvZrX2rj7oA7WxnEwoW
-民視HD,tvbus://4HNUo4MsvUvZBjEq1bVeS5rLfRX13b6DQe94kissSpKaLhrfQ3
-民視影劇,tvbus://3rVo8Wgm91bRjxAdRWP2FDvdfDXrSpHRzgA8Qgmy8KLcihqxAJ
-民視新聞臺,tvbus://4ei6np43Wc3FLxQAS5JST5S3W1C91D6cyVnfZX8qvBc6B6ASfs
-民視旅遊臺,tvbus://4ReSa5g49kfLp4LRws28FfUb2X7ZeVuZfyYpdY1GDGkkcRFmJ5
-民視無線臺,tvbus://4TYJEpR4srtT1bMLcReroYxtrCi1x5YSAUUwXBAYkx7Y6bbuCd
-民視第一臺,tvbus://4PxfSpG9QxNQQ5HkZ2QC34gwL2MTLhbEmJNVSM5WRFhaE6hrum
-民視綜藝,tvbus://436RpJTqUJNSxdEtWXLgurmMwbnLazuMQE9GYtazLBXDybxfm6
-民視臺灣臺,tvbus://44CUsMUojRx9stowDEvzQHdoVTfzs7ktFaMUUVUL4eVv6QqPip
-海豚綜合台,tvbus://4PrXiqPC4snVisFUAaVLYi2RFrsMZn748nahZmb6BrEtdsm8CS
-生命電視臺,tvbus://2xbPSqfzDjNFpJYn84QsUibT36y1G7zEZAAyTSJgp9qsdnEpcf
-緯來戲劇臺,tvbus://4o9gmbWJB8HPTYD8gnwAGQLRcyd36YD3ti2C8j8zSBhmmTfdK8
-緯來綜合臺,tvbus://39nEFnAyyknVWrUTZD66LoWsR93tg94LSF5XdFdPxrMAYZ6x4X
-緯來育樂台,tvbus://3FaTHvPJk9a69FjsDEo2hX2PqHchW2d5TUQKWFz18AhhGu9UPa
-緯來電影臺,tvbus://49FAvpQAXECcTd3NtmsfUY2SHTGLsrVVaWGDKawvzbW8pWm4Hc
-緯來體育台,tvbus://4cQCh9Y1WFHtp3cvLck7nosWtjwNWFNtjFKf3nTfvJAcU3p7DH
-美食星球,tvbus://4jHM6mGBeJNHsL88y532oZEqWjQwGccjxRCsh7hj5FaPjexAJi
-臺灣戲劇臺,tvbus://4rXW5TUqe51TmjWpF78pFwuTtCN48rbq1uQPkxkLRwoGDawmq7
-臺視 HD,tvbus://3U8FKSZ2PmGgKTCsPGLWqJRYK8z1pocfBihKtNaK2H1WZBpqhA
-臺視新聞臺,tvbus://484Ufuv46TtcFDsG2i4eGXWuFsTsxcVcWkVrJqeN1bezbPpQso
-臺視財經,tvbus://4Z4MbzreJRE8ZiNEr6KhFZA36mUsb89rxndv9Adz51Axuv6CNX
-華藏衛視,tvbus://2zHhUkbfSjR3QK5SrDQz5nz7RVtpf47AdY6DnC7s1xGKmEgrQ2
-華視新聞資訊,tvbus://3VfgAyBCsuDVt1b5qJ1NSenkT5XNb2zDLKQ9aE8R8EKetji7re
-親子臺,tvbus://3o1kzZCaGbiKLhWgxwkMwuUwRdELqCcPXjLYwsED2CL4iN4YVv
-達文西頻道,tvbus://3j9ddVkqgrBLssruVmQyhYSRu2kxdyYhBJhVbBN1F99cmVuN1n
-采昌影劇,tvbus://4cjCHVMwWKQP68bi1ZWuhyRm2UA6eMs5Mp78EvZmC6DdXiRdeG
-金光布袋戲,tvbus://4QQfoS23r1YFDtfYw6nVjiRDys1qaGPJmKaH3xVjqfpQWGkbBk
-電影原聲臺CMUSIC,tvbus://4qfCQ8f53qHjQwRqfEnKRs62es6FZUfTNHt7NS4zAuwmovNtHe
-霹靂臺灣,tvbus://3hStem9nCVuhdEA8vmuxNrUNUs9Ka66wUxdkTN7HjHTt7n9dX7
-靖天卡通,tvbus://4bZGY73XLzPL2X8bFfH49Ln3ekY2a4MXbA95NzYEsq5GN5Nif7
-靖天國際,tvbus://4guLGH6vyMVxUwCZ5gd79vEjFeBiWvirCNVdMZEuNNN1vxUHqR
-靖天戲劇,tvbus://4ZcuJsH9qFkjqMditnKzd6cmEBwEsK7AuV39a9Mq671JNZXYft
-靖天日本,tvbus://3pwKbtBRso95swUKKzc2jaMEtkpRSHacVT1fa4gbBMwe9FxMr2
-靖天映畫,tvbus://4U8GA3DnvSwRTyADCdkqHqPPo7zLDfJrZGxRXTyHXMptnQCry2
-靖天歡樂,tvbus://38wocyAsqkzidRB1P7EY8n8VoSXtUieozgJD2Vc7dKEuviaSFP
-靖天綜合,tvbus://39mPFNV4waSTSAR7jng7WwoL6JVwJWPEK8MrEVynEa9YZ2xLKW
-靖天育樂,tvbus://3ZvBoW9qnenvdjB4B2EeWLbryx57mfG22WY4c82N3yfXzpiszE
-靖天資訊,tvbus://3CDXScLbjsz3R4czA3PoE1zDyBcLcQBp64mghrWEiZeg3pgBUD
-靖天電影臺,tvbus://4LtYii6KSHZuyALebuV7MJaK9c41sCWgiaezZjqMJLLVNUWHZ8
-靖洋卡通,tvbus://3WswoWi9ynzFTtEU7PTJ5u6wmxXHeTyQHcm14iuZ9K4q2vQtdC
-靖洋戲劇,tvbus://3z4aAo6nnZxAcaDf2Z2tJfvPr5STRBtsizmz9j45eHbYqRrpJZ
-非凡商業,tvbus://3He86yfvFyeWD4rsQP2f1wH7xURVZ5yxwHdG1qUhE958u5rWHW
-非凡新聞HD,tvbus://4pS6LgmNPcYDLhxED97FYyU6A1gSA9SMsvo289xFmFKDvptFQH
-高點綜臺,tvbus://3kixneRAYnSrY2cnXZQC5y9VX81s8isR3kCSdkrNo18ydNiTy4
-龍祥時代,tvbus://3dXd2hfkJrCXxsiiVfMs29a5euSByTys748Rx4UwwM2kowbpPw
-龍華偶像,tvbus://3eBZnFK5xAkF2c1qmU38VvdeEEEzgyePUbXNe5vNSyGYMFZMXt
-龍華戲劇,tvbus://46LeZqqBTKxT9XqJi2VGX3j2akGEZ5q7ywHaVUXPF15b1gLZNP
-龍華日韓,tvbus://3dtfFz6ziA1y2YTUtA1UdcZyT7rH1vZr4GmztyfzfL2J7jyHtg
-龍華經典,tvbus://3FcRikdCe4zhXhAyN71x2KziZMZvtvCSHF1u51Ang5DVFHCvkU
-龍華電影,tvbus://3Q6wdmE3gqDgV4dVr1MMY6jkgnT9m8UBpYCqAFEXnxnWTCCW2H
-
-tvbus-英国,#genre#
-BBC ONE,tvbus://2wnJq4gFfyDETKbVG67yuWpBLprWnQH358dXAPPVgXmieBt8Cj
-CHANNEL 4,tvbus://4MyucMTmpkgwzxM3xxAeKtp9a5uNL9dMQVjGe8aJ2bQfNULmAj
-CHANNEL 4 UK,tvbus://4MyucMTmpkgwzxM3xxAeKtp9a5uNL9dMQVjGe8aJ2bQfNULmAj
-ITV 1,tvbus://3FP3scFyY5m8H1DqLM8DV9ApR5wDryzR3BWJr4xTHLzZBJaDUB
-ITV 2,tvbus://4Y24uXoprMjYvy8KecSQUTfqTnoiuR4kmrd1gJtcTRyX3VPFzt
-ITV 3,tvbus://3FEVKq9g5BEwqYzibFYmocseXebUJxEnacPgnVUZwX9tyFDRvh
-ITV 3 FHD,tvbus://3FEVKq9g5BEwqYzibFYmocseXebUJxEnacPgnVUZwX9tyFDRvh
-ITV 4,tvbus://48cLfsyCswYEXJcV7FLUohXmEj1ScRipGKKFeGMHazZL7CkdHZ
-LFC TV,tvbus://45VTARrcPioTrqxppMNBZ67Mhyf7rSUjFnbzgvyLPatE79sLke
-SKY NEWS HD,tvbus://4XhubjpRUmUqKbSS34AewBUoxWQFBroMS9ikPc1qQFVaQCbeP4
-SKY NEWS HD 1,tvbus://4XhubjpRUmUqKbSS34AewBUoxWQFBroMS9ikPc1qQFVaQCbeP4
-SKY SPORTS F1,tvbus://3bdcWNhF3mem5tCfvpMUWzTT5A3HAHGwjfWWRovyYbjQkzuBiJ
-SKY SPORTS MAIN EVENT,tvbus://4meLDDATrBb97X5H1rP2tqHNxSqE67CfxULMSwCJ8dx3Ahtumd
-SKY SPORTS MIX,tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
-SKY SPORTS MIX 1,tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
-SKY SPORTS NEWS,tvbus://48ucGUPxqfvKX7mqZzEcKVPrPxPTzEP1VSdkFpRXsstrYPJzo7
-SKY SPORTS NEWS  1,tvbus://3DeoXn25P3nqNpnSukLSzNRNnLtYB58fJKUMRZAXL6b18pF7CR
-TNT SPORTS 3,tvbus://4hhMgTm25VRGJCktEZe6379aoTUEvivGs8J9NuxurGatNhBNCC
-
-tvbus-菲律賓,#genre#
-A2Z TV,tvbus://4XKBi29YFXN7YevjChbXmofKv7PpQVXzp3tH73QDw9zV8dLf1K
-ABS-CBN NEWS,tvbus://3dkyso8RqE3Tnuo8XZY273L4Me2uBF3LLSWK8fBWqFdzkj2M7E
-BBC EARTH HD,tvbus://3D9Nv9pNGLssbuos5n8ccYjTS4JRm1KGRfE9v779PvXvxCDuMr
-DISCOVERY CHANNEL,tvbus://4PRxqXjR2DANWcsF5QRoLMapuGmPERFygcn8AkQovcxh9rJXZA
-DZRH TV,tvbus://3YcHaGN1zGuXVDQBLfhAjat64sEycGVnwe6Qg33fBMDi6o996Q
-GMA7,tvbus://4Vxt9458uvC3cafijGmFFULVx2jL6dmL1XktNTJMSMiDVi4FhA
-IBC,tvbus://418tXGiio2LTQnD6som15FiC1hakLDUDoDXb5mdTAa3jnMEpfU
-PBARUSH,tvbus://3PXxXb5T5GDRuHHKdctQFbQDAUDMJEWxRP5VBamBniLAJG3std
-PTV4,tvbus://4kgsjQQ5UJfd1NLQAmXASRLXo5jkDJVCkaDPnkuGLgtwidiu11
-TV5 TV,tvbus://3nJ3xSy2ETqFmumfTRiW3jJEBy3XAxKaffNeVSLxBazviP4Xiw
-
-tvbus-越南,#genre#
-ANTV VN,tvbus://3khjVWHxFd95YWTbFkYnhxNwCMQp3nccf9BexVhAaTRkzCtkUR
-BBC EARTH VN,tvbus://4YTpRyjXrLGzVVbvUmyeWTH6yX1YpaDENc5188eNgELuMa7CaH
-BBC LIFESTYLE VN,tvbus://3dDa4teN8QbXLeqeePDVg5yQ9maiKHZyNW1u3aP4YFPR2cwiBU
-DISCOVERY DMAX VN,tvbus://4bDyojJyUBBb8bMYPgvNRWh8LmamrFPon8Dd16H4TxrnBTe2Ph
-DISCOVERY VN,tvbus://4JXjaxGVQ4KgFfZf1axdzdyfKK3M3QKSExUnygu8rae7KmMeJN
-HBTV VN,tvbus://3aFBRYAM8vqCh8iEEvG5o3tHsqytJnfPTZEn15NTyP5rRmqBd7
-HTV1 VN,tvbus://3EgQSmUzEqcZJ9nmyZbz6s7RAsMk9h1PKC8ijCAvhsdZUxPGc1
-HTV3 VN,tvbus://4rNLsZMRHZF9u7jgiNg7PVcbZBNKAMYY9SbCkR7HnrpwDYx2US
-HTV4 VN,tvbus://4gvz8eXHK4XoDfsUR3YCYPnWkWHVeX9bm2c9LuJrLuam3WTh2c
-HTV7 VN,tvbus://3YQ2kVETeSuFWy71BHQnJk3U9PgDLA67rLAwm42ty9Rrgf6C2R
-HTV9 VN,tvbus://3TE3ZwU2E1SyzkVBXJ7fDa2rjhzguayV8RZiXDbMMeREsRUniE
-QRT VN,tvbus://4kW5bYNNENeAWQSeqQr3ZGEQkx4gxp5ELZiFpKb7xPyXnMGn9M
-TIEN GIANG,tvbus://4NFnSVrDbkwSTnbLLVbD2u9MniN68ocVW8hpAJbAJriTfVsmp6
-VTV1 VN,tvbus://4DZnLUVuvM2cGgxpBHnrgf5EwuivDXyRvzjrxHSkWBcVtVJNbE
-VTV2 VN,tvbus://4Uqdi1e7KLHtMrFMbC3CFY8pqdo516ANjjimDfjueHoT7NHCzA
-VTV3 VN,tvbus://4jPUdNLJDqRwAoiPPuYSbqRNGRvMApkWWsG2vEx7n7CXSKrrWs
-VTV4 VN,tvbus://3BCkCwf2h2bJiZameMRAJ5EsCdTFH8ztyhEtNhDT6AejDHMZM3
-VTV5 VN,tvbus://4H1YeWoUXv8NSD8CdXN7GTDQefubLjSFVYGGTK3nz4Kx6KbAds
-VTV7 VN,tvbus://4r2F6wkRZqaro2efbiREHQ31mZ16ujXXjqd1sy8QPSgUsvRGFK
-VTV8 VN,tvbus://4ccbHp6kVwNku144zsSiqiuuUyULSkAufPWNXcKZV7E1A4JFaC
-VTV9 VN,tvbus://3tEpBHTdnF14SxkSfhGQ1h2ez6Y9yS75idyLedusrGncCqY9hN
-
-tvbus-電影,#genre#
-AFC,tvbus://3SayXZ9NLz9UZ82GuPE6MSBj32iySaJRh6Kw42GMBJN3KjwJAG
-AFC HD,tvbus://4P1UL37ZTVyRGj6nL5MH4qyw1eo7djH1R7rNyf4K2S32UrC87x
-AMC電影臺,tvbus://4Gkd1GeLhAtoG427cJFtizrUsZi5KnxyAEqnQ8dS4hVMXemarw
-AXN 臺灣,tvbus://4qLssqfQ5WHuC4Fwx1sCKqTVxxqzF9GYNXFqEoKjouu7TSmhXS
-BOO HD,tvbus://3ceKNKADMa3HJQymvpsEGf75FTqVa8bWzvZw4oPkJcDR5udmZr
-CATCHPLAY電影臺,tvbus://3MgLGQvSfDHdpkWooo5cXFCfNZLpuw5K6jVjsy3hMUMh8aeCFu
-CCTV6電影,tvbus://4q6LqaEh8Par3c7XnzDzFX8PJWWKeyPh2d1HxWCYoAPzzP2wbj
-CINEMAX(TW),tvbus://38zCne9aznRG1EqnXZUK24BwEioDJcJqDC5BJA6dRVxjWJ97YF
-FASHION ONE,tvbus://2y4Wtf4YaaJCieH4FTAzDNvscjzgFYvYQWA5YBvHRWhUz1gyD4
-FOOD NETWORK,tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
-GTV TV,tvbus://4E4YXfSqRqAVNMtJJEPFu5WZwW7gMMWocCQDa6vNUxSWj5rwY7
-HBO TW,tvbus://3ptVUZLXCeTrQBukNCyYVSQyGzaYa1FdT4ksghbXpghN1DT4mb
-三立 INEWS,tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
-中視菁采,tvbus://4rFLbVG8NMM4dYquQZEJfVDSQHNtNWrhhugpYpJAapwrm2mxc1
-亞洲美食 1,tvbus://4p2VWHqiEVC1gfx231A6Bc1STK4M6rsexjzhNkHiQdoEVNFtGU
-全球財經台,tvbus://3etvW5e9rsVKa8SQWC6QCck8kmGf6ob4QrqTjR8vZBcpFMnHVW
-台視HD,tvbus://3SUooGi8DtpxToUapPkzzugLz73ZbFNxevNMc9pztwAHrLHcwy
-國會頻道1,tvbus://3hr7VCsnYNGeshiMqk71TzPNHs78RgCrnTGDgbYEVE3hFabGYM
-好萊塢電影,tvbus://4bxHwuDVHBoiJUZ4ybdDySvMwyhnyQGuRsMmxgBUAgvnS6gKgH
-客家電視,tvbus://4WYpYGgG1Y5CNmbf9rcvjc2eN1H1fPfHz4x9beCzv8gcyRE2dD
-廣東衛視,tvbus://4H3kZ4HiFvsbMLnMmTuhB2eSrskfbAvohP6BcLmebnCnqGTfnT
-新唐人亞太,tvbus://3SZsbbzjQQKpgp7fxvZB2CcZRsn6eAKR8cYgkDhPAUWhkQuctL
-東森戲劇 1,tvbus://3BA9w9Cd3QaXwX98PvHfbJkrvPQahC83KRNuiyQzQhgunYu79b
-美亞電影,tvbus://4VLYSdkfjCy84x175C5JCfAza81b8w2aGqHBLwKE7sRKS33Kq4
-美食星球 1,tvbus://4jHM6mGBeJNHsL88y532oZEqWjQwGccjxRCsh7hj5FaPjexAJi
-霹靂臺灣臺,tvbus://3hStem9nCVuhdEA8vmuxNrUNUs9Ka66wUxdkTN7HjHTt7n9dX7
-韓國娛樂KMTV,tvbus://3bBS6hYAg5vUt5b7bbckZwZ6GMhqYVhhPND2g8Ni1QoiCtTgzq
-
-tvbus-韓國,#genre#
-CBS,tvbus://3suqRHHLfmwuKxh4eQeTjrNRYe4ziZYHTaEniwxeHvoDyEEEcF
-JTBC,tvbus://4HScJcfKWqnFUuFZGuCa6vWQUb4RPPo7AGr8VuEiZFfn4Pjjst
-JTBC GOLF,tvbus://4ZfvVSzhH3oJg7Sk6H6XTHv8hB65rcYGUA2BMHMiSdxo4FnzAR
-JTBC골프,tvbus://4g51cktNNBwh7XcVzLq22tSccQ8sihqTAN4KcVcR1PDwYsd7gF
-KBS 1,tvbus://4rDTwcfcrJgaaGCwRNivAxYpmqms86jkRpns2dSq9T7BM848p8
-KBS 2,tvbus://3FfwdtbnZsgvVjmxyrTdMR8XjJg1bL5nXiSNBUtgGeHmPG7iri
-KBS KOREA,tvbus://3GkcgSY6xmGnC2YUrZ7UrrY9eLxYS4eYLSbnBACieXD1Zw5vkh
-KMTV,tvbus://35ro7M7fwVeVyhkMFBPLmuQorTjxMk3CGFYGMqmpVEKcV26fat
-MBC,tvbus://3C25owGRbgv9nFsJuyAJZHdqzusdWZUVSesxKGvn4tqkub4Fbt
-MBN,tvbus://32YNKeiojNXPskDkBVKCN1m3iRJtWDFb1KJvoN1fs8QEQxmqiD
-NBS골프,tvbus://3VkCBT7ubD9H9y7VYnf5nTtemKZp1oLvNicKaS1UaM7G4Uiv1K
-SBS,tvbus://3KrNNTvVowSC2g8xizAeSfi7Gu3X53x8LXBaC4BQyFiPCZ3W9u
-SBS GOLF,tvbus://3WApZhRuETDjnkyrCXv5H8twoV5bjRhBEGduYNgixWvJ4Qy9hZ
-SBS PLUS,tvbus://4iEdjEEgfDTRqQ4KkwmE19dSdn83tT4e6uygTHkWMU2evTsbaC
-SBS골프,tvbus://3b1fpxSz71HMgxxvC6dWY9Qhgnh5CqJZCtGmr6wKyg3FScigbi
-SBS플러스,tvbus://4TCrKBHtVGXGh8u3XpUrtEWbGshx6fH4FF1fwMue9yy5pFb9Sk
-SPOTV,tvbus://43FVg2mhYD7ZPwz5z27MKrZR7PDfc2NHzTTK4fjj2FR2nhcKUP
-SPOTV2,tvbus://4SHEVxbWDY8JzFBEMP7fCCxVAdUDNoDxHNCDkwCK7wVPqEegnr
-TVN,tvbus://3173La3sCXWK96PNxXy7iGRu58D8MLZgv7sGiCBmtzjubtidcx
-TVN MOVIES,tvbus://3ERU71FfqYa2SipemmTjKyuEhPXiytoBArBbgsX4gxxcyojYJh
-TV조선,tvbus://4S73yuoNMqCAXs44NSzrYEaAtf2C8eZfPrKhBRp1pvSXTCxCef
-YTN,tvbus://4ki286nCjfgBod7uWizudJcbRpZVEkjnJahrAqaWMDbpQ7mBwc
-연합뉴스TV,tvbus://3SQg6vgXim13D2LLrfMoEUugb7KMX4heu1mKJJYSbvgPkVt5P6
-오락 KMTV,tvbus://3bBS6hYAg5vUt5b7bbckZwZ6GMhqYVhhPND2g8Ni1QoiCtTgzq
-채널A,tvbus://3SoZb7EfYn6cVG5x8KmfBGf8JRQkK8QDMvgrrK5TUwKND45UAK
-한국경제 TV,tvbus://42fvm39DYqs26iqcEJLgJeCWKVV782RTZRsdPqEw1cuM8U6dVW
-
-tvbus-馬來國際,#genre#
-AEC,tvbus://3EBPLuBYfNKUrX849tsoiW3B8tmvTvcVrQwU2AT8AAVBwueixa
-AL JAZEERA,tvbus://3o12REeSd8yEh8cPjMh9S4LPDWgfqWXWBGu9a8QdVnAbiEmsKJ
-ANIMAX,tvbus://4ggBzgtHgwd6k7PiniB9VQSotUGHDZdshHH2KoAbVJz8TkwS29
-AOD 311,tvbus://3X8anbo6gKqbqWkKowJVznsDHARhptibXwuGopv9HkwcYwzL7v
-AURA,tvbus://3fWyNATbKvc56NLjthre3QazWc8GzpxXpTVdHmeHy1DPyG3fLW
-AXN,tvbus://35LoV1VnsnhnSpu47bHZK115eNwT3rrBqyTBZgukijC5poyAor
-BADMINTON,tvbus://47NhWn1YiHMwtjMvkMaLhdMjVit5fNtfrLFLksY3kFPLDRvz3x
-CERIA,tvbus://4QTEMBJyq6WdAja8QhWxKsdVpY6hx2YW6MVsn9M5o6XEdVv49r
-CHANNEL 5,tvbus://3xXTNyBszEioxGfNGrXQcg2gtUny4fDDuJ2fPh7Gmx6ZG1ESQ9
-CHANNEL 8,tvbus://3aps7BaKo3L9ANN4bdB62hbLWoXQ3Cz83cFfpkvg4H3nTgfcyi
-CNA,tvbus://43mKE1kmYHosgWse7eqiXjGDcWEFchUXCLL37v51QMeoEAGQYS
-CNN,tvbus://42RG199by3dDESBghkPfMYTDEdxNQ6rTPKbs5gBHRJygX9qnaQ
-COLORS TAMIL,tvbus://4jDCSKaWTfsnAYQe72eofUZ49yFxQJWZvAL4N2p6LBfbvi9CFQ
-CTI ASIA,tvbus://3wzq4GPP8uuBWQoTgQjVqJVHA12A2okgbB5JPzL7iN7ChB4F7p
-FOOD NTWK,tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
-HITS,tvbus://3h8y1QhrjmuYuupLK7HF8rNk4KFKQQzMJZ5J6uJ5vHmxTVDPpt
-KIX,tvbus://4B4fpC9FkdBFAx6YPGHVkEFxVsyijyfUCtvPRSv24Au1kY3SoT
-PHOENIX NEWS,tvbus://4egCPJWcynuKwPZhfGPoVvJaNwoaNpiJvYagL2VkWEiA14kpWd
-SUN TV,tvbus://4NGEcNNnmRBpuGg7Nwr73e9kQ5XYi1iBMhrX1vLgqWGtopGZDv
-TLC,tvbus://4oqMTnZKh66vpdokcBDHtkaMDkqpuoZjG1reviVADfJsDGvMBr
-TVB XING HE,tvbus://4qxx6HaJfmUJGfRHa1rtY1ScQKsbQCDEXsRuQHQUtup54p8wDj
-全佳QUAN JIA,tvbus://3JEDAzjQwV5AdB9g1MDsm62tCuGArH5Lgh7RhX5Uuvj6jSRGbH
-天映經典CCM,tvbus://3C5SViYpSBaDcywjAHd1khayscUjMjCDP2DpHNBote7dQvgDnf
-天映頻道,tvbus://2xGLJVcu2CHDLabmrVZsXSHGD3Zq6dg6cfzBpHG954SvCNn92o
-愛奇藝iQIYI,tvbus://4RJePu2N2iTys5sWQ31pT5HsdaSbEmZGJ4t1ZL1NgmgTxop7zd
-歡喜臺 HUA HEE DAI,tvbus://3o1H8njwb6QDbNPYLYmapx8PeY9TmX8qwgRzQxsnsnY6yCT2Jt
-華麗臺 WAH LAI TOI,tvbus://3uxehX3ewvnYXZSuy9vsARiCKvcsyzUhn9HS6jwXMWSYW5wnbK
-
-tvbus-體育,#genre#
-ARENA 2,tvbus://3xpDDGSVArTL7v1c8oDutPwafMWT8KB4XMixBjRSTog8rKFnYc
-ARENA HD,tvbus://3YpNaHBYR8Cwd4EirEfv5FuVAEHSgfYQAHYyWytRzK1LjgH18d
-ARENA SPORT 3,tvbus://48232frJHrrxxrxoWbFHrrHf8ceJf1riydnTP3TzAPYLRkdu3w
-ARENA SPORT 4,tvbus://4cNwc6r87KUNBbYvvGdnsTv4pCqcZt66d2oJM6PKQm64yfdJVu
-ARENA SPORT 5,tvbus://4Hj4gSSEJwJBPEuUmeopngj9eSQVzmCZbAsp5Ujr1jFqAnu5Ab
-BEIN MAX,tvbus://3DZQbZALJrCQfpQxS1gwDmn1Ez7eSXCeZBm82FrgYje2iSgX97
-BEIN SPORTS  3,tvbus://37MLQNqRJn8bWQw57Mkhu3zWJ1fYE3t6cTZgGtXkN1KkKVkudk
-BEIN SPORTS 1,tvbus://3YEMcHm1MXReVu89Eb2mABYJGrMEWWPLpHHjdazcNXoM7bxVU7
-BEIN SPORTS 1 ID,tvbus://4EWXQ6kC3nkAK6V36wmt7Ptw3njGvFvJsTpW6WePWSJejNJ8ah
-BEIN SPORTS 1 MY,tvbus://3ZhdD11JeXHuRVBttrkPS9N43xiD68bC1LNXNjgjRjYBjRxMcv
-BEIN SPORTS 2,tvbus://4WJJuqu3kZLPKouJ9MNKdpcpZznc14HQTZ5iyd83Cv9fEzX6We
-BEIN SPORTS 2 ID,tvbus://4sdmL8iizmb8jyx9cApKF7TZrZMwrJLr1XWp8ywwoDYVxRTNAY
-BEIN SPORTS 3,tvbus://37MLQNqRJn8bWQw57Mkhu3zWJ1fYE3t6cTZgGtXkN1KkKVkudk
-BEIN SPORTS 4,tvbus://46J1qBqYVYHz3bJ7uYXKLWj7e9G7qzRH6ihgrDAHAs3gb8Fh6G
-BEIN SPORTS MAX,tvbus://3142vwmMDbpw5etwYxWRUahA9YpNr52wt7NrbnyhQT9JB9656G
-BT SPORT 3,tvbus://4hhMgTm25VRGJCktEZe6379aoTUEvivGs8J9NuxurGatNhBNCC
-CBS SPORTS NETWORK HD,tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
-CCTV16奧林匹克,tvbus://3jbJNFGEiEzLNwK4uuU35a2nWTAqnm2y89Y1TJgSc9wCq4d2TC
-CCTV5+體育,tvbus://48zae9UAzWTHn9VyRyJi5zKD6uP1c5E8uxs6nBJTyo1tXEETgX
-CCTV5體育,tvbus://3TochPyHvvaLN7htujxPkWrKcppctJG9ZgS9YUHMeSpWh89osG
-CHAMPIONS TV 1,tvbus://4fddEnCMpyP7nywuBwrTR16gYxHXgruM9oNt4KdPZj6GQTbcL6
-CHAMPIONS TV 2,tvbus://3ZKW5NPEeXiMJkPoBDj8UDYe4RyvdawyGc1DhN2TyxdgHVBk4j
-DAZN TV 1,tvbus://3ZuCH2U3YBQShWXiWYiZXFvb2wPj1AhxzxsLpTa2XjKdrFtT5u
-DAZN TV 2,tvbus://4D13MJQ6AMZqYnxa75k4FY3wACBrxBKE2wSYoeHwpXTP8mbcE1
-DIGI SPORTS 3 RO,tvbus://3zEKg8piR3UYRxkZFiV23Bw6otXBkhd4iLFx6t54i512GsYwCG
-ELEVEN SPORTS NETWORK-US,tvbus://3T7YECRLNimaPLfFQ4JZvTtke4bLggBr1dy6j6UEdhRbCnRi6f
-ELTA  4臺,tvbus://3FiXx5k9GUFfxqPLX9FFcYe61VrXJhJHmTayqsqDLdbxv7xQf8
-ELTA 1臺,tvbus://42ni2DCnZV6WzFYk1hTYJzv3HzXNxbFyHiJHFfLrY1vt6RjmUx
-ELTA 1臺 HD,tvbus://3jWfpipEi6rJR5aGHv2zQJLyodcJpAW7gGt2AdPp62F52VMkBz
-ELTA 2臺,tvbus://4EQyoeS1YykMSSiESW9G8mb63sZ5wuiAQdCBX28rNNn58ojZfW
-ELTA 3 臺,tvbus://4PdmAyg6hUaMpZG2b6PUvXZ8utd1cecpxtw2GVA8eoGJFEeAxJ
-ESPN U HD-US,tvbus://49WMyaFa3dH1kqyFV6eZD5fVnDvtb4dUJDTuGkSY6jXmj9ndeM
-ESPN-US,tvbus://3GGa9t9hRc7B9HtXErYHuCiShiDnazta6YPGLW48vj4PPy3GWx
-EUROSPORT HD,tvbus://3GN7Ynqnc45w6YAnCgkW5PSpDbgaiuw74gypdvMDBzheF9fc2r
-FIGHT SPORT,tvbus://3yySDUWJtEgq2bgU4aXjN1H5P9CvcCDZC7qGd8RHSjy4eLGr2S
-FOX SPORTS 1,tvbus://3GLQLbwdb85n6NEhLcfGCZzgKQFB2VsfG419ktyopzgmWNQCUh
-FOX SPORTS 1 HD-US,tvbus://3GLQLbwdb85n6NEhLcfGCZzgKQFB2VsfG419ktyopzgmWNQCUh
-FOX SPORTS 2,tvbus://4eNpKnMrN1FRCJekDGG4L4WKxt5X13HhENvmsn7Ed6sDL8kq4d
-FOX SPORTS 2 HD-US,tvbus://4eNpKnMrN1FRCJekDGG4L4WKxt5X13HhENvmsn7Ed6sDL8kq4d
-FOXWEST,tvbus://418qUkXKL4arf7hUMbQtrw5PB5tgmpim8YUYr2zXmRumRPt2pL
-GINX ESPORTS TV,tvbus://4LyyhkQaZV8deFcdJxyTugf4akwmCWF13ZMVba3cMqcc8rHp61
-GOLF 1,tvbus://4oZXNMBXB316Bwqf2skxAhg9aNEcPBiZEba7zERahtkNbNm8Dm
-J SPORTS 1,tvbus://3aqYifPNgVtUYp51yURkiX7g2xPC2sdyd1RP8Gz5vKHr4okBTn
-J SPORTS 2,tvbus://3APzHANfQ2norEetdr1P3sXFxSFcFb6xyrvX89EzP3Jzj2utg9
-J SPORTS 3,tvbus://4qF7fyEY5vePA4srPT9MHtPAKRGo99Kz8EBuC4HnE2JhEyMEGd
-J SPORTS 4,tvbus://4raGqo5WLm3fEiz9EsVTtfCKGbGoSqeqc9Bvb9829UHpqVB79Z
-MLB NETWORK HD-US,tvbus://3hWe9iYw5X6dvz34NCSpBRYWe52LwNE597aEVA2RsHeA4DpLn5
-MNC SPORT 1,tvbus://3xAb9QTNkLx9CYwfdwZ1vkpSq8JCzukTmFSnHv3K5vMBXJ7fvq
-NBA,tvbus://426GwAN4KH7ADi2p8rzMoUxWP82vx1KcapuvyRTS2TfRHKwRHM
-NBA HD-US,tvbus://3dqQgYoRen8R1XREVeJaycRVyhoaQHAp3ho3jqEHNk5t41kHak
-NBA TV,tvbus://3DJ57nv3hnu41sPX5CznVTEUkHYnhXqZA7ZgHYEZcL6nJuLzVf
-NBC GOLF-US,tvbus://46UiDE5CgdiodraG4UP4aABCdFdhcpJBVweN2THZSL8ByRQHmN
-NBC SPORTS BAY AREA 1,tvbus://32du9AixPi7fnezzv89MgsvbGdH9Yc9Pe7iNsjaeq7XtGuDtJz
-NBC SPORTS NETWORK HD-US,tvbus://4LdsaiGAf2q4FP6ia9RU5mK9NxLEhtmYmnfrx1tKqBf18KgbKe
-NBC-US,tvbus://4BAS6LKWGFzjB8HyNhYjDFciHJ34UYBUZ86XZP9a2NUwD7Dv3r
-NFL NETWORK FHD -US,tvbus://4MLUyAG7VJkmBR7bSBt4FH4FooJgxnrHxHL5MC9HVtsYisWAai
-NHL NETWORK HD-US,tvbus://39xMBvM9FW19udC57dX6BkSwNUHd5jbDsAKgL8jSsqPE5Xr5AW
-PINKFONG - LEARN & PLAY,tvbus://4ce5T21gZUQKawjdzTWS9iwvQUJ66Pge6g8HBip2CpioG1H59E
-RTM,tvbus://3WoHPjFY9xt7Rx4zZA4dJ9FhM3VQnTKXALkmZ94YNHdEPKoYMC
-SBS GOLF 1,tvbus://3WApZhRuETDjnkyrCXv5H8twoV5bjRhBEGduYNgixWvJ4Qy9hZ
-SKY SPORTS ARENA HD,tvbus://4HuLVHBLjZ6SKrr4vbxGCAYnbtantAGcAT6HvnydFndXTyx9Kq
-SKY SPORTS CRICKET HD,tvbus://4tNX68xeozfHMZReWR7CRm7pzvkDCYcDixoZQABjL6gcSgNDoW
-SKY SPORTS F1 4K,tvbus://3bdcWNhF3mem5tCfvpMUWzTT5A3HAHGwjfWWRovyYbjQkzuBiJ
-SKY SPORTS GOLF HD,tvbus://3Lz5wQnXggCFBHb8JNiNCiCTp7tePjX1tT2X7uTugzCwbkMK9Z
-SKY SPORTS MAIN EVENT HD,tvbus://4meLDDATrBb97X5H1sJNptcrLvs8mvGMaXuAkQ57pne2Yd5LmS
-SKY SPORTS MIX HD,tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
-SKY SPORTS NEWS HD-GB,tvbus://48ucGUPxqfvKX7mqZzEcKVPrPxPTzEP1VSdkFpRXsstrYPJzo7
-SKY SPORTS RACING,tvbus://36XfJwatbxyFv2tbTgn8orkVm29VKsCiCCeZWRDvqPa2WT98v3
-SPO TV2,tvbus://3b8U44WfdW6V2m7Zzeo41VESHoEanNeCwzw6gRXmEBn5PReThp
-SPOTV STADIA,tvbus://31rPwU1gKRUWDcwCCEaC6yUwizJEjkeiX1DRhU41UHuTfytE5x
-SPOTV1,tvbus://3y6zTBcYhHSRQpBrQcMYaTyxcqkRPVnDUAg4zBruaGtnv85bLC
-THE GOLF CHANNEL-US,tvbus://47Ti5oTUHw4VvpGfBzKMGgGmpkk3cPpqxpd6QfHFEXekgz2EF1
-TRACE SPORT STARS 1,tvbus://4LCLLKmZ6kgQMTFEcMyWpeAUds7FUYHLNtQe4L3CtdUtZnFcKY
-TRACE URBAN,tvbus://3vnLL9Dmut3QQVR3h6edxxf3hNrwtGBFtLcxLFHMsBu5vGZgx8
-TSN 1 CA,tvbus://3oN7NPfmsXJJzFaNours3hFiTS7izMknwAeozQsx3QVP1kVQSJ
-TSN 2 CA,tvbus://45cqwqd4R4tSna14rqDnc9xF5ZvqsUEvivdqaspZCvznycQEBj
-TSN 3 CA,tvbus://4BXwQmMbXhfsHGMvk8zH5eqGFWmctwEm1k798wJdqxgd4jJe5D
-TSN 4 CA,tvbus://4scNyNSYvg1Kzcqp9ys542Ct3WpZkxQ3G3epXm3DNYnkk53G9w
-TSN 5 CA,tvbus://4LvHUAtQmHJCDfVhFdfu3yfQZw5iMGhA5BdhVk2uNNC2cRJQYb
-USEESPORTS 1,tvbus://4SfksRvpoxt9XXD3R7uYwoxaqV4X9ieth4Fs6oS3yvFc7o2SGt
-USEESPORTS 2,tvbus://3wG8xFDj8UaitUzc7HLcqBrC1aHn2qtiZtzJPLRLqjt4twLTSE
-WILLOW CRICKET HD USA,tvbus://3B7ermDyDEDq8rimcJbGkPdJotS9LzRbnQpgrUUeW2STrLHm4c
-WWE NETWORK HD-US,tvbus://4jAJsRc4pqZVdkdRe4BR4XrwbRJy6Va2sFcfR7PukyhcqosGkC
-WWE SUPERSLAM-GB,tvbus://3nyqGiZ2ehHSP6sRwUVfWekTuQGbJmGzuhfrSEKNDP3hU12uBE
-五星體育,tvbus://4971cdPao6cwbneUprhg4VkvT5SYJTG1VVNrdez5FmbfCznriz
-博斯高球II HD,tvbus://4k12Eqcnb9h82vY7zYSzajKieZE8HEAFSCh5BhtQBci9tfpfRe
-廣東體育,tvbus://3FrVhYaJSTDmWXrvZDyoKNjP9yuZ12BAWzF26rNVceTKiqWQ6w
-智林體育臺 1,tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
-緯來體育臺 1,tvbus://4cQCh9Y1WFHtp3cvLck7nosWtjwNWFNtjFKf3nTfvJAcU3p7DH
+#EXTM3U
+#EXTINF:-1 group-title="加拿大",CACC TV
+tvbus://4JV3VZtohcxxsLUhKavaHi3naWM1khtmPgDZ4uGj9TW5M1EC7T
+#EXTINF:-1 group-title="加拿大",CBC NEWS
+tvbus://4sCTvaT1UuJGK2jUyDmV2nANZAVu7DUoroFA6MjH5nfbA7MD5x
+#EXTINF:-1 group-title="加拿大",COOKING CHANNEL CANADA
+tvbus://3GX3FScqWGwJ7ex7aKRUpApbma4P7GvKYiYRPLGFDgSBhtQ7qU
+#EXTINF:-1 group-title="加拿大",DISCOVERY CHANNEL CA
+tvbus://4PRxqXjR2DANWcsF5QRoLMapuGmPERFygcn8AkQovcxh9rJXZA
+#EXTINF:-1 group-title="加拿大",FOOD NETWORK CA
+tvbus://4QGr5hsgM23HBox8kBS7aQtyoV72CHhnW6iqFGBhJwe66fZZfJ
+#EXTINF:-1 group-title="加拿大",Food Network CA
+tvbus://4QGr5hsgM23HBox8kBS7aQtyoV72CHhnW6iqFGBhJwe66fZZfJ
+#EXTINF:-1 group-title="加拿大",HGTV CA
+tvbus://36FxE4Boh2dTsTG9czToXSKKTWnL2mQ4RhqbmyynapT9CUKvsX
+#EXTINF:-1 group-title="加拿大",HGTV HD
+tvbus://36FxE4Boh2dTsTG9czToXSKKTWnL2mQ4RhqbmyynapT9CUKvsX
+#EXTINF:-1 group-title="加拿大",HISTORY
+tvbus://3NuaE3aHWq1MuGZddr39Lcmrw5Az6VJfWP4PMBBbrmCpPHGnN5
+#EXTINF:-1 group-title="加拿大",NATIONAL GEOGRAPHIC 1
+tvbus://315Ntkpt8pyuLHb2rDStjrAFCPwSJV8nYuJ1coruLAueCPFMfp
+#EXTINF:-1 group-title="加拿大",NTV 7
+tvbus://3iCgmSsJKF3hKFTN41itTLzmvi5zqw9qCDvPCfEnLc9qcy3B1j
+#EXTINF:-1 group-title="加拿大",OMNI 1
+tvbus://32bnemJokrwtLrW6qxY5zMBNmi5bRrJ7UamELmVn8zw29qHSsa
+#EXTINF:-1 group-title="加拿大",OMNI 1 CA
+tvbus://32bnemJokrwtLrW6qxY5zMBNmi5bRrJ7UamELmVn8zw29qHSsa
+#EXTINF:-1 group-title="加拿大",OMNI 2
+tvbus://4X92MfUjVuPWYdBRmJyjXytofmH89XeRUZgpu8CDro9LbEBU5U
+#EXTINF:-1 group-title="加拿大",OMNI 2 CA
+tvbus://4X92MfUjVuPWYdBRmJyjXytofmH89XeRUZgpu8CDro9LbEBU5U
+#EXTINF:-1 group-title="加拿大",SPORTSNET 360
+tvbus://2xAeSXntnB4LRw5A3NbT7mzHzXp5ewuuUKwdf1vWhjbASA3EV4
+#EXTINF:-1 group-title="加拿大",TSN 1
+tvbus://3oN7NPfmsXJJzFaNours3hFiTS7izMknwAeozQsx3QVP1kVQSJ
+#EXTINF:-1 group-title="加拿大",TSN 2
+tvbus://45cqwqd4R4tSna14rqDnc9xF5ZvqsUEvivdqaspZCvznycQEBj
+#EXTINF:-1 group-title="加拿大",TSN 3
+tvbus://4BXwQmMbXhfsHGMvk8zH5eqGFWmctwEm1k798wJdqxgd4jJe5D
+#EXTINF:-1 group-title="加拿大",TSN 4
+tvbus://4scNyNSYvg1Kzcqp9ys542Ct3WpZkxQ3G3epXm3DNYnkk53G9w
+#EXTINF:-1 group-title="加拿大",TSN 5
+tvbus://4LvHUAtQmHJCDfVhFdfu3yfQZw5iMGhA5BdhVk2uNNC2cRJQYb
+#EXTINF:-1 group-title="加拿大",The Weather Network CA
+tvbus://4qFoKFo2j7YdbA33javL6bAapGDQCkT9HMXU7hRa5BPqkg5UUQ
+#EXTINF:-1 group-title="印尼",AFC IN
+tvbus://3UMT8WTiVMU1q4KJrgq9XYeijmPCmjta8UgECUuv7JKcMqoxny
+#EXTINF:-1 group-title="印尼",ARIRANG
+tvbus://3icGM8eY2c39sFKKURKaqA417vKu5Ww85Q9MnFuPAziyAbbzMH
+#EXTINF:-1 group-title="印尼",AXN ID
+tvbus://3dGzNx28FMG27LNCdtMNHiifEM9p6cCBVTppcYXpHGgGvkPWmY
+#EXTINF:-1 group-title="印尼",BLOOMBERG ID
+tvbus://3nD3tVxDfQmK1AQSEgqFk37EnkUQabEGH9iKNGjdTcuuuTNkjE
+#EXTINF:-1 group-title="印尼",CHINESE DRAMA
+tvbus://3vqfATzx4eCJj13pa9mdGqkcC5JgSwNTcNhVHq3YXeN1W9eZLH
+#EXTINF:-1 group-title="印尼",CNBC  ID
+tvbus://3iQ583pR1hr9LLmXjJUtMg1XkHNYLcAucMVsFhx9HCVSLBUAx6
+#EXTINF:-1 group-title="印尼",HBO FAMILY ID
+tvbus://4AeLwb7Yh4A34P6XAPtv5SpKLSSZNLz8nSGsGFdsx5T8ovi9PC
+#EXTINF:-1 group-title="印尼",HBO HD ID
+tvbus://4h1ZJdMscRPwdsPVKp7LY2ZSVQ2WpnftFumJHiLn4xu3dzymNk
+#EXTINF:-1 group-title="印尼",I - KONSER ID
+tvbus://4s3fnpEVu15wnAXkSgsSZiAjRD7odS2CS4pCyiEk6S6RMSAyLJ
+#EXTINF:-1 group-title="印尼",KOMPAS TV
+tvbus://4L26Rh886sD5UT8HEth2T3a3m8HuGYZxVf1hYp7vDeqd7HDinV
+#EXTINF:-1 group-title="印尼",LOVE NATURE
+tvbus://3ExMjyoRFQNAyLTZZZDpCUWctBXehfF7bfqn9peBrjoGATLWZc
+#EXTINF:-1 group-title="印尼",METRO TV
+tvbus://3E3ekJx7arf26JxUf8959WvFZf5WPoj5Scr6TnjCfJ5XbcocD6
+#EXTINF:-1 group-title="印尼",PRAMBORS
+tvbus://4gViKeVZkgPF1qF4uf2FToMz4oJfQTSNk6xKYyiZvqhSVyHDNW
+#EXTINF:-1 group-title="印尼",RODJA TV
+tvbus://48s6PMo8d8oWhFD7aEowHCLQPGzvGgKUJxvPgg4yTziDhoyWC5
+#EXTINF:-1 group-title="印尼",SCTV
+tvbus://3cTHYMprkLZeVpvRziK6SSJGGiuSWzzhjqc1PdsbJZrbugHiBK
+#EXTINF:-1 group-title="印尼",TRANS TV ID
+tvbus://3VrPjWYP2aeGu6g26FZNrHXZjvjBdS3gbqZfkNKfjJEfhotmhn
+#EXTINF:-1 group-title="印尼",TVMU ID
+tvbus://4RGRnwEx5Hyu1R3rfStB7pu9weqKbtcvq3VFVpn9Wfud6hq2rJ
+#EXTINF:-1 group-title="印度",BOOGLE BOLLYWOOD
+tvbus://3hpLk4vuR13qoDZXJuSmayDubgfNUWpNXQFsLFtW65FGepAXFa
+#EXTINF:-1 group-title="印度",HISTORY TV
+tvbus://3NuaE3aHWq1MuGZddr39Lcmrw5Az6VJfWP4PMBBbrmCpPHGnN5
+#EXTINF:-1 group-title="印度",HOLY GOD TV
+tvbus://2yJiCPqzcTJt3TNU3yimGiMDNxZLXDbbo3L3yh9A6TnhQifCtz
+#EXTINF:-1 group-title="印度",INDIA TV
+tvbus://4mWazzsH7tZ8fiMN8Q9tpoGcZKX4WgtHTabuUb6k8FTPKTScsk
+#EXTINF:-1 group-title="印度",JAYA MAX
+tvbus://45151agaZLQRhBCLXKzsi7xwuYPezQ8EzkBXYN8eQ7qX7k8pHU
+#EXTINF:-1 group-title="印度",JAYA MOVIES
+tvbus://3EXmher883T1UW1fguCFkPYUoESDwU5rmkmCxyTsB254ecosob
+#EXTINF:-1 group-title="印度",JAYA PLUS
+tvbus://3yGk8Nz5VFTzkhPNfKfWqZrcnkmVWffaGZDER4hh8RwiAkJdYD
+#EXTINF:-1 group-title="印度",JAYA TV
+tvbus://4Ti6joYYqfXs86wfAANgRFLyQRQo2y4TmfaikSVLGoqpXqtVKE
+#EXTINF:-1 group-title="印度",KTV
+tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf
+#EXTINF:-1 group-title="印度",MAKKAL TV
+tvbus://4s2QZX1PcAtHWn84qKkV1exB2r7xtqcDV1Pc6XJ7b9iSiT4JXw
+#EXTINF:-1 group-title="印度",NEWS 7 TAMIL
+tvbus://4XycECZrqEqeCKuaVsjnQrSnXV2x2ZoL3Dpvbs8Qxwif5WHgJC
+#EXTINF:-1 group-title="印度",POLIMER NEWS
+tvbus://3Z9hcpp1W7yCbtrgr72dKXVGry3e1ex13GFo32ywdQKeA8g2mp
+#EXTINF:-1 group-title="印度",PUTHIYA THALAIMURAI
+tvbus://4WuzrerZ42D63kUQL5a2X8uwVzpbSBVyqvr57NHTKqoZf4pTaM
+#EXTINF:-1 group-title="印度",RAJ NEWS
+tvbus://3wXvopRZbZVDioS3FCGxNDxwDPWBAEooZZgjcp73JHLHULahUz
+#EXTINF:-1 group-title="印度",SIX TV
+tvbus://3wLEHYB1bZ3nE51dejTZPg2P16TLCtGLEMe5oXWwUruvAU9HgX
+#EXTINF:-1 group-title="印度",SRI SANKARA TAMIL
+tvbus://4Cd1L5shzpbAtocN3VDw1dvZdAQBJZr3cXoiFZz63jrikjTH7x
+#EXTINF:-1 group-title="印度",STAR ASTRO
+tvbus://4d4sWfBGMR7Erwf97ZFfzDeXtCZs82FUyFkpv4vDugSomQ58x4
+#EXTINF:-1 group-title="印度",STAR SPORT
+tvbus://46uDVDSHTcTMDH2yvv1mVW7aV34k6nXqvUL1VFAKPfWsNAnoko
+#EXTINF:-1 group-title="印度",STAR VIJAY
+tvbus://4d4sWfBGMR7Erwf97ZFfzDeXtCZs82FUyFkpv4vDugSomQ58x4
+#EXTINF:-1 group-title="印度",SUN LIFE
+tvbus://3QjkFs7wDpuq9dLLpWCqumnjcdkHxTpW7VjZAWBdyZN8u7McSv
+#EXTINF:-1 group-title="印度",SUN MUSIC
+tvbus://3BCkouPFWC3gZ7SYGPhZKgA6qzMG9CxQYi9ChKSmSTXiEAZuwR
+#EXTINF:-1 group-title="印度",SUN NEWS
+tvbus://4TDYHfgKmC8GLZEsBCtnvgKWPSGfj78dco6aMHRatpCVgDAKKK
+#EXTINF:-1 group-title="印度",TV5
+tvbus://4RsFNGQRsDFnAeHccb2cRzJmXB81umV2YScACDFwvRQBMhVTV6
+#EXTINF:-1 group-title="印度",VANITHA TV
+tvbus://3Urz7GZDptUv5HYnf6L9cyay7XregizJ9cHyYgmSkkQME1QUep
+#EXTINF:-1 group-title="印度",VENDHAR TV
+tvbus://2xipuWuoi7aELz8JfKjnd83rRKQ6DxuVsNhSjG1uuq43B37d64
+#EXTINF:-1 group-title="印度",WILLOW CRICKET US
+tvbus://3B7ermDyDEDq8rimcJbGkPdJotS9LzRbnQpgrUUeW2STrLHm4c
+#EXTINF:-1 group-title="印度",ZEE TAMIL
+tvbus://4Amxcv7XRNsbZ9qyRiNoTszReGTMRqAv825LBHp8EYEJkH7Bjv
+#EXTINF:-1 group-title="印度",ZEE THIRAI
+tvbus://3DRXHHheu9tGuePdDmw8AZm18EjTS9h2gNzQDtFSKZFkm7XjBu
+#EXTINF:-1 group-title="少兒",ANIMAX IDN
+tvbus://4rP8nmcr7efoTX5TUnowYzsdjbR1H2Q7eF47Ms7x8U55bjHr2d
+#EXTINF:-1 group-title="少兒",ANIPLUS
+tvbus://31fwnSNy7qoTzECmVaVbZqzdLivp76QhzShTEEFKLi9112sfiW
+#EXTINF:-1 group-title="少兒",DISNEY CHANNEL
+tvbus://4W2JRGAe7aEnPbkyQjCBmAKBDsfd5AvX5ad27fsEo46fuv26HP
+#EXTINF:-1 group-title="少兒",DISNEY CHANNEL 1
+tvbus://4W2JRGAe7aEnPbkyQjCBmAKBDsfd5AvX5ad27fsEo46fuv26HP
+#EXTINF:-1 group-title="少兒",DISNEY JR HD-US
+tvbus://39hvrBk7YA7hrngLhEsvdiW5FQqemDb38fRxR7xtDTNPJFyjSb
+#EXTINF:-1 group-title="少兒",DISNEY US 2
+tvbus://3rnCZgetBN7wv5QvbsSGzKmgdib4M97s7gbQoB8spyTs37Bx8F
+#EXTINF:-1 group-title="少兒",DISNEY XD
+tvbus://2xrMtqJreRpwkUjcjyrzn8stdh4bCeJ9wmnzkfZifidUVL9KqD
+#EXTINF:-1 group-title="少兒",MENTARI TV
+tvbus://4JnT5GUY9oZ3J1C357Di9JXUcouJeYZVnzcPtiQtm9B9cKqmsP
+#EXTINF:-1 group-title="少兒",MOMO親子台
+tvbus://3o1kzZCaGbiKLhWgxwkMwuUwRdELqCcPXjLYwsED2CL4iN4YVv
+#EXTINF:-1 group-title="少兒",NICK ELODEON US
+tvbus://496AKL6kfZMtrYx9iYdsGCDyULcSGfrzeYUWj6iR9yV7AVdMY9
+#EXTINF:-1 group-title="少兒",NICK JR (ENG)
+tvbus://4YD296bvHyhvgVwweHqLm5mCJ8JnK1BwFKfyw2GmScdbuxPXVr
+#EXTINF:-1 group-title="少兒",NICK JR (IDN)
+tvbus://3hBvtvxbpxAwVUmWWMbG15Lk2SGSbYptPSapWMAJLmXoCQSPof
+#EXTINF:-1 group-title="少兒",NICK JR.兒童頻道
+tvbus://3WN3djXtW9YyX85Fc31xqUV8rdiR98UKAK6gD6TgYQ3tT9Yvh2
+#EXTINF:-1 group-title="少兒",NICK.JR
+tvbus://4L1dvSX2ULNBiZVqVTdqxAmFC3WM758zvp61EVkcqsKdBcGeS2
+#EXTINF:-1 group-title="少兒",NICK.JR ENG
+tvbus://4L1dvSX2ULNBiZVqVTdqxAmFC3WM758zvp61EVkcqsKdBcGeS2
+#EXTINF:-1 group-title="少兒",NICKELODEON US
+tvbus://3kRYyNZLoErFJU7xCSc436J1duqbYXMfx5Bh7ZvCXM2zTxwXWu
+#EXTINF:-1 group-title="少兒",NICKELODEON-US
+tvbus://3kRYyNZLoErFJU7xCSc436J1duqbYXMfx5Bh7ZvCXM2zTxwXWu
+#EXTINF:-1 group-title="少兒",動物星球 1
+tvbus://3JUUSQBCyZAX9vBQ71NXPD8e5iMcG4VX3pFcrsvJ86zmdn6Tbz
+#EXTINF:-1 group-title="少兒",動物星球 HD
+tvbus://4qGzxT7HScsybMhPCaLt9LM5TT6yh8zaP9bjfpnKTCTyHX5ebW
+#EXTINF:-1 group-title="少兒",東森YOYO
+tvbus://4gazdPz1YuZKv1gARxLHwen5jbEE1J65KLwB8DGhChkUY2LJUP
+#EXTINF:-1 group-title="少兒",親子臺 1
+tvbus://3B8A1x6rf8ra8z5n55MoBvncnEeqS52dtiKhU4kBXFn6T5ioeE
+#EXTINF:-1 group-title="少兒",靖天映畫 HD
+tvbus://4U8GA3DnvSwRTyADCdkqHqPPo7zLDfJrZGxRXTyHXMptnQCry2
+#EXTINF:-1 group-title="少兒",龍華卡通
+tvbus://3NFVSYVUuyQMRccyrGcRgtT5etdqaztv9iYn7bfhaFGiXynRBf
+#EXTINF:-1 group-title="新聞",BBC LIFESTYLE 1
+tvbus://3dDa4teN8QbXLeqeePDVg5yQ9maiKHZyNW1u3aP4YFPR2cwiBU
+#EXTINF:-1 group-title="新聞",BBC WORLD NEWS 1
+tvbus://4QsH5LokUiPuK1q64tMFmHnAgUu1WwhHSJdPk9S2nTNDzt13AW
+#EXTINF:-1 group-title="新聞",CNN HD 1
+tvbus://3KLMdArRoZfHUXzWgesP6HoFUq3pQ99fZVAXBukf8vZFaGf7FV
+#EXTINF:-1 group-title="新聞",CP24
+tvbus://4oR9Lpbtzw5GwW8G81wEzR7FFZNn5TdovzvwxDG2j9CtHwzpxy
+#EXTINF:-1 group-title="新聞",DISCOVERY SCIENCE TW
+tvbus://3JP6VsjJtPvxZpG1ZndW9TWFWkPrmQC2opXgP1G8DvnwpaQefi
+#EXTINF:-1 group-title="新聞",ESPN
+tvbus://4SCUpD4M9ctF4njUtURBBaAm47P46CphcVm6VR2nyRZmV9CYuk
+#EXTINF:-1 group-title="新聞",EURONEWS ENGLISH
+tvbus://3H5he9GCrqQeuPdEtqjFYqZQ3FbUNjzx9zia8f8rbfU34cNPAb
+#EXTINF:-1 group-title="新聞",FRANCE 24
+tvbus://3oKrH83LgTKi24o8nsFTdcy354zkMtDYxSbxsMvKF3MQpfff63
+#EXTINF:-1 group-title="新聞",NASA LIVE 1
+tvbus://3TpeCgRVTh2FgHKiGSpGbVR4dr1ok1zpiyd9ioaeaQGfL4U5SK
+#EXTINF:-1 group-title="新聞",NBC2 NEWS
+tvbus://3zHCtuGUjnDrgXZ5Qwqi7RaVwrMxT9utALYVL7RmtG2casAaTd
+#EXTINF:-1 group-title="新聞",TRAVEL CHANNEL
+tvbus://3zDPs6uPnVi81etR3DUE8yWXgdeBkhFe6iYs12p37XkDjb4igZ
+#EXTINF:-1 group-title="新聞",TVBS新聞
+tvbus://4SfXXXbyhiNG7YkBeuQp5Kx8StZ51Qe6NGkmUjpJ7cdA7sCira
+#EXTINF:-1 group-title="新聞",TVB無線新聞臺 1
+tvbus://4i4yqz6j6w32rtAMJvCJWBMky1FMytyqQLEJ4vftkhCY5c7QdH
+#EXTINF:-1 group-title="新聞",中天新聞臺
+tvbus://4bqQnbZFtkuCwuMT69MUotsYqH1sDvcVyfX1B5bAAb41UtRaK7
+#EXTINF:-1 group-title="新聞",中視新聞
+tvbus://3ahejT4bZVgftsKHzSzNdc3faYAhupSeqAYrikhMTkAVFHVMKa
+#EXTINF:-1 group-title="新聞",台視新聞HD
+tvbus://484Ufuv46TtcFDsG2i4eGXWuFsTsxcVcWkVrJqeN1bezbPpQso
+#EXTINF:-1 group-title="新聞",國興衛視 1
+tvbus://31EN6n54aSztKTXEEojUof9R8GXKhkS6792EfAKmUmtxQA8gUK
+#EXTINF:-1 group-title="新聞",壹電視新聞 1
+tvbus://4TyquPihFBKyn1ZgdLaZpBSREowTiQt7b2vpBGamFRSYovty7c
+#EXTINF:-1 group-title="新聞",寰宇新聞臺 1
+tvbus://4N1jjWcvwRYZqiNk2JDQsx1nkKH2Pm7AEeyuwJ1xHsasuFjxnR
+#EXTINF:-1 group-title="新聞",年代新聞臺 1
+tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
+#EXTINF:-1 group-title="新聞",新加坡亞洲新聞 1
+tvbus://4hA32ABDuiDz14Whu3nrgHYRgh2pyozbmE1pVdp3FjUk8ndtqw
+#EXTINF:-1 group-title="新聞",東森新聞
+tvbus://3Ww6YMzqRh9s3CMC8stFEGxPygjdqDrYqzqJA5eip8GbT2XtTA
+#EXTINF:-1 group-title="新聞",東森財經
+tvbus://3YrVKyuStTijCkH3qG8vWNjU2Pz9xSWwwFetEGdY3FPaxprja4
+#EXTINF:-1 group-title="新聞",民視新聞
+tvbus://4ei6np43Wc3FLxQAS5JST5S3W1C91D6cyVnfZX8qvBc6B6ASfs
+#EXTINF:-1 group-title="新聞",視納華仁紀實頻道
+tvbus://4WTwfnHcByoyWvHhsBi6ry7gP3wu6rvJzmXqpzF2d9vKR2J9q4
+#EXTINF:-1 group-title="新聞",達文西
+tvbus://3j9ddVkqgrBLssruVmQyhYSRu2kxdyYhBJhVbBN1F99cmVuN1n
+#EXTINF:-1 group-title="新聞",鏡新聞
+tvbus://4B9RcMSt1hQUbuZM2m4LUBkbvm3NLnSrD9BP55o2ujtjCddXK7
+#EXTINF:-1 group-title="新聞",非凡新聞
+tvbus://4pS6LgmNPcYDLhxED97FYyU6A1gSA9SMsvo289xFmFKDvptFQH
+#EXTINF:-1 group-title="日本",ABCテレビ
+tvbus://3WpSHVyiZV2UB8RJpHz9mqS88smyL5TMBQtte4SGiFfGPfZa41
+#EXTINF:-1 group-title="日本",BS-TBS
+tvbus://4dUprAz3u8ZY2DFrPFw621jYo1MFgxdw6eeg1DoErt91WZ2Y3B
+#EXTINF:-1 group-title="日本",BS10スターチャンネル
+tvbus://4o5HfLYTyV4GbnfuF7dccwcJ2sUJHWnhbYSZ9E5aaP6M6QDAW3
+#EXTINF:-1 group-title="日本",BSテレ東
+tvbus://4XHavXfcacYCceAzrHsb2TuZZsbLCbXUSjygiQ6RXhSjKqUdgc
+#EXTINF:-1 group-title="日本",BSフジ
+tvbus://4mNvhLbwKpErLrVvH6Zuq9fUPog332jZsabWs1gTevQyAGT8m1
+#EXTINF:-1 group-title="日本",BS日テレ
+tvbus://4cjcneCYDATUHwDGhqdC2jjLewgje9JSwA8bWb322oEfNXYgVs
+#EXTINF:-1 group-title="日本",BS朝日
+tvbus://3Wshp9XrgNQykMHFh7UazuwPjbMYxCH13XiHNYr8K4F1GytxyT
+#EXTINF:-1 group-title="日本",JAPANEWS 24
+tvbus://4owZx9r1FMwrs921TtDBXfHj4voetjDr2TEN9RfdGK4m6D9dTK
+#EXTINF:-1 group-title="日本",JPNスポーツ 1
+tvbus://3iBYQd7XHCpFhqm9wnZStypVoiE7HbcWYAYQVKzhgCXdz56Z8Z
+#EXTINF:-1 group-title="日本",JPNスポーツ 2
+tvbus://4QtUpZJF2kLsdApWYa3GntQmJ6p5E2UvFm313TsGuLaYzdCNJe
+#EXTINF:-1 group-title="日本",JPNスポーツ 3
+tvbus://4gqpJPooEzp93Lf7fd3DWbhBsu3FJScSV2WcqtsNLDuew26mac
+#EXTINF:-1 group-title="日本",JPNスポーツ 4
+tvbus://4DW7QXT8GuycCyzUnGQWnPvWAUwLgQmhAHZ2LSUNDhUzgPZzgh
+#EXTINF:-1 group-title="日本",MBS チャンネル
+tvbus://3iRsi4u7MafxQWJy49ZjKAZwUTdUQbyLLvkRxvKbmYW7xq7zq8
+#EXTINF:-1 group-title="日本",NHK Eテレ
+tvbus://3aef1PPNdzEsJhr34WpKseDi27CdwqvX5P1dmLyLa6jzrCmyev
+#EXTINF:-1 group-title="日本",NHK WORLD JAPAN
+tvbus://3ZWwtBkqDnJ4ax23GKCaoswhv2SP11Q4J3bTRC8eSbgE4Kj7C6
+#EXTINF:-1 group-title="日本",NHK 総合大阪
+tvbus://48hRGoQqmRqB5yk9a3zCU3SXVyWz1mnLajDMPdF4h4sS15uY7M
+#EXTINF:-1 group-title="日本",WOWOW プライム
+tvbus://3g1dPzcYqR1bP1MAZanEoAYvjZy46772MLu6APTwzRPkbRK48R
+#EXTINF:-1 group-title="日本",WOWOW ライブ
+tvbus://4nfCWBhughkYiVWZWqKgq7K2fBQzWV4Cr96VpvfHe54TDpFxR7
+#EXTINF:-1 group-title="日本",キッズステーション
+tvbus://44p97oWa9Guxd7WbdeumTAKQLMryD8xGPZg6rz9aNHVWDWXgR3
+#EXTINF:-1 group-title="日本",グリーン チャンネル
+tvbus://4mosnQmT89TCAtfjgMMnrhPzEWDQbAxEwyRPU761mVHY5m47fL
+#EXTINF:-1 group-title="日本",ゴルフネットワーク
+tvbus://3rSBVN2ub6JXiH7CpeMsE6vXo91PhttPf6otHjBGy9kbxfDLcW
+#EXTINF:-1 group-title="日本",サンテレビ
+tvbus://3o7fgC3R3Mje7fuqpiehPHCNV6XS2dP2sTnCj9LnJ3i8HcaxR1
+#EXTINF:-1 group-title="日本",スカイA
+tvbus://2xFvrEnRLXQDvdjvuXM5unCMaKL4yHycBmXLYkbm8VECecj1HD
+#EXTINF:-1 group-title="日本",チャンネル銀河
+tvbus://3w9XVpDceZqGz8vzxQFcTm7iTbj167RE6yM2fFLFXJeKvNaq1B
+#EXTINF:-1 group-title="日本",テレビ大阪
+tvbus://37QZNzyxDqV8D8UZDoDYGzMsQWSFNc23Uw2GqKw5qJyiNgEtgB
+#EXTINF:-1 group-title="日本",テレビ朝日
+tvbus://36tP65iec1C2BGqqKmeFboU7MC6X3B6k35QTtKztyWwtv7njbP
+#EXTINF:-1 group-title="日本",テレビ東京
+tvbus://3XwNrqo3TFAWcYU992BFpJV9FSUv5SnYQHAe97m1mpEkN2LFpd
+#EXTINF:-1 group-title="日本",フジテレビ
+tvbus://4TfgQv2wjHBqVLNYNqoGspvkXTWBP4P6LKZZDivDDbodeQQfUG
+#EXTINF:-1 group-title="日本",ムービープラス
+tvbus://3jkVVBfx6aAJJA5fiAGvPLQhQ8B1wgiSh3e4qD41F26rB4Evv9
+#EXTINF:-1 group-title="日本",日テレ
+tvbus://37vvEaBqjnMaDyujwQ5DU2b7w3S3us3Dfsvf97pCyXzefyuder
+#EXTINF:-1 group-title="日本",日テレ NEWS24
+tvbus://3MPexsQg2XcQvc9zYyrMbEBmJTqhi5zdm1nW3a5ivRVwg3NqzE
+#EXTINF:-1 group-title="日本",日テレ ジータス
+tvbus://3k67owatEYq7ZYfxsrDnb9VsUaUoQVGSRXTBEjE3cEc6CmZgkV
+#EXTINF:-1 group-title="日本",映画・チャンネルNECO
+tvbus://4aStKJYcZNBqupg8TYuVmNRBQWhBfQqG6enVMEFF1joWNPqNtm
+#EXTINF:-1 group-title="日本",時代劇専門
+tvbus://4Sod7TuDsckoLyN1MRQVw8VK7L2aZQw45nAkcDtUrdczxLFVXQ
+#EXTINF:-1 group-title="日本",東京MX 1
+tvbus://3veTVFaNuMnraaCDENUpo5snrDMYPXjwr6Q62Uv5H7N2utP5nJ
+#EXTINF:-1 group-title="日本",東映チャンネル
+tvbus://3GR4Tig6xFZVddoAmt8K7KmTtE23jxSKDc9DbSUW6LBH8h7jCX
+#EXTINF:-1 group-title="日本",衛星劇場
+tvbus://4oKZcUqVd14TSvspgWkGVai2kXUVC6ABxRTwvkqPGGBhAHZDJf
+#EXTINF:-1 group-title="日本",ＮＨＫ ＢＳ4K
+tvbus://49T8nio4TWSbegb3qwo9oKRBwC7c4LaYV5YEpf3XPX4ky4p6cZ
+#EXTINF:-1 group-title="泰國",3 บวก
+tvbus://3aKvg49uXdhGne6bnviaWFnGVzMT1cAR9P4ADDZwo9jWJVT23B
+#EXTINF:-1 group-title="泰國",7เอชดี
+tvbus://37xTEfEVJGKc9i4JRNeru3JCezGzVj5nmofkpRFPYrxhAeTzPs
+#EXTINF:-1 group-title="泰國",CHANNEL 8 TH
+tvbus://3ufBxdrtiCnLTxjD7y1wfGxWu2u1BLmFnYqGct554LPv8cdJjU
+#EXTINF:-1 group-title="泰國",DLTV 1
+tvbus://4EyS5nKBFfF7WghZsZMX2nXATv3ZUvQnRWdrSDHji2BWyeegHc
+#EXTINF:-1 group-title="泰國",DLTV 2
+tvbus://3MnKzZAf3K8nJ2pH5WTaFauSuxXfkxgjtPhDyBfjAYPquHG18m
+#EXTINF:-1 group-title="泰國",DLTV 3
+tvbus://3nKHqqC6PpjSgVjin3xodFrWNhMnnB9Yd2sjQn7rrSyF6V48Xf
+#EXTINF:-1 group-title="泰國",DLTV 4
+tvbus://4ZoN1r7mScehnGTLG33hKHd8QL9i7m3aN4qDAFnq1L6Rnrkdrp
+#EXTINF:-1 group-title="泰國",DLTV 5
+tvbus://33aiQnqcvuVkczqHKmY5hqrMxbxGn2fAehncN7DnzdNm9Sc3Uf
+#EXTINF:-1 group-title="泰國",HAPPY TV 65
+tvbus://4EGFfuLStdHECsq3efZYmQG9dY3JQ1QJtHKuwqsczXkpMKQSDV
+#EXTINF:-1 group-title="泰國",MV ลาว 5
+tvbus://4ZXC51uZQ6SEZArAJc7jEfBK8SK7mhQRNBDgwaRYEdQFW4z8Ep
+#EXTINF:-1 group-title="泰國",MVC
+tvbus://49B763G5QGeRQPftZWykXjwXCgrGzD2MLgcXnDgJoHR5L66vrN
+#EXTINF:-1 group-title="泰國",MVM
+tvbus://4qLv3GxcrM7PW3k2vTEmFhFM3HMwsmD7hsgeSWFp5DvQhLWx9x
+#EXTINF:-1 group-title="泰國",MVTV
+tvbus://4LpnuaV3iyEhQDQQ4UptaaKLMsYdgWUqwLUQP9HK1kg1vQG8it
+#EXTINF:-1 group-title="泰國",NNU 5 HD
+tvbus://36ntNSL9wU1o7gxLaJimses7q9YDyiyo8SKHCWm6jgZazaB3mc
+#EXTINF:-1 group-title="泰國",ONE 31
+tvbus://4ULoMYMN2GEVNeFzFW3FWz4DcgNXRCE6XYmYXD85vgQ9uB46x3
+#EXTINF:-1 group-title="泰國",THAI PBS 3
+tvbus://4ddSQPe4b1o51UTmPZgBiCqipbXjvuQB9CaTroEnbNGC45wQgX
+#EXTINF:-1 group-title="泰國",TTD 1
+tvbus://4guDYdWcz9HgMXsaghM7NSNWNz2NS59X5BNxH4WG3gTJrHncp1
+#EXTINF:-1 group-title="泰國",TVB TH
+tvbus://4mz9KuY4Biw4jKTLkLYGmiXGz2mKJD6pYcVdgsJZxUd9f4qKua
+#EXTINF:-1 group-title="泰國",VTV
+tvbus://4nnbx9F7RDLHNknejcRzr5w7gnTeVRMApsPvsbD8KceyMjgHUX
+#EXTINF:-1 group-title="泰國",ชจีเอ็มเอ็ม 25
+tvbus://4gZv7wL8hbBmEs1gFm4VBnZszybYcqWH3ysC9SJjnfBhviMZqr
+#EXTINF:-1 group-title="泰國",ช่อง 8
+tvbus://3aQAQxVhBczNSkHV8MGJAteb1B1GCTQ97crZ4oWmTeSijpQLvX
+#EXTINF:-1 group-title="泰國",บันเทิงเกินร้อย 3
+tvbus://3Kjo3L1Kar72yp16MGFbGBuBLvxDvvCUEteBekXaaTQ1WRu4Ry
+#EXTINF:-1 group-title="泰國",ราม่า CHANNEL
+tvbus://4dgr7FYKgkc5PzAn7VwrWYHand4GhLYdN12vKVwucJxLYSDkiX
+#EXTINF:-1 group-title="泰國",ลิโด้ CHANNEL
+tvbus://3sYN3ohVvHZGqj9H37zQdyhs8SAg9hJ6pjWT4NWAKYVwVhfQwk
+#EXTINF:-1 group-title="泰國",สกาล่า CHANNEL
+tvbus://3mQxkxpFjfw6hU4Df9E46Xem9sfL5wE3uFztzcEKQyzVqq39xP
+#EXTINF:-1 group-title="泰國",สยาม CHANNEL
+tvbus://3sRSBXeCkUDqFn6nLLmxWdyFfRBt2qPmFLcFP9yRyVhTpH6dFt
+#EXTINF:-1 group-title="泰國",สามเณรปลูกปัญญาธรรม
+tvbus://3HNMmvcoc2zW5n6EgXGaX7zdUdwuBiC5hsT32Y7rAwfuD5dtxo
+#EXTINF:-1 group-title="泰國",อมรินทร์ทีวี HD
+tvbus://4m3r5yfTVfKN6LtTb984BrVJajxXyoS4ovX4pnpvZCiNPoNMom
+#EXTINF:-1 group-title="泰國",อีสานทีวี
+tvbus://4FrRwXxyRRmxsJ8DCwjAYiaFedPAnJTUzCohv9NpEVwksDEM9W
+#EXTINF:-1 group-title="泰國",เนชั่น ทีวี 22
+tvbus://3ND3NyLnCx8zb4kPHyEnED6tWGLBVrhLoU2BXeR2ANgamAy57k
+#EXTINF:-1 group-title="泰國",เวิร์คพอยท์ ทีวี
+tvbus://3MZu7HdKcGi3sXNpM9Zes6mvS6Fequh2bcMrHzieaxgyUeER4b
+#EXTINF:-1 group-title="泰國",ไทบ้าน 83
+tvbus://4LkfyYmZrE3hMZRhZow7faGRuQc3UTok4yssWWQLD3seXp785d
+#EXTINF:-1 group-title="泰國",ไทยรัฐ ทีวี HD
+tvbus://4UT35gknYc1R8MtA9AiJgZQupTu7Go9yQW1qyRpzfDVUDYmkMz
+#EXTINF:-1 group-title="测试英文",Amateur
+tvbus1://4Fw8pJk1Nq2fQHojbZ3GLEE5oFgYzdhg5y4SBXW2GfijVfEMon
+#EXTINF:-1 group-title="测试英文",Anal
+tvbus1://3HnbPGrrpNuzt9896EVumrcC5Jbe6dzAoa3iZUtc51Kh9tA3TA
+#EXTINF:-1 group-title="测试英文",Asian
+tvbus1://3iFmorrRzEM4VfpDd85E4PmDDFS8NCSU2xBR94pFiH71LxrEGS
+#EXTINF:-1 group-title="测试英文",BBW
+tvbus1://4oKnPuwPWtcML43e7gzMa1L3Frbhb3MiCXJc6WP28DRanijb9U
+#EXTINF:-1 group-title="测试英文",Big Butt
+tvbus1://3tAHsVA2qbmtcw6gLaxL1GH6LM94sKxfY3RvD9HQVRzMq2A9VF
+#EXTINF:-1 group-title="测试英文",Big Dick
+tvbus1://3TXTZ64baj69F8xKWjKXrBA8mp3Ea8PwdQxoEhrENea6Q7renV
+#EXTINF:-1 group-title="测试英文",Big Tits
+tvbus1://3EJU5cWpgdBSZo5EV8UC7bdLYG3KHEadd7th9kSobD7o3ESwwy
+#EXTINF:-1 group-title="测试英文",Blonde
+tvbus1://3hM7BMeGg1b1KY7gnnkk6e1EkXQGUbNJqrbHLHr53Cre4oSnd6
+#EXTINF:-1 group-title="测试英文",Blowjob
+tvbus1://4ASg8RyV8v1UJ8BjCb6Dd7eGWZ6Nnsm6iFZWJzBKDwGPRREkGA
+#EXTINF:-1 group-title="测试英文",Brunette
+tvbus1://3wG3gHtSAyambpzbefzSjNjvxoYoXv3kAjmHmxT8QSnHDVvAon
+#EXTINF:-1 group-title="测试英文",Couples
+tvbus1://4fQPLVQiiw5hHpjmH857msQXZKi5kykC42Dfva6ThgWJwLrRPE
+#EXTINF:-1 group-title="测试英文",Creampie
+tvbus1://39YY9r3mkh5TjqtQ8vQnK8jWGijBcKpBQGs1Z4mpPmiTnVyM5V
+#EXTINF:-1 group-title="测试英文",Cumshots
+tvbus1://3L3i4fcASevv3R9J46n7fK9DarXWnn9Nhix1CpkSKG2HuStWpA
+#EXTINF:-1 group-title="测试英文",Dildos Toys
+tvbus1://4FKKotqhquH85x4cKGdgscBsAcRGwfFvGBRQHoFU4RpC7tZidG
+#EXTINF:-1 group-title="测试英文",Ebony
+tvbus1://4AFp9W5KrkD3RNeSuJ41dBg5yFmWYzQxRjdgS9ssrzRXBSQgkJ
+#EXTINF:-1 group-title="测试英文",Erotic
+tvbus1://4goHs2ibe9awrQyFNdzhzeedyp63ZPjJF8jDXJ6qfS1F4goCrh
+#EXTINF:-1 group-title="测试英文",European
+tvbus1://4iqogB4CUs294CFLcqDixiTVWTKvNLNiw5AH9r9MFj3SgorSYD
+#EXTINF:-1 group-title="测试英文",Facial
+tvbus1://414gYpcGYbMHZ9N6LR61jnqCiqTDrA1ZC6mrDpGuFnK7tfXYfJ
+#EXTINF:-1 group-title="测试英文",Female Friendly
+tvbus1://4TfA9W3bQA7eGxf5VXFVzFgdGZnKyfVUEWnVCzyGBohTEyFgEo
+#EXTINF:-1 group-title="测试英文",Fetish
+tvbus1://3NcreQcycTPuQQE17CDKmtpmhWeNyNaNvYA5dcYPDBsZCbuYdq
+#EXTINF:-1 group-title="测试英文",Fingering
+tvbus1://4pehrsfpvrBJCzqJQU199YcTWu1XSULYVvSAPSuCuumputPp8j
+#EXTINF:-1 group-title="测试英文",German
+tvbus1://3sfJenRPNqmsjNquB25NgdPrBDpHa8jh2suwnDwArdWX4R3eeM
+#EXTINF:-1 group-title="测试英文",Group Sex
+tvbus1://4rs9bhYcTXKkJ4iR6H6wLUGkziFvk2uVprgGWW7RAuCFnC6Pwu
+#EXTINF:-1 group-title="测试英文",HD
+tvbus1://44YAoSjRp3LX8qgo9mmy6MsorwceDR1KJfxTtA9gPRE4Y3BzNJ
+#EXTINF:-1 group-title="测试英文",Handjob
+tvbus1://3nLJEreBf5aZW4y3PzJK9ATmA6o9HS7aPkNmTZFkUaG65Lhiy9
+#EXTINF:-1 group-title="测试英文",Hardcore
+tvbus1://3J9EtzEorUvQREthiLFiCe3n3zYk3nimUYykG1RHRNv1zUY1dA
+#EXTINF:-1 group-title="测试英文",Indian
+tvbus1://4HHsMYgB1kboUaygBZ7ZwQJ4Mxhgo23iwu7fKbauai6K322YPK
+#EXTINF:-1 group-title="测试英文",Interracial
+tvbus1://3HznQBQ6z29UQsk2eGaiA6uCRYoRCaaTV4HB4SxZLqEXsprBvn
+#EXTINF:-1 group-title="测试英文",K-Channel
+tvbus4://3KNF6kPyzUp3Y349DxJfkiq3TVCQBVJfZ32J25aXdHPuyjS4K5
+#EXTINF:-1 group-title="测试英文",K-Channel (2)
+tvbus4://3KNF6kPyzUp3Y349E1aTu8yQW8q4wbt1u4oorGSiaYz1rHGJbq
+#EXTINF:-1 group-title="测试英文",Latina
+tvbus1://3Twx7jwfhHRuaWaZG7DzqVAQQCtXGS6pKcjTYFH4uViMnrfjrb
+#EXTINF:-1 group-title="测试英文",Lesbian
+tvbus1://44K82uczgDjV9isGWuS5KrqHi7cPyRAkj8HP2nKby1Y1pZwPt9
+#EXTINF:-1 group-title="测试英文",Masturbation
+tvbus1://3DukAhDFvrxZmUJfBaYtoeccqVFCh492HaJob1EW1hHkQLoGi1
+#EXTINF:-1 group-title="测试英文",Mature
+tvbus1://38WNbkVtY8QLFCKX2yee1WaGmjZvkr8PzLCjqcNuwUfadW8EBU
+#EXTINF:-1 group-title="测试英文",Milf
+tvbus1://2zxMMqQiK7q9rijZrL877UZpAA1r1mkyFGWaUPhzer5wu29fL1
+#EXTINF:-1 group-title="测试英文",Old Young
+tvbus1://41fVzQ8evf6r3cqbMaMVQT2TfaHTSoTySGsgm1DndjosYL5M52
+#EXTINF:-1 group-title="测试英文",Orgy
+tvbus1://3U3RFCE3YY7sRJrGe4VR7pnpgZYFxB91iZEqtC1rFJGQnEKApH
+#EXTINF:-1 group-title="测试英文",POV
+tvbus1://4KMCg1ZhpWuj4cpiZ5XRkS6v7R5mVzkYjaVmHSXK2iwnZzT3WX
+#EXTINF:-1 group-title="测试英文",Playboy
+tvbus1://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
+#EXTINF:-1 group-title="测试英文",Playboy FHD
+tvbus1://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
+#EXTINF:-1 group-title="测试英文",Popular With Women
+tvbus1://3drnEvuSyUPSCd3R31ykWWnrVCRHKmLVrUL4coBR5iusegAGRU
+#EXTINF:-1 group-title="测试英文",Public
+tvbus1://441BV144iLvmcucGguGTc9426TF62N5FFQttu6ex4Eeo1MoTTM
+#EXTINF:-1 group-title="测试英文",Pussy Licking
+tvbus1://3Y4ccVxJJ7xL3gJ22fF2YFHc3TbG5eRnMpb429YGe7kqbb5REE
+#EXTINF:-1 group-title="测试英文",Rainbow 1
+tvbus4://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
+#EXTINF:-1 group-title="测试英文",Rainbow 1 (2)
+tvbus4://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
+#EXTINF:-1 group-title="测试英文",Redhead
+tvbus1://3C2H2V5kbWknUrpGyrf9gzyzq1hr7YXPLQRDcoAV794CgkaJuz
+#EXTINF:-1 group-title="测试英文",Sextreme
+tvbus1://3p1WYXqXpnJG85uBLd2t3m3XDrYnRJicppqR7yuTackDUcvKQS
+#EXTINF:-1 group-title="测试英文",Sexy Hot
+tvbus1://4brVa3iG5qN1HxxmXZdEViKeZ37359dqDD4iwk2jUgiHMrwXiv
+#EXTINF:-1 group-title="测试英文",Shemale
+tvbus1://33G1ANe7sNnpnSC7EJrrPfT52qkpAKUXdnMGkSKnajgjnFCcp6
+#EXTINF:-1 group-title="测试英文",Solo Male
+tvbus1://3qeAArPqSPv8bufs2wHRSQNKXWV3hCiCvkzJUoNbVDuAS7fCsS
+#EXTINF:-1 group-title="测试英文",Solo girl
+tvbus1://3ZmjQN6GuvKzRLURUzZBM2GqexVoWPoF9dE7yVffwMvvsXhhjf
+#EXTINF:-1 group-title="测试英文",Squirting
+tvbus1://4M7SzN99XsbtKjHPxVjiQgFPUiN6X21BTtY1JqHrtJS2Ez5u4r
+#EXTINF:-1 group-title="测试英文",Straight Sex
+tvbus1://3gie7MDUzsKJtnHNLsJhELXdEkrc4VF4E1fHBDRJ7UB4X6Cczb
+#EXTINF:-1 group-title="测试英文",Strip
+tvbus1://3JvCgQg2qLxtKpPMGGhTpAVCiVsJQzSAMSAaxo4Bi9svCquRv8
+#EXTINF:-1 group-title="测试英文",Teen
+tvbus1://41jGEj7BQmsTDDqJ1ZWQaM9WxwiBPbCy1eGTyoa1NWyC3dattR
+#EXTINF:-1 group-title="测试英文",Threesome
+tvbus1://2y2Nfj5m4JTqkLj2KhSUma3fgJ1vfrGvqHnJqwNuBEzj4BcpMY
+#EXTINF:-1 group-title="测试英文",Trans
+tvbus1://4pRTE74MTtXfiVT39yYVf8vTe8cbp2gHjCfq5ENMmn2Qg6oKNr
+#EXTINF:-1 group-title="测试英文",Venus
+tvbus1://3BnTk27cgSPG8B2K3xdEazrxVqz8Z7vLPMWa7Ke9A2rkZX1ziE
+#EXTINF:-1 group-title="测试英文",Vintage
+tvbus1://4WwysQPLXHjExQo8k2nT2d2RTLLCdugaVBN3wz7CqdQ3LM6idQ
+#EXTINF:-1 group-title="测试英文",Webcam
+tvbus1://4sh4heF4c8FxvH6aWRuMtSxr5utYS8WvkvwCwk78TKGebh7vpS
+#EXTINF:-1 group-title="测试英文",Young Old
+tvbus1://2y2jjSZfHNVH9BpGkfro71YfgJrXygaKqAq9iDJYLQZ1hvTemU
+#EXTINF:-1 group-title="测试英文",analsex
+tvbus1://4sc57pZRG5cBnH8oAe8D458Y6UkHCvbWCQJKrXP6b6yqCYURnD
+#EXTINF:-1 group-title="测试英文",anime
+tvbus1://4sXNHgoRdBShZh2fLnyB5M4GVbW9zQkknJp4LfrKmHD6gQaQ7s
+#EXTINF:-1 group-title="测试英文",anime2
+tvbus1://4hnjqtSLYuzg7ivkXJN1kE7CB7TjBmVpVrcq85B5YrSH1gMJJb
+#EXTINF:-1 group-title="测试英文",beautiful girl
+tvbus1://3hBVqurgM4Ak8uj9SvPV23yb2VoHwd2U2dCyfpCC3TV6ZYX1BV
+#EXTINF:-1 group-title="测试英文",big ass
+tvbus1://3R8QMjzXPgqosHKH8mqhPEvbwz8jRPazSnepEsUJiLMWefRo5V
+#EXTINF:-1 group-title="测试英文",big boobs
+tvbus1://4ZTQHPqYnyW3uT1EMkufizZt8wtie8ZY3TcoMJd5vLkZKxFBqR
+#EXTINF:-1 group-title="测试英文",big cock
+tvbus1://3EJF8k2fvdnRzS8FAvK35CgfMHoGxMwsBNRH8LBPcUCHZk7yij
+#EXTINF:-1 group-title="测试英文",big pussy
+tvbus1://31HGJ13b6wiv7EzPNHdAaVSekxJ2jsi4kgEe9EME2j77y2EA7R
+#EXTINF:-1 group-title="测试英文",busty
+tvbus1://3EUGFgBBsJ8vitkgdES9cRrUJwhZDkXiMcz1v8abiUdYqZGn1h
+#EXTINF:-1 group-title="测试英文",casting
+tvbus1://3mVxy3zunWV44a48cUvmGTAoYtpMBqhMbmzk2xnFzSDFb8nYA3
+#EXTINF:-1 group-title="测试英文",caught
+tvbus1://4bQe6NpTA8suzcUTFe3s1ipouDcG7xiMsB7YLRhci8WmuvVCaG
+#EXTINF:-1 group-title="测试英文",chubby
+tvbus1://3pFg38NzumgB8SAgzBTjDfSF3wth9JvdXcKKJ7oYXmKCigaUj2
+#EXTINF:-1 group-title="测试英文",compilation
+tvbus1://3fNbkvqhDS7MxfjVF6dksC8qsUo5w2UyCiCMWzgfgWteLFcEoy
+#EXTINF:-1 group-title="测试英文",cuckold
+tvbus1://4KJpQYAgZtnYjm1PNTEzLUtva7AxeNPKWRjwa4FX4qNYwXLZ1p
+#EXTINF:-1 group-title="测试英文",cumshot
+tvbus1://3SxQsM9h1mqoosJL1MuSF1er54HC3tC1yNncsQnC3Vqz2R4wK7
+#EXTINF:-1 group-title="测试英文",curvy
+tvbus1://3SzECCp9jjGHmPnxEC3fE3iLkxiZ11N62TBrdzNLGkGxwsMx13
+#EXTINF:-1 group-title="测试英文",cute
+tvbus1://3rpUwbmFgrbkR3VUYjg9ZQKxTSB2qkc89gHDTa9HebNYMEUiWV
+#EXTINF:-1 group-title="测试英文",double penetration
+tvbus1://4Ba4QwT1nLB2ZXbj4eWgcRdyHwniqxnkEjcVEkTt81zvdjaQf2
+#EXTINF:-1 group-title="测试英文",down blouse
+tvbus1://4LKck74cj4McTiRTKidZor29BuU1vQcgVs5uU9u35eBH6fm3pL
+#EXTINF:-1 group-title="测试英文",dress
+tvbus1://34uMtHFKeovBQms8MnDweRxxGcgDoUXkL6B8am2BsHwNhpzATT
+#EXTINF:-1 group-title="测试英文",extreme
+tvbus1://3j9KFLZxi6Nw7bRpxqWVwautij3oRujNWyVvJZ1Dkg3nnSS2DN
+#EXTINF:-1 group-title="测试英文",first time
+tvbus1://4BvyTHPqT4y1NcQzzW2aVGLkvhBGxYY61WcyEAtYYxtz3cqXnU
+#EXTINF:-1 group-title="测试英文",friend
+tvbus1://3PYEPVprRxgYmk3hfLLK2LUt6vkTywWKb63CT2acm2rx8zgb38
+#EXTINF:-1 group-title="测试英文",gangbang
+tvbus1://3oyZXJjy8ViembrLMmbZyQAxVHUJ9DwNYBWa9qX17gp9GTGAgy
+#EXTINF:-1 group-title="测试英文",home
+tvbus1://4bssYvgmPda1i8F5iGFjMMRjVNFoW1M8syqWbWGDVEBY8KJrZu
+#EXTINF:-1 group-title="测试英文",hot babe
+tvbus1://3xxXv4ApGHqDyL27hiib3n642rtgwzTshndVWnqi9wfg6aMz3c
+#EXTINF:-1 group-title="测试英文",housewife
+tvbus1://4795qeJr8wMXpS4rVWYa9eZmRCozNQQT7FnutNh9rC7Uxn4eht
+#EXTINF:-1 group-title="测试英文",huge cock
+tvbus1://4QrrAqKt4bB6G8gP6CRbCu5fqdPR5TnGLpiLTi1Q7MQrxp2Coe
+#EXTINF:-1 group-title="测试英文",japanese
+tvbus1://3zMxJ4FMNR3PEmxBeAmMwVEqd8wy4rcERrLamc6TFdQRSFMeMK
+#EXTINF:-1 group-title="测试英文",japanese mom
+tvbus1://4CXUsXhYrxu9gNdFWFWpwfXq17f9FYSarjjfwdNDcM38FKBZRS
+#EXTINF:-1 group-title="测试英文",masturbationsolo
+tvbus1://3AjNptf73nUvdoPoUdmhPAQ17ZPPoUFtBgaMLeCMKTSV51DdQJ
+#EXTINF:-1 group-title="测试英文",mom
+tvbus1://4nK4h6hD6pN4hVnoEGBfqgEudGDZDedUEQiNmJ9TuUEhfwWcAu
+#EXTINF:-1 group-title="测试英文",orgasm
+tvbus1://448Pe863zPhGm4hvktj3UixMH8FERRvu2bQTxwpuMkaPSFpgXE
+#EXTINF:-1 group-title="测试英文",perverted
+tvbus1://3ZGAvm98STdUti1yywcPGnsUCQuxp4JvEuHxjDJedHeFFbj2Ap
+#EXTINF:-1 group-title="测试英文",skirt
+tvbus1://3SYGLMHYirHPrDbrpeDgK5DvCv6HfgoEK8pg9zFDRjZTYYbEBk
+#EXTINF:-1 group-title="测试英文",small tits
+tvbus1://3FxzUfXW1LkzHjjTNJCP2GvQKczF6eREfvu4Ba38NAZzRMf9tH
+#EXTINF:-1 group-title="测试英文",stockings
+tvbus1://4LMarQcYmFFc6qs7vn7Zc1mZCCBE4Ghr3FJSYyqBhF5LL2JJiR
+#EXTINF:-1 group-title="测试英文",student
+tvbus1://4iEZwcNjp1oDHo2ri3W9ZQcydpWDz8pr3PjyPJvcRVMbDgUKkN
+#EXTINF:-1 group-title="测试英文",teenanal
+tvbus1://3f4TmabeChnMp6tAE4AphtCQG1fCAXJb92KzcpCUstRbfzfwRc
+#EXTINF:-1 group-title="测试英文",tiny
+tvbus1://3xc3r4qVWQZis3bzf7AcKNNNYGc2DSu8eydzWa77BokrQ8iJpg
+#EXTINF:-1 group-title="测试英文",upskirt
+tvbus1://4kDXeAeewMJ1c6ZjnKTxRGEK5zpVuK8iTP9eEsyRu6aXxfNT5B
+#EXTINF:-1 group-title="测试英文",whore wives
+tvbus1://4Yr7GSePbEe6myLCcsNcFv86S5b8cwSvL3Hsjye3Nr68NU7gTM
+#EXTINF:-1 group-title="测试英文",wife
+tvbus1://4Sy7yTWHCHFhb9YVdeteRwmmU3ZSmE7AWr6jdaQZqEcQhsyvPH
+#EXTINF:-1 group-title="测试英文",young
+tvbus1://3GRcJZMiqGVkSkLyvYgRyGc6b2ECbQa17DGTJhqm2PDxtLTgE3
+#EXTINF:-1 group-title="港澳",HOY TV
+tvbus://3fsky22Yu9aeGT61yK5aKNUGgL18HpHDTmFGXsECGcavzJhdV1
+#EXTINF:-1 group-title="港澳",HOY資訊臺
+tvbus://2yaz1i7uNJeMy3JnWm2wAfMGLKd5vGPjunzrFWpDXHzVVwKvZ4
+#EXTINF:-1 group-title="港澳",NOW LIVE
+tvbus://4qkdbN15jajLLPwauSQpC1v3NJA9q6peHfbjiGPbpf3NWyvKeN
+#EXTINF:-1 group-title="港澳",NOW NEWS
+tvbus://4dXxzBvTbVvQfJ7pwu8igNy761DQVcmdWsNx9SUKVrUAY7gWkv
+#EXTINF:-1 group-title="港澳",RTHK TV 31
+tvbus://3vzY42gk8JqMRrvQxSNCWrsydgB1xuLy9CdSJVp4w3texVLKcB
+#EXTINF:-1 group-title="港澳",RTHK TV 32
+tvbus://4e3eHVUVwdxR9MWwfgY1ADjWWq6aMTbcc9tBKTpPCR1W7wXRYU
+#EXTINF:-1 group-title="港澳",TVB J1
+tvbus://4oR14F8bsLdPpAbDRU2CDn9WJicZBaMqLq2gJL9AFo2R8v6u2g
+#EXTINF:-1 group-title="港澳",TVB PLUS
+tvbus://4qi7bQoxzBMEY7Jfgg6WHDW4CA79bbsqWtcv5SbHG2pYKcAnyy
+#EXTINF:-1 group-title="港澳",TVBS 新聞
+tvbus://3hEnvwDeqiSKvMmmMLT6SpBv3yYXDkTj5WxYcg2U6bwjjLy8Mn
+#EXTINF:-1 group-title="港澳",TVB娛樂新聞臺
+tvbus://2z7jue6gHi7hr4AhhjrCf5XzbRdEmWFwrv6eE1TTafyDHSABag
+#EXTINF:-1 group-title="港澳",TVB明珠臺
+tvbus://4BqCdYAZkr9XV3h6uDd7Ugfgnigjqi2tLsHt3nK2f8PukTm47h
+#EXTINF:-1 group-title="港澳",TVB星河頻道
+tvbus://4UDLWzVQjbjDZoaGybsDBo4Wxw2aKjYisKvzRn1QwS68L2QEqw
+#EXTINF:-1 group-title="港澳",TVB無線新聞臺
+tvbus://2xLZVpbSrZkZFyE9XhhM2cs672mBMVeep5xD7NbtCQz1MpWifo
+#EXTINF:-1 group-title="港澳",TVB經典
+tvbus://3E1s9PeDYDG7koQZgH7z7MR7SGTWTs8Vph2Z62XymxLU9krE1r
+#EXTINF:-1 group-title="港澳",VIU TV 6
+tvbus://3jvCWc3jWRg5uS8Jd26cSugCBEv4rLkk82jzUryLBJos2CvmKb
+#EXTINF:-1 group-title="港澳",VIUTV
+tvbus://3NkG3fw2RJjQrEU2eupHTbopwfxkco8jYd8Wuktiq5uh4R1RUe
+#EXTINF:-1 group-title="港澳",新時代 1
+tvbus://46n9HxRUAPvAFTPQpLFvRQDY4ZC2rPc8bp1axBnNZZunAS674Q
+#EXTINF:-1 group-title="港澳",新時代 2
+tvbus://3FG5H2hsShTxJnJkumSmpefbknTRCyrtR9sAZAqNvTn6P7uKjA
+#EXTINF:-1 group-title="港澳",新時代西部
+tvbus://3bvJBVWF8wmrkp15D13hqaNerqNff4J6btNxngQs9mxLr45kme
+#EXTINF:-1 group-title="港澳",有線18臺
+tvbus://36tV14iQdQUsMmkLdevXB8Vk7AqgmxCQy2ujn4wGtufb1QR3SC
+#EXTINF:-1 group-title="港澳",澳門蓮花
+tvbus://34HoZHGVjbG6vaCs1e7MsCnVT6vuoDUmKv7cRH9TAF2NRXR2eT
+#EXTINF:-1 group-title="港澳",澳門衛視
+tvbus://4QZRDpDNpK3mmq6AAdTZCx3sPmS7oR79Lt1ZFKXUrosYM59PN9
+#EXTINF:-1 group-title="港澳",罪案偵緝
+tvbus://3FTRRDXZ3fGeKuSSohgd3Ha1X7vvciM5pWTgVHVRP9kmbcyKzH
+#EXTINF:-1 group-title="港澳",翡翠臺
+tvbus://4ZoPc49rRqxUfZaFxEMa6LGAdKQTRRzWdemUqxv95eGLDBDeaM
+#EXTINF:-1 group-title="港澳",耀才財經
+tvbus://4PpsVnb8nyyfdEGd8nwxbSJiYpuqudC8F4qpLQmTtVEbitPjVK
+#EXTINF:-1 group-title="港澳",陽光衛視
+tvbus://4T7xowPrYqVkmU269QGU4vHiVGjGQk46dHyGwMzbgUS4tYsDj6
+#EXTINF:-1 group-title="港澳",香港國際財經臺
+tvbus://4SzwjZiD9dAHRbiGAuoiRXFTE1LA3JCkXuodYZJJUT8Y6Vvub8
+#EXTINF:-1 group-title="港澳",香港衛視HKS
+tvbus://3U1omh1EtV2BAUfqGCe95rW39DRQS3y369aYwygn4xvH8i7Psj
+#EXTINF:-1 group-title="港澳",鳳凰中文臺
+tvbus://3iUUm17iL22DhjopDJjpJqWTvogs68hBLraNQAuN2hNnDcwNwU
+#EXTINF:-1 group-title="港澳",鳳凰衛視臺
+tvbus://4T1W2W4bk8TNJn3orFuuf6NM9NR5z2PJCknRe7URT6FaAUsWYr
+#EXTINF:-1 group-title="港澳",鳳凰資訊臺
+tvbus://3u98EH8RMRFkErMsDQYdctnhPxeMjwgojFxA8sAtVaKgbVqunQ
+#EXTINF:-1 group-title="港澳",鳳凰香港
+tvbus://3SZpYApwpMkeekjk2mCzz8iWDAWwDwiSKKX4s1gaGLb6p5kajL
+#EXTINF:-1 group-title="港澳",黃金翡翠臺
+tvbus://3YFLyZaJxEbtGgoYUCjbcdFMauudguMLhKe1Tww9Hf1NphCvwM
+#EXTINF:-1 group-title="澳大利亞",7-FLIX
+tvbus://3H1kfCNJyBYRJRBKDi2yNKgSvq93jGXp57x7kEPUMrrSjcWPVw
+#EXTINF:-1 group-title="澳大利亞",7-MATE
+tvbus://3vZLtDVxEaSB41i33wdfG5LVhAfwWuPDd5vT5gykF7rf8m9Sj7
+#EXTINF:-1 group-title="澳大利亞",7-NOW
+tvbus://48Sbj38Funi4EMhFFQ7AUkx71gGEobafVtPNxA2CL9bD6uf75L
+#EXTINF:-1 group-title="澳大利亞",7-TWO
+tvbus://3tBF5JVeUT12AoshFqhawaeKkkcs4Y1x2C3KzwyjAhVKGNnrwz
+#EXTINF:-1 group-title="澳大利亞",9 NEWS TV
+tvbus://47ApJEsDuB74eSuvoFA3CaKNM7SnTbpWVKfxvPtWb6uWr88szU
+#EXTINF:-1 group-title="澳大利亞",9-LIFE
+tvbus://35HxPuakBNjcr3TqbQWi3Hnnr3Zk7YHFpRbPxTa5uNZSxi7LL7
+#EXTINF:-1 group-title="澳大利亞",ABC AUSTRALIA
+tvbus://3rwmrxc6JBxWeDDBnyM11nPyBLZwsenzXZee23Z9Hu8Z6WBRWk
+#EXTINF:-1 group-title="澳大利亞",ABC AUSTRALIA HD
+tvbus://4c6fdwkxKMmD8YFvffV51beYCiLxQs3AvJXJs7spnuiPBWfshQ
+#EXTINF:-1 group-title="澳大利亞",ABC NEWS 1
+tvbus://4Smx4LsFUWoWHExarWtNXRxCd9bSyzavG9hStj1fsM2GUw6QK3
+#EXTINF:-1 group-title="澳大利亞",ABC NEWS HD
+tvbus://37bUGbqETwccUpYWqjHWPZXiiGSMZ3Sv4mVKhbNNfNgaaV9oeQ
+#EXTINF:-1 group-title="澳大利亞",ABC TV
+tvbus://4LeRsoRcaEWGvC3vLVTbpMR5M98CS3jPMF9EFuokJj8A3xyCwE
+#EXTINF:-1 group-title="澳大利亞",AUSBIZ TV
+tvbus://3YMsEfugJoFmCT9Lu5M79euAhGbmwCQ8DCYXekCPBoBCWfDPYT
+#EXTINF:-1 group-title="澳大利亞",BLOOMBERG TV
+tvbus://46TMv1RrDV3rxWJjmYeJ7W95B69ms4TYU1BVuFnhqXGonFYr7M
+#EXTINF:-1 group-title="澳大利亞",CBN NEWS
+tvbus://3D4R9HyKZrqJPTbMbAUPbfbhbWkWcfaytcd3SWvt6F5xxh2aro
+#EXTINF:-1 group-title="澳大利亞",EXPO CHANNEL
+tvbus://3CpK4J2KW3yn2vkK7WQNkeo6LR7XMfE2fn6seWAXgs7oNaU9Kg
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 501
+tvbus://3bumHYE5zRH22mLPgKdDPkRWrSUv35KwqymEKXJYb6136crChV
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 502
+tvbus://35AX8opthGkSeyMbn3FFvvYaYESdcXps465NLubgKf3wtxAY5f
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 503
+tvbus://3NUHW42fwgssTNG4zfsxxQ3i6RNJ58ccUaWY65o6QRMTbXJQjb
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 504
+tvbus://3cNAFWwU1pRxnKrXpo1M26wAfs6qiw3vC9QyQ64KKsL3aHPfmg
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 505
+tvbus://4ZUBD4kHXagceL3vUsdwsn6AwZFyDWXSqSJkkrEjbCyej96c5G
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 506
+tvbus://4SLqgoh5XhqMkw4fg19cyk7aMsZdrBXJ5DfPY3AYykKvL4ktDg
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS 507
+tvbus://3m32vctjC92CE5YfGojvimoB8bBQSzd6GTmDyyG5ficbrLVutN
+#EXTINF:-1 group-title="澳大利亞",FOX SPORTS NEWS
+tvbus://4mJGeNAG4owUzUa7Fn4KLbx6LwbAWMT7L4jJFsiX2ctRsye269
+#EXTINF:-1 group-title="澳大利亞",GUSTO TV
+tvbus://3rHxamkXmjau4fAddWVybi2sVXfLn51r1FBoejaKknFzrX236L
+#EXTINF:-1 group-title="澳大利亞",INSIGHT TV
+tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR
+#EXTINF:-1 group-title="澳大利亞",INWONDER TV
+tvbus://3VrZCtVuLBv15acrjGMAFSpknQD721Pvc32Ckgpi4f7pVAnU4Q
+#EXTINF:-1 group-title="澳大利亞",JUICE TV
+tvbus://4MiLEaUF6envNzRcbkkYzxYmJhuoFU2rtnNNAmpdr23BEdbYyT
+#EXTINF:-1 group-title="澳大利亞",RACING COM
+tvbus://4e8W2CVA6ZHA2oUjDoe4Qw3VFVWdxvFk3yvjeXDiiGy89F6meU
+#EXTINF:-1 group-title="澳大利亞",SBS FOOD
+tvbus://41vk9FrAQyz4KWomm7GVayhwZ9oq3XsfggDq2KrhgFaQKNXQQ6
+#EXTINF:-1 group-title="澳大利亞",SBS VICELAND
+tvbus://3hpxcDX3dzR9spfSfSvGmbzN5gd1dAhcSwMd7K1rd5bovfX35K
+#EXTINF:-1 group-title="澳大利亞",SBS WORLD MOVIES
+tvbus://3RqJtDnsJdLVHsQPM2LRDS2ThfcbWJbdYRLZrdWnAXdTYcky54
+#EXTINF:-1 group-title="澳大利亞",SKY NEWS
+tvbus://32ctX6STXgP2KAv83oW9fyHBcfwtS2sqhN4TK849LYhd6mXxBB
+#EXTINF:-1 group-title="澳大利亞",SKY RACING 1
+tvbus://44LAEatZpYtZTwZc4TgcHBDpnoVxKXEnDs4Xz4CfRfa6oMFK5q
+#EXTINF:-1 group-title="澳大利亞",SKY RACING 2
+tvbus://48dydKKEgAs57moQp5VFUjvvLCxF2d2f1RTjvGcQkYHRCxKtv7
+#EXTINF:-1 group-title="美國",ABC
+tvbus://4CqqhP6tWjPjQuNzjkSCCYvDExN6EYFuKGef9JU4oNTedYHCP2
+#EXTINF:-1 group-title="美國",ABC NEWS
+tvbus://37bUGbqETwccUpYWqjHWPZXiiGSMZ3Sv4mVKhbNNfNgaaV9oeQ
+#EXTINF:-1 group-title="美國",ADULT SWIM
+tvbus://4kX57AbBFf3yPpdpGdnvM5UGyUVJJe3Jm989bvAkiBekpC2sdA
+#EXTINF:-1 group-title="美國",AMC
+tvbus://48wFFYEoLr4HR2dVgaxjCmSfziG2nEe7jRhd8bhSKtaeuTxAt1
+#EXTINF:-1 group-title="美國",BBC EARTH 1
+tvbus://3D9Nv9pNGLssbuos5n8ccYjTS4JRm1KGRfE9v779PvXvxCDuMr
+#EXTINF:-1 group-title="美國",BBC LIFESTYLE
+tvbus://4S6jfapMj54wa9GT2JybQxybbMNXdNiQQXXGPWXbchu1nNAVdc
+#EXTINF:-1 group-title="美國",BBC WORLD NEWS
+tvbus://42uFnBQCi1y3WnrkQJAi4MyxXE5CmXr4U6Q9VwL3cWCmFnxV3t
+#EXTINF:-1 group-title="美國",BEIN  SPORTS 5
+tvbus://4YgyFjGpm3KfzosNuSVGyC5rXu6D5Uv7bh6By5JsXRQrCvaAch
+#EXTINF:-1 group-title="美國",BEIN SPORT 3
+tvbus://3DZQbZALJrCQfpQxS1gwDmn1Ez7eSXCeZBm82FrgYje2iSgX97
+#EXTINF:-1 group-title="美國",BEIN SPORTS
+tvbus://3geDWcwUq8pxZhrVK4iPD1Kr9oypuHYhfWvVB3gc4BTbGrCHGR
+#EXTINF:-1 group-title="美國",BEIN SPORTS 10
+tvbus://3vwYWL9ymrqWAHJ8ENeYf19NBsDibCR5Yu3SNeohnCS8AnChB1
+#EXTINF:-1 group-title="美國",BEIN SPORTS 12
+tvbus://3wUD8yAHDnLoL9WztJzR6ZuvSwThJ6C3MaFU36UgTPRdLDXpZy
+#EXTINF:-1 group-title="美國",BEIN SPORTS 6
+tvbus://3YRNebDuWL7KDPRKzqgSoAYkCnrxvsgp1RbPnTjX6qgwcLUNk9
+#EXTINF:-1 group-title="美國",BEIN SPORTS 7
+tvbus://3gSMgNjA7jHu834CB7bYtywC31DvEWfRpywYhAWafdjoDZYq6y
+#EXTINF:-1 group-title="美國",BEIN SPORTS 8
+tvbus://3bQ4rsqw3jfh4jZgj1idd5BcsZwQc29Cti5xv51HWJcqxxXbGj
+#EXTINF:-1 group-title="美國",BEIN SPORTS 9
+tvbus://2zhyWPij5jf8ixiiry99tyELkHLZfxWMTgGgbfRow8CLKCJ5a6
+#EXTINF:-1 group-title="美國",BET SOUL
+tvbus://3ikodjmGvYn1RfxbtB3Uorcg6zjo8znSUEs4acg2ezgxmJMo2o
+#EXTINF:-1 group-title="美國",BNN BLOOMBERG
+tvbus://3fxsd5nnGieZGA1j4EYLja7yCgS7t1JzsjFrcDKPeL44pmBGzt
+#EXTINF:-1 group-title="美國",CARTOON NETWORK ENG
+tvbus://3UU2fZknuDQQCSChtnPyvdjbgH1nyhVpLPrk2Et1ReTtBBao1W
+#EXTINF:-1 group-title="美國",CBC NEWS NETWORK
+tvbus://4sCTvaT1UuJGK2jUyDmV2nANZAVu7DUoroFA6MjH5nfbA7MD5x
+#EXTINF:-1 group-title="美國",CBS HD-US
+tvbus://3RjDC826E9TgbLyPVNQC9QFLgYAzQ45SmnupjwpdbXA24NEEfG
+#EXTINF:-1 group-title="美國",CBS SPORTS NETWORK
+tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
+#EXTINF:-1 group-title="美國",CHCH
+tvbus://45FumzDfqUVAJkXHSVKw7y58mNpaKiykcTJN41KpwARmcu6ojJ
+#EXTINF:-1 group-title="美國",CINEMAX-US
+tvbus://3gm1h2PxEhV9GoVYWZgPH3i3qouaoJRRirHsNErgPaAaPpCNj4
+#EXTINF:-1 group-title="美國",CMT
+tvbus://3cgzuPuU9uhtDYZsmByhqcCza2CzEsr2wdMNLkzPQEMW8wbSLT
+#EXTINF:-1 group-title="美國",CNBC EN
+tvbus://4jkg8PMDZJJobXPkEjv93LygVVz2nJGxcxKhNh76VVZbeYdLMZ
+#EXTINF:-1 group-title="美國",CNN HD
+tvbus://42RG199by3dDESBghkPfMYTDEdxNQ6rTPKbs5gBHRJygX9qnaQ
+#EXTINF:-1 group-title="美國",COMEDY CENTRAL
+tvbus://3ek7WDRMBuYg9jhyZ7Ndnn86GkontWWH5Um35w8Xc9Agp78dJa
+#EXTINF:-1 group-title="美國",CRAVE 1
+tvbus://36bdVM1niM8nkcV1RHK1E8zMDokCqjQ2PBhMYV9UtM2exgQEsd
+#EXTINF:-1 group-title="美國",CTV
+tvbus://4oo1vKu5tmpW8F5Jws2YhDq27Jnp9tmsZ6ovS3YuubinyRwrhy
+#EXTINF:-1 group-title="美國",CTV 2
+tvbus://3ZKcnGFcrWJKvgL8iBQosV1mY6rGzw4tJdJH6fJzZ3qJSycTGk
+#EXTINF:-1 group-title="美國",CTV COMEDY
+tvbus://4ryeYDSE5wNQcziKZkkvG5CqS7wcPG5DPnxom8BVNVdSVrQtrv
+#EXTINF:-1 group-title="美國",CTV NEWS
+tvbus://4MzL4kVkAcvg6d6tD2pKpeeECNuVes5pWarVhHHyM3UWR1rtDz
+#EXTINF:-1 group-title="美國",CTV SCI-FI
+tvbus://3vYFSLx3wN7uEPPsEbVmqisdgC8ixtGifguo49hnTHgHuyAJiN
+#EXTINF:-1 group-title="美國",CW
+tvbus://33kJ7y1jkh7xcRMFG33UejZ8D6eyD35eSb8CL3buoHBiY3T5Qs
+#EXTINF:-1 group-title="美國",DISCOVERY 1
+tvbus://4JXjaxGVQ4KgFfZf1axdzdyfKK3M3QKSExUnygu8rae7KmMeJN
+#EXTINF:-1 group-title="美國",DISCOVERY ASIA
+tvbus://3RVbUkDkHDWTLwresZnCniWYeaZz7THEt49Y8EFPa4cyLGYKVa
+#EXTINF:-1 group-title="美國",DISCOVERY SCIENCE
+tvbus://3JP6VsjJtPvxZpG1ZndW9TWFWkPrmQC2opXgP1G8DvnwpaQefi
+#EXTINF:-1 group-title="美國",DW NEWS
+tvbus://4YVkx1GBBoeRLtsMfzQ2iyghC9i2PLkfZ6j8sHMcGL2Z5sK3so
+#EXTINF:-1 group-title="美國",EARTH TV
+tvbus://4tAZ7Ub1xXV1odTFYxLKJyBW9JPxMWJencGXYjWSZMxEVmukbo
+#EXTINF:-1 group-title="美國",EPIX 2
+tvbus://4ZWBxjbPT7DKMdqdZMUDmKQzBZfFh713ymTNUd7ipkpQoCUy2r
+#EXTINF:-1 group-title="美國",FOOD NETWORK HD
+tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
+#EXTINF:-1 group-title="美國",FOX NEWS
+tvbus://2wwF5Jkrd4tU8D3WRCrq2Miht5WXCoPKsb8s1K38k7e2va6Ch7
+#EXTINF:-1 group-title="美國",FOX NEWS NOW
+tvbus://2wwF5Jkrd4tU8D3WRCrq2Miht5WXCoPKsb8s1K38k7e2va6Ch7
+#EXTINF:-1 group-title="美國",FOX WEST
+tvbus://418qUkXKL4arf7hUMbQtrw5PB5tgmpim8YUYr2zXmRumRPt2pL
+#EXTINF:-1 group-title="美國",FXX
+tvbus://389tH8NdesyQqiHUnjkeBSJShd3GVsh7tteHJQB5noHHxjHVhm
+#EXTINF:-1 group-title="美國",GOLF
+tvbus://4oZXNMBXB316Bwqf2skxAhg9aNEcPBiZEba7zERahtkNbNm8Dm
+#EXTINF:-1 group-title="美國",HALLMARK
+tvbus://4qaVcYCcLEtU9U95yPhGPJiY8ygzvoeKvpNa6r7VhHrpftjx8f
+#EXTINF:-1 group-title="美國",HGTV US
+tvbus://4Xm5zyXA7QwDTkRGU2zEF9zPPMxvsxKZqj8Kt7uKeWeaDjTJX9
+#EXTINF:-1 group-title="美國",LIFETIME
+tvbus://3up82kbSsCM2t5KVy4nSkazME1Wm7bE5Vh4Ns9uNxB55AXnsuY
+#EXTINF:-1 group-title="美國",NASA LIVE
+tvbus://3bNaxaYwC36WDRnwz16LaoUeNePEMXHScmCnvAp28mv2QGFz7E
+#EXTINF:-1 group-title="美國",NBA US1
+tvbus://3dqQgYoRen8R1XREVeJaycRVyhoaQHAp3ho3jqEHNk5t41kHak
+#EXTINF:-1 group-title="美國",NBC GOLF
+tvbus://46UiDE5CgdiodraG4UP4aABCdFdhcpJBVweN2THZSL8ByRQHmN
+#EXTINF:-1 group-title="美國",NBC SPORTS BAY AREA
+tvbus://32du9AixPi7fnezzv89MgsvbGdH9Yc9Pe7iNsjaeq7XtGuDtJz
+#EXTINF:-1 group-title="美國",NBC US 1
+tvbus://4BAS6LKWGFzjB8HyNhYjDFciHJ34UYBUZ86XZP9a2NUwD7Dv3r
+#EXTINF:-1 group-title="美國",SHOWTIME
+tvbus://3i3u6LpK1VxhzFA9PcjYDP1e6HwykGRcHCN24apMGrfGqKni7K
+#EXTINF:-1 group-title="美國",SPORTNET 360
+tvbus://3mJskCCr8GoSapwSkF8GTQGGNQ5T5kqGkVqQJdfD7kopawRX9J
+#EXTINF:-1 group-title="美國",SPORTNET ON
+tvbus://3Z1vKfq5yVxGtmn7pmKQVQ43Siq6fp9wjkfJUzUh3BgLtkbi8r
+#EXTINF:-1 group-title="美國",SPORTNET ONE
+tvbus://4Z9YVChGa1P4T94oeDV1mj8M3VdHuQurGqDuZEdLmaxN5KxXEX
+#EXTINF:-1 group-title="美國",SPORTNET WORLD
+tvbus://3Q6EJiuvyTQJV29kGZgdYw2L75Fqv72ppcnMY2WDLABzbeHduc
+#EXTINF:-1 group-title="美國",STARZ  EAST
+tvbus://3BNXN4my44CAU73ATeFSgsMeFmrzpGnejpAsRSvh9L1mKKJVZb
+#EXTINF:-1 group-title="美國",STARZ EDGE
+tvbus://4RXYN5gzYgNYFHFqSQJWWbBJfAvUfeqVhiNi17LobEvz5zmEDy
+#EXTINF:-1 group-title="美國",STARZ ENCORE
+tvbus://3mvgnHuZxTVMP8tC6qAA7wcGpcewmtiPPHRsThAMg93rnqrXn9
+#EXTINF:-1 group-title="美國",SYFY TV
+tvbus://3PPGYXXYK4Kp4P17DGLKERM7AXW2zHPNVT5CjXF6jzBnRWdgUY
+#EXTINF:-1 group-title="美國",THE GOLF CHANNEL
+tvbus://47Ti5oTUHw4VvpGfBzKMGgGmpkk3cPpqxpd6QfHFEXekgz2EF1
+#EXTINF:-1 group-title="美國",THE WEATHER NETWORK
+tvbus://4qFoKFo2j7YdbA33javL6bAapGDQCkT9HMXU7hRa5BPqkg5UUQ
+#EXTINF:-1 group-title="美國",TNT
+tvbus://3FWjRdCreAc4UQf7ut4vZrAKb2Q1HP2azfSvUXPTtGaKm2Hnkr
+#EXTINF:-1 group-title="美國",TRACE SPORT STARS
+tvbus://4LCLLKmZ6kgQMTFEcMyWpeAUds7FUYHLNtQe4L3CtdUtZnFcKY
+#EXTINF:-1 group-title="美國",TV LAND
+tvbus://3W5tJ5LwRQKGBSQ7ymFKEcqQ4vFcZ9KnwC9WDm6kSggNfinps7
+#EXTINF:-1 group-title="美國",USA NETWORK
+tvbus://3TwM2qpaqayba8nhFzUJZAuFGH5aArNoUhVkWabMn26Y2zMCYi
+#EXTINF:-1 group-title="美國",USA NETWORK HD
+tvbus://4YpMnyP4pZrZKL5CG58x4reRNQgiBWuvLS2NC6NwDpQSsDZq9h
+#EXTINF:-1 group-title="美國",WORLD FISHING
+tvbus://4gFdpQveSLNGVhKaLozCbLDT3Z1LanqvKzJLi8gUmVpeyrf8AU
+#EXTINF:-1 group-title="臺灣",AXN臺灣
+tvbus://4qLssqfQ5WHuC4Fwx1sCKqTVxxqzF9GYNXFqEoKjouu7TSmhXS
+#EXTINF:-1 group-title="臺灣",CI罪案偵緝
+tvbus://3FTRRDXZ3fGeKuSSohgd3Ha1X7vvciM5pWTgVHVRP9kmbcyKzH
+#EXTINF:-1 group-title="臺灣",CLASSICA 古典樂
+tvbus://3rAeNMQMRqf95XUdVc5qJBSaWUiLx6Ya1moUXHDXKC4LVup6cv
+#EXTINF:-1 group-title="臺灣",CN卡通
+tvbus://4QzPLVZ1jB4BSgXz5BUV3a5J5LjFWSjG5WFxuBZZ85yXVQexAH
+#EXTINF:-1 group-title="臺灣",DAZN 1
+tvbus://3ZuCH2U3YBQShWXiWYiZXFvb2wPj1AhxzxsLpTa2XjKdrFtT5u
+#EXTINF:-1 group-title="臺灣",DAZN 2
+tvbus://4D13MJQ6AMZqYnxa75k4FY3wACBrxBKE2wSYoeHwpXTP8mbcE1
+#EXTINF:-1 group-title="臺灣",ELTA  1
+tvbus://3jWfpipEi6rJR5aGHv2zQJLyodcJpAW7gGt2AdPp62F52VMkBz
+#EXTINF:-1 group-title="臺灣",ELTA 2
+tvbus://4FYx9MjNs8aCfkSCL7GqQJ5jHMBQvakiYPqE6nEujtsGn9UKDk
+#EXTINF:-1 group-title="臺灣",ELTA 3
+tvbus://3bxScykisfdkMkC1PUXdHnVK9kMJUWssKVsKVckkU2AFyYQB5H
+#EXTINF:-1 group-title="臺灣",ELTA 4
+tvbus://44WPFsfT8nbwx3SVnBxXzhfJxfSJh8UE7QTUZHcCDFyiUFGcUb
+#EXTINF:-1 group-title="臺灣",ELTA MAX1
+tvbus://4LhDaBRugkgVyqGizUUHYeHppZmZEcYse8KpNdmAMyKAXR7Kkz
+#EXTINF:-1 group-title="臺灣",ELTA MAX2
+tvbus://4s7oJBSrtyUfRYC19QqtTWddc3Ae5Wvv9vLxWpW3ZuuALwxvtn
+#EXTINF:-1 group-title="臺灣",ELTA MAX3
+tvbus://478Md8fex1oLJkAFunm9joe7LM8yhvR8bAZqFWHvGk4qGHkBsW
+#EXTINF:-1 group-title="臺灣",ELTA MAX4
+tvbus://4eWVts1WGtLjnq2U5DSrotHcvdFPjLWCYwxbDpokvnf9nnkMSJ
+#EXTINF:-1 group-title="臺灣",ELTA MAX5
+tvbus://424JGd2o5xWmJY5XfHJb1azFptHhx5avRkwYhpEA3GSM9ixLHw
+#EXTINF:-1 group-title="臺灣",ELTA MAX6
+tvbus://4adEjpmfTULS8VNY1KCnjkfqoExUtWtSXzWa1cSawsN2fYkYtm
+#EXTINF:-1 group-title="臺灣",ELTA MAX7
+tvbus://4mMqwK8G6wxbqs53GDdmoQUuotY4ChxeKs6krP5oXZaFM8hSWy
+#EXTINF:-1 group-title="臺灣",ELTA MAX8
+tvbus://4CZSVTG4gANxeicXswv1NQD1ftH3T9JPSuVpZXxg27TZmVDEgp
+#EXTINF:-1 group-title="臺灣",ELTA影劇臺
+tvbus://2xJL34zgjJwG4C1omwb8qLuCuiGidGULXkHrfUtef4fWkgj3MV
+#EXTINF:-1 group-title="臺灣",ELTA綜合
+tvbus://4Y3sck6GkwFstUcdqJUfg2TPQRUtAbqAamTuRyvj9WfJQzCMzp
+#EXTINF:-1 group-title="臺灣",ELTV英語學習臺
+tvbus://4gRxAXsdyputkuJ4wnDSgJMYk6m9iPiAvx96FWajuYqCtKhWvx
+#EXTINF:-1 group-title="臺灣",EYE TV旅遊
+tvbus://3hpxxBD9YadeVzoFJL525gCwxewL6cvbfKoWEo6gnnHxS6DMFc
+#EXTINF:-1 group-title="臺灣",I-FUN 動漫臺
+tvbus://3dYMBWApUCyLqV6tF4XMQGEGewD98rga9q4CeYyGpJr1J3VFqg
+#EXTINF:-1 group-title="臺灣",JET綜合
+tvbus://4ArGKPQR3DiHcmWKcL3NG8GisfcBoo7Z6N4wM227nswAwS3Ne3
+#EXTINF:-1 group-title="臺灣",LIVEABC互動英語頻道
+tvbus://4FZJKkwZ2v5J6N5pwUryHVsFB1MUw3xqywPPCvQQ8tQY8TaTyd
+#EXTINF:-1 group-title="臺灣",MOMO綜合臺
+tvbus://4Z3r9L1oDfRB16TtjSBBRrrhspg2TvsTm3yVJL8MhR9cxoFobr
+#EXTINF:-1 group-title="臺灣",MTV LIVE 臺灣
+tvbus://3ezuQZAjTDLL1DdA4zLaAYLBFhzLXtogbvzX5DnkSqL6SKfcws
+#EXTINF:-1 group-title="臺灣",TVBS精采
+tvbus://4nYn2zukL4zFEqLJdkQv78q8tsJCqZQUNT3H8gpXc2w4MG5tt5
+#EXTINF:-1 group-title="臺灣",VIVA 1臺
+tvbus://4XAG3U9G8yiRs9WD5Z5tDzUcX1CJkAGKrjhzs5DSZghKbPcNqF
+#EXTINF:-1 group-title="臺灣",ViVa 2臺
+tvbus://3p1YYfFAbNMkBXdLCY9Rz7DeC5KqRNR4Wy3DHmzcYuv3CDYYi7
+#EXTINF:-1 group-title="臺灣",Z頻道
+tvbus://3CJQ6QyfFMzwpUD5cmA5y6PYgsRkXPrhRsBv48fUeCeBNJMqKM
+#EXTINF:-1 group-title="臺灣",三立INEWS
+tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
+#EXTINF:-1 group-title="臺灣",三立戲劇臺
+tvbus://3vspt8zPM2AH7Yi5bVDLCuU3ekgHJqyT6XR9Pggi4HH9AJrvuW
+#EXTINF:-1 group-title="臺灣",三立新聞臺
+tvbus://4kya4uKHT3KMHvt7j5b2FbKH1m7zA3HwNDdz6oK3VrDZ4aEXYA
+#EXTINF:-1 group-title="臺灣",三立綜合臺
+tvbus://3PCDVt3xovX1THn927pr8dYy7MsdaCEeHShST6jkzo1KbW5sLV
+#EXTINF:-1 group-title="臺灣",三立臺灣臺
+tvbus://4kuAAuzLioajb4MeNVcxDXFaL2h4gDSFXRoEz9dxy6q2nHkeDc
+#EXTINF:-1 group-title="臺灣",三立都會臺
+tvbus://4DEEV5cPgwvaCab32YwjPKi5E8Fm87KreDj9QP7Yfo5vLjs1Rt
+#EXTINF:-1 group-title="臺灣",中天亞洲臺
+tvbus://3bqGbDMxNFt16EuH8xFYHxXV67wVGbVBsQhsSPapzKv4nWAvgd
+#EXTINF:-1 group-title="臺灣",中天娛樂臺
+tvbus://3b8LGH9pZN7ezVQSawYnbQX55jECtoGoCXfkKwZjeTffcfmNAd
+#EXTINF:-1 group-title="臺灣",中天綜合臺
+tvbus://32FRNW4GdxjzKc4WMuTCextAMJCW7QWsZPo66PWGZ7yTPvtVQv
+#EXTINF:-1 group-title="臺灣",中視CTV
+tvbus://45kPaFv9EYgf7VwcHrKqTKPmcL9kjzpgNfHeWi3mZh3b3ThbEH
+#EXTINF:-1 group-title="臺灣",中視新聞HD
+tvbus://3ahejT4bZVgftsKHzSzNdc3faYAhupSeqAYrikhMTkAVFHVMKa
+#EXTINF:-1 group-title="臺灣",中視經典臺
+tvbus://2zD75SHeMd1qsC2vWSiEWrmMdEsNbWRFZn95Td62rBUkgtwpmo
+#EXTINF:-1 group-title="臺灣",中視菁采臺
+tvbus://4rFLbVG8NMM4dYquQZEJfVDSQHNtNWrhhugpYpJAapwrm2mxc1
+#EXTINF:-1 group-title="臺灣",亞洲美食
+tvbus://4p2VWHqiEVC1gfx231A6Bc1STK4M6rsexjzhNkHiQdoEVNFtGU
+#EXTINF:-1 group-title="臺灣",人間衛視
+tvbus://4rfQasxohahUcTgZzKfQ8YjYwhsZt3uaqPzAeMXAgrvVpem8AZ
+#EXTINF:-1 group-title="臺灣",佛衛慈悲臺
+tvbus://3fVPwSLx8DRHb3kHeuTHdJSgF4ZnrNhwBGCA2PwRPqE7Q62BsL
+#EXTINF:-1 group-title="臺灣",信吉衛視
+tvbus://3QxLrKtdmT1YfmQbmSgJERMC7emFx46jeJDb2FraDPvqBrjEu3
+#EXTINF:-1 group-title="臺灣",信大電視
+tvbus://3LchpBPthZRY5wru3nX21EbaEAekptFGrWhU9NYRJKwj91wzNR
+#EXTINF:-1 group-title="臺灣",八大娛樂
+tvbus://4sAjm2BGonveguwZQGe6dV3UUhLqdGJQtTV33C1L7me2eVy5Xz
+#EXTINF:-1 group-title="臺灣",八大戲劇HD
+tvbus://4E4YXfSqRqAVNMtJJEPFu5WZwW7gMMWocCQDa6vNUxSWj5rwY7
+#EXTINF:-1 group-title="臺灣",八大第1臺HD
+tvbus://4TcGBvHa43HwtL25BwNBbgzS3XAmkx1vp86nYAmmJnRThHCPsa
+#EXTINF:-1 group-title="臺灣",八大精彩
+tvbus://34o4uBnDwSbsZ3SPVjWsgQ1D8ezM8YhryXHe9UzCsUuU1WMUVv
+#EXTINF:-1 group-title="臺灣",八大綜合HD
+tvbus://3m5HpmJ9RNThF8nc6eu2md28VGUzTYhzacbJvam3ZxHugpWjjx
+#EXTINF:-1 group-title="臺灣",八大綜藝
+tvbus://3sHstV8SUzDBVqsZK66EbNr7jKzZNHpN82UMgY89ynKawTXHEc
+#EXTINF:-1 group-title="臺灣",公視2HD
+tvbus://42pqX7d9T8nUMZbEMQVNyYYyGGA1saWNF5KaLwF9hS3uRytfJS
+#EXTINF:-1 group-title="臺灣",公視3HD
+tvbus://4k72XQXUA4VLJkmxhKJxsYrfy3uDziK2dQB68kS4KDMfBjRr7d
+#EXTINF:-1 group-title="臺灣",公視戲劇
+tvbus://392xzKcKjjJVm4cEZgKXSaJ97AW9xDFBFXcE3xkfSQJmZcW97B
+#EXTINF:-1 group-title="臺灣",動物星球
+tvbus://3JUUSQBCyZAX9vBQ71NXPD8e5iMcG4VX3pFcrsvJ86zmdn6Tbz
+#EXTINF:-1 group-title="臺灣",博斯無限2
+tvbus://4Gq1AejcC5mba16urQMqXvjpGfXJBEszPdoyAFeSnetSWFZTpu
+#EXTINF:-1 group-title="臺灣",博斯網球
+tvbus://4dW2zuTsdi4WAe3Cju1nnJKUyekdEseZyhA4KsGtGvxZz4ZrrZ
+#EXTINF:-1 group-title="臺灣",博斯運動I
+tvbus://3kGT7rkpv1vTriATv8QQerAZHDWz1y2fVGDGEX3rr2Kk3T6TYB
+#EXTINF:-1 group-title="臺灣",博斯魅力
+tvbus://4LWZy5WB8ngVR1MWjXYuqoKCughDLjqZAoZUKXtU9fiifoneDk
+#EXTINF:-1 group-title="臺灣",原住民族電視
+tvbus://4b5jGoXFAHR8QpqWCnf88kqzaGg17rjDU8uB4TKGKZoFCxSy1Q
+#EXTINF:-1 group-title="臺灣",國興衛視
+tvbus://31EN6n54aSztKTXEEojUof9R8GXKhkS6792EfAKmUmtxQA8gUK
+#EXTINF:-1 group-title="臺灣",壹電視新聞
+tvbus://4TyquPihFBKyn1ZgdLaZpBSREowTiQt7b2vpBGamFRSYovty7c
+#EXTINF:-1 group-title="臺灣",大愛一臺
+tvbus://48sMqednccJStNRU5coV7bWyuihbmekRZEV4tqCYD9Ysc9juWb
+#EXTINF:-1 group-title="臺灣",大愛二臺HD
+tvbus://4WJWXLZ1dSdzJ2s6kPixCgwYm4Fw5qRwCCVUkmNztdgWLgRMAk
+#EXTINF:-1 group-title="臺灣",大立電視臺
+tvbus://3o2zX18PdbrJvnaJR1CmtptpFvXCiLyBPAtt9hdKs2CGwhLJM2
+#EXTINF:-1 group-title="臺灣",富立電視臺
+tvbus://3otES4Us1GX9RuiRvJcPLyjJrxcF6TzK99bFHYBoSsdQNJuaCd
+#EXTINF:-1 group-title="臺灣",寰宇新聞台灣
+tvbus://4r24DWTpb3cXxw6AfRdTeyBqzH63rhGTBqqvxMspgmDLLAGk93
+#EXTINF:-1 group-title="臺灣",寰宇新聞臺
+tvbus://4N1jjWcvwRYZqiNk2JDQsx1nkKH2Pm7AEeyuwJ1xHsasuFjxnR
+#EXTINF:-1 group-title="臺灣",寰宇財經臺
+tvbus://3wqQijrASptVigzibK5UktWLwkLppqpWcoWmcgKimwHmV5jWgL
+#EXTINF:-1 group-title="臺灣",年代MUCH
+tvbus://3vHnG5zfrqaiEDZfuXFTPnAjpbGANjbEU71hvRwiwnpyxM74Aw
+#EXTINF:-1 group-title="臺灣",年代新聞臺
+tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
+#EXTINF:-1 group-title="臺灣",幸福空間居家
+tvbus://4cbPyhPAEG6LW25xn2H97Cxa5eDpAy1bSizwyAsUjvFv1t8r2f
+#EXTINF:-1 group-title="臺灣",影迷數位電影臺
+tvbus://3QqVYfQpzsKQswxYg7k3j3Nr9Dur5wyGFCNo9Hu8X5tCQBaa95
+#EXTINF:-1 group-title="臺灣",新唐人亞太臺
+tvbus://3SZsbbzjQQKpgp7fxvZB2CcZRsn6eAKR8cYgkDhPAUWhkQuctL
+#EXTINF:-1 group-title="臺灣",智林體育臺
+tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
+#EXTINF:-1 group-title="臺灣",東森戲劇
+tvbus://3BA9w9Cd3QaXwX98PvHfbJkrvPQahC83KRNuiyQzQhgunYu79b
+#EXTINF:-1 group-title="臺灣",東森洋片
+tvbus://3pL49aZD2TyhiQyWBfJ2rYC8sfp75oVKsPYfFuWf1QdBtdNGze
+#EXTINF:-1 group-title="臺灣",東森綜合
+tvbus://3ntc3awUV3uL4gvU3jp6mpp6rB2J5JbgDPFMLW4TasZED7By4M
+#EXTINF:-1 group-title="臺灣",東森財經新聞
+tvbus://3YrVKyuStTijCkH3qG8vWNjU2Pz9xSWwwFetEGdY3FPaxprja4
+#EXTINF:-1 group-title="臺灣",東森超視
+tvbus://2zrU3yEjeaQNcXvsLtaAFD5cExi2ZNghd3QT6f47PGCpag1jnj
+#EXTINF:-1 group-title="臺灣",東森電影
+tvbus://4bBhDVmAULzhMpGgKomVBPS9GJ5cXjrtrHSwCqnroJBvLbi3xt
+#EXTINF:-1 group-title="臺灣",東風衛視
+tvbus://4h1MpthRYZDGPgs2uQJ3knohvCPqCsFYvZrX2rj7oA7WxnEwoW
+#EXTINF:-1 group-title="臺灣",民視HD
+tvbus://4HNUo4MsvUvZBjEq1bVeS5rLfRX13b6DQe94kissSpKaLhrfQ3
+#EXTINF:-1 group-title="臺灣",民視影劇
+tvbus://3rVo8Wgm91bRjxAdRWP2FDvdfDXrSpHRzgA8Qgmy8KLcihqxAJ
+#EXTINF:-1 group-title="臺灣",民視新聞臺
+tvbus://4ei6np43Wc3FLxQAS5JST5S3W1C91D6cyVnfZX8qvBc6B6ASfs
+#EXTINF:-1 group-title="臺灣",民視旅遊臺
+tvbus://4ReSa5g49kfLp4LRws28FfUb2X7ZeVuZfyYpdY1GDGkkcRFmJ5
+#EXTINF:-1 group-title="臺灣",民視無線臺
+tvbus://4TYJEpR4srtT1bMLcReroYxtrCi1x5YSAUUwXBAYkx7Y6bbuCd
+#EXTINF:-1 group-title="臺灣",民視第一臺
+tvbus://4PxfSpG9QxNQQ5HkZ2QC34gwL2MTLhbEmJNVSM5WRFhaE6hrum
+#EXTINF:-1 group-title="臺灣",民視綜藝
+tvbus://436RpJTqUJNSxdEtWXLgurmMwbnLazuMQE9GYtazLBXDybxfm6
+#EXTINF:-1 group-title="臺灣",民視臺灣臺
+tvbus://44CUsMUojRx9stowDEvzQHdoVTfzs7ktFaMUUVUL4eVv6QqPip
+#EXTINF:-1 group-title="臺灣",海豚綜合台
+tvbus://4PrXiqPC4snVisFUAaVLYi2RFrsMZn748nahZmb6BrEtdsm8CS
+#EXTINF:-1 group-title="臺灣",生命電視臺
+tvbus://2xbPSqfzDjNFpJYn84QsUibT36y1G7zEZAAyTSJgp9qsdnEpcf
+#EXTINF:-1 group-title="臺灣",緯來戲劇臺
+tvbus://4o9gmbWJB8HPTYD8gnwAGQLRcyd36YD3ti2C8j8zSBhmmTfdK8
+#EXTINF:-1 group-title="臺灣",緯來綜合臺
+tvbus://39nEFnAyyknVWrUTZD66LoWsR93tg94LSF5XdFdPxrMAYZ6x4X
+#EXTINF:-1 group-title="臺灣",緯來育樂台
+tvbus://3FaTHvPJk9a69FjsDEo2hX2PqHchW2d5TUQKWFz18AhhGu9UPa
+#EXTINF:-1 group-title="臺灣",緯來電影臺
+tvbus://49FAvpQAXECcTd3NtmsfUY2SHTGLsrVVaWGDKawvzbW8pWm4Hc
+#EXTINF:-1 group-title="臺灣",緯來體育台
+tvbus://4cQCh9Y1WFHtp3cvLck7nosWtjwNWFNtjFKf3nTfvJAcU3p7DH
+#EXTINF:-1 group-title="臺灣",美食星球
+tvbus://4jHM6mGBeJNHsL88y532oZEqWjQwGccjxRCsh7hj5FaPjexAJi
+#EXTINF:-1 group-title="臺灣",臺灣戲劇臺
+tvbus://4rXW5TUqe51TmjWpF78pFwuTtCN48rbq1uQPkxkLRwoGDawmq7
+#EXTINF:-1 group-title="臺灣",臺視 HD
+tvbus://3U8FKSZ2PmGgKTCsPGLWqJRYK8z1pocfBihKtNaK2H1WZBpqhA
+#EXTINF:-1 group-title="臺灣",臺視新聞臺
+tvbus://484Ufuv46TtcFDsG2i4eGXWuFsTsxcVcWkVrJqeN1bezbPpQso
+#EXTINF:-1 group-title="臺灣",臺視財經
+tvbus://4Z4MbzreJRE8ZiNEr6KhFZA36mUsb89rxndv9Adz51Axuv6CNX
+#EXTINF:-1 group-title="臺灣",華藏衛視
+tvbus://2zHhUkbfSjR3QK5SrDQz5nz7RVtpf47AdY6DnC7s1xGKmEgrQ2
+#EXTINF:-1 group-title="臺灣",華視新聞資訊
+tvbus://3VfgAyBCsuDVt1b5qJ1NSenkT5XNb2zDLKQ9aE8R8EKetji7re
+#EXTINF:-1 group-title="臺灣",親子臺
+tvbus://3o1kzZCaGbiKLhWgxwkMwuUwRdELqCcPXjLYwsED2CL4iN4YVv
+#EXTINF:-1 group-title="臺灣",達文西頻道
+tvbus://3j9ddVkqgrBLssruVmQyhYSRu2kxdyYhBJhVbBN1F99cmVuN1n
+#EXTINF:-1 group-title="臺灣",采昌影劇
+tvbus://4cjCHVMwWKQP68bi1ZWuhyRm2UA6eMs5Mp78EvZmC6DdXiRdeG
+#EXTINF:-1 group-title="臺灣",金光布袋戲
+tvbus://4QQfoS23r1YFDtfYw6nVjiRDys1qaGPJmKaH3xVjqfpQWGkbBk
+#EXTINF:-1 group-title="臺灣",電影原聲臺CMUSIC
+tvbus://4qfCQ8f53qHjQwRqfEnKRs62es6FZUfTNHt7NS4zAuwmovNtHe
+#EXTINF:-1 group-title="臺灣",霹靂臺灣
+tvbus://3hStem9nCVuhdEA8vmuxNrUNUs9Ka66wUxdkTN7HjHTt7n9dX7
+#EXTINF:-1 group-title="臺灣",靖天卡通
+tvbus://4bZGY73XLzPL2X8bFfH49Ln3ekY2a4MXbA95NzYEsq5GN5Nif7
+#EXTINF:-1 group-title="臺灣",靖天國際
+tvbus://4guLGH6vyMVxUwCZ5gd79vEjFeBiWvirCNVdMZEuNNN1vxUHqR
+#EXTINF:-1 group-title="臺灣",靖天戲劇
+tvbus://4ZcuJsH9qFkjqMditnKzd6cmEBwEsK7AuV39a9Mq671JNZXYft
+#EXTINF:-1 group-title="臺灣",靖天日本
+tvbus://3pwKbtBRso95swUKKzc2jaMEtkpRSHacVT1fa4gbBMwe9FxMr2
+#EXTINF:-1 group-title="臺灣",靖天映畫
+tvbus://4U8GA3DnvSwRTyADCdkqHqPPo7zLDfJrZGxRXTyHXMptnQCry2
+#EXTINF:-1 group-title="臺灣",靖天歡樂
+tvbus://38wocyAsqkzidRB1P7EY8n8VoSXtUieozgJD2Vc7dKEuviaSFP
+#EXTINF:-1 group-title="臺灣",靖天綜合
+tvbus://39mPFNV4waSTSAR7jng7WwoL6JVwJWPEK8MrEVynEa9YZ2xLKW
+#EXTINF:-1 group-title="臺灣",靖天育樂
+tvbus://3ZvBoW9qnenvdjB4B2EeWLbryx57mfG22WY4c82N3yfXzpiszE
+#EXTINF:-1 group-title="臺灣",靖天資訊
+tvbus://3CDXScLbjsz3R4czA3PoE1zDyBcLcQBp64mghrWEiZeg3pgBUD
+#EXTINF:-1 group-title="臺灣",靖天電影臺
+tvbus://4LtYii6KSHZuyALebuV7MJaK9c41sCWgiaezZjqMJLLVNUWHZ8
+#EXTINF:-1 group-title="臺灣",靖洋卡通
+tvbus://3WswoWi9ynzFTtEU7PTJ5u6wmxXHeTyQHcm14iuZ9K4q2vQtdC
+#EXTINF:-1 group-title="臺灣",靖洋戲劇
+tvbus://3z4aAo6nnZxAcaDf2Z2tJfvPr5STRBtsizmz9j45eHbYqRrpJZ
+#EXTINF:-1 group-title="臺灣",非凡商業
+tvbus://3He86yfvFyeWD4rsQP2f1wH7xURVZ5yxwHdG1qUhE958u5rWHW
+#EXTINF:-1 group-title="臺灣",非凡新聞HD
+tvbus://4pS6LgmNPcYDLhxED97FYyU6A1gSA9SMsvo289xFmFKDvptFQH
+#EXTINF:-1 group-title="臺灣",高點綜臺
+tvbus://3kixneRAYnSrY2cnXZQC5y9VX81s8isR3kCSdkrNo18ydNiTy4
+#EXTINF:-1 group-title="臺灣",龍祥時代
+tvbus://3dXd2hfkJrCXxsiiVfMs29a5euSByTys748Rx4UwwM2kowbpPw
+#EXTINF:-1 group-title="臺灣",龍華偶像
+tvbus://3eBZnFK5xAkF2c1qmU38VvdeEEEzgyePUbXNe5vNSyGYMFZMXt
+#EXTINF:-1 group-title="臺灣",龍華戲劇
+tvbus://46LeZqqBTKxT9XqJi2VGX3j2akGEZ5q7ywHaVUXPF15b1gLZNP
+#EXTINF:-1 group-title="臺灣",龍華日韓
+tvbus://3dtfFz6ziA1y2YTUtA1UdcZyT7rH1vZr4GmztyfzfL2J7jyHtg
+#EXTINF:-1 group-title="臺灣",龍華經典
+tvbus://3FcRikdCe4zhXhAyN71x2KziZMZvtvCSHF1u51Ang5DVFHCvkU
+#EXTINF:-1 group-title="臺灣",龍華電影
+tvbus://3Q6wdmE3gqDgV4dVr1MMY6jkgnT9m8UBpYCqAFEXnxnWTCCW2H
+#EXTINF:-1 group-title="英国",BBC ONE
+tvbus://2wnJq4gFfyDETKbVG67yuWpBLprWnQH358dXAPPVgXmieBt8Cj
+#EXTINF:-1 group-title="英国",CHANNEL 4
+tvbus://4MyucMTmpkgwzxM3xxAeKtp9a5uNL9dMQVjGe8aJ2bQfNULmAj
+#EXTINF:-1 group-title="英国",CHANNEL 4 UK
+tvbus://4MyucMTmpkgwzxM3xxAeKtp9a5uNL9dMQVjGe8aJ2bQfNULmAj
+#EXTINF:-1 group-title="英国",ITV 1
+tvbus://3FP3scFyY5m8H1DqLM8DV9ApR5wDryzR3BWJr4xTHLzZBJaDUB
+#EXTINF:-1 group-title="英国",ITV 2
+tvbus://4Y24uXoprMjYvy8KecSQUTfqTnoiuR4kmrd1gJtcTRyX3VPFzt
+#EXTINF:-1 group-title="英国",ITV 3
+tvbus://3FEVKq9g5BEwqYzibFYmocseXebUJxEnacPgnVUZwX9tyFDRvh
+#EXTINF:-1 group-title="英国",ITV 3 FHD
+tvbus://3FEVKq9g5BEwqYzibFYmocseXebUJxEnacPgnVUZwX9tyFDRvh
+#EXTINF:-1 group-title="英国",ITV 4
+tvbus://48cLfsyCswYEXJcV7FLUohXmEj1ScRipGKKFeGMHazZL7CkdHZ
+#EXTINF:-1 group-title="英国",LFC TV
+tvbus://45VTARrcPioTrqxppMNBZ67Mhyf7rSUjFnbzgvyLPatE79sLke
+#EXTINF:-1 group-title="英国",SKY NEWS HD
+tvbus://4XhubjpRUmUqKbSS34AewBUoxWQFBroMS9ikPc1qQFVaQCbeP4
+#EXTINF:-1 group-title="英国",SKY NEWS HD 1
+tvbus://4XhubjpRUmUqKbSS34AewBUoxWQFBroMS9ikPc1qQFVaQCbeP4
+#EXTINF:-1 group-title="英国",SKY SPORTS F1
+tvbus://3bdcWNhF3mem5tCfvpMUWzTT5A3HAHGwjfWWRovyYbjQkzuBiJ
+#EXTINF:-1 group-title="英国",SKY SPORTS MAIN EVENT
+tvbus://4meLDDATrBb97X5H1rP2tqHNxSqE67CfxULMSwCJ8dx3Ahtumd
+#EXTINF:-1 group-title="英国",SKY SPORTS MIX
+tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
+#EXTINF:-1 group-title="英国",SKY SPORTS MIX 1
+tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
+#EXTINF:-1 group-title="英国",SKY SPORTS NEWS
+tvbus://48ucGUPxqfvKX7mqZzEcKVPrPxPTzEP1VSdkFpRXsstrYPJzo7
+#EXTINF:-1 group-title="英国",SKY SPORTS NEWS  1
+tvbus://3DeoXn25P3nqNpnSukLSzNRNnLtYB58fJKUMRZAXL6b18pF7CR
+#EXTINF:-1 group-title="英国",TNT SPORTS 3
+tvbus://4hhMgTm25VRGJCktEZe6379aoTUEvivGs8J9NuxurGatNhBNCC
+#EXTINF:-1 group-title="菲律賓",A2Z TV
+tvbus://4XKBi29YFXN7YevjChbXmofKv7PpQVXzp3tH73QDw9zV8dLf1K
+#EXTINF:-1 group-title="菲律賓",ABS-CBN NEWS
+tvbus://3dkyso8RqE3Tnuo8XZY273L4Me2uBF3LLSWK8fBWqFdzkj2M7E
+#EXTINF:-1 group-title="菲律賓",BBC EARTH HD
+tvbus://3D9Nv9pNGLssbuos5n8ccYjTS4JRm1KGRfE9v779PvXvxCDuMr
+#EXTINF:-1 group-title="菲律賓",DISCOVERY CHANNEL
+tvbus://4PRxqXjR2DANWcsF5QRoLMapuGmPERFygcn8AkQovcxh9rJXZA
+#EXTINF:-1 group-title="菲律賓",DZRH TV
+tvbus://3YcHaGN1zGuXVDQBLfhAjat64sEycGVnwe6Qg33fBMDi6o996Q
+#EXTINF:-1 group-title="菲律賓",GMA7
+tvbus://4Vxt9458uvC3cafijGmFFULVx2jL6dmL1XktNTJMSMiDVi4FhA
+#EXTINF:-1 group-title="菲律賓",IBC
+tvbus://418tXGiio2LTQnD6som15FiC1hakLDUDoDXb5mdTAa3jnMEpfU
+#EXTINF:-1 group-title="菲律賓",PBARUSH
+tvbus://3PXxXb5T5GDRuHHKdctQFbQDAUDMJEWxRP5VBamBniLAJG3std
+#EXTINF:-1 group-title="菲律賓",PTV4
+tvbus://4kgsjQQ5UJfd1NLQAmXASRLXo5jkDJVCkaDPnkuGLgtwidiu11
+#EXTINF:-1 group-title="菲律賓",TV5 TV
+tvbus://3nJ3xSy2ETqFmumfTRiW3jJEBy3XAxKaffNeVSLxBazviP4Xiw
+#EXTINF:-1 group-title="越南",ANTV VN
+tvbus://3khjVWHxFd95YWTbFkYnhxNwCMQp3nccf9BexVhAaTRkzCtkUR
+#EXTINF:-1 group-title="越南",BBC EARTH VN
+tvbus://4YTpRyjXrLGzVVbvUmyeWTH6yX1YpaDENc5188eNgELuMa7CaH
+#EXTINF:-1 group-title="越南",BBC LIFESTYLE VN
+tvbus://3dDa4teN8QbXLeqeePDVg5yQ9maiKHZyNW1u3aP4YFPR2cwiBU
+#EXTINF:-1 group-title="越南",DISCOVERY DMAX VN
+tvbus://4bDyojJyUBBb8bMYPgvNRWh8LmamrFPon8Dd16H4TxrnBTe2Ph
+#EXTINF:-1 group-title="越南",DISCOVERY VN
+tvbus://4JXjaxGVQ4KgFfZf1axdzdyfKK3M3QKSExUnygu8rae7KmMeJN
+#EXTINF:-1 group-title="越南",HBTV VN
+tvbus://3aFBRYAM8vqCh8iEEvG5o3tHsqytJnfPTZEn15NTyP5rRmqBd7
+#EXTINF:-1 group-title="越南",HTV1 VN
+tvbus://3EgQSmUzEqcZJ9nmyZbz6s7RAsMk9h1PKC8ijCAvhsdZUxPGc1
+#EXTINF:-1 group-title="越南",HTV3 VN
+tvbus://4rNLsZMRHZF9u7jgiNg7PVcbZBNKAMYY9SbCkR7HnrpwDYx2US
+#EXTINF:-1 group-title="越南",HTV4 VN
+tvbus://4gvz8eXHK4XoDfsUR3YCYPnWkWHVeX9bm2c9LuJrLuam3WTh2c
+#EXTINF:-1 group-title="越南",HTV7 VN
+tvbus://3YQ2kVETeSuFWy71BHQnJk3U9PgDLA67rLAwm42ty9Rrgf6C2R
+#EXTINF:-1 group-title="越南",HTV9 VN
+tvbus://3TE3ZwU2E1SyzkVBXJ7fDa2rjhzguayV8RZiXDbMMeREsRUniE
+#EXTINF:-1 group-title="越南",QRT VN
+tvbus://4kW5bYNNENeAWQSeqQr3ZGEQkx4gxp5ELZiFpKb7xPyXnMGn9M
+#EXTINF:-1 group-title="越南",TIEN GIANG
+tvbus://4NFnSVrDbkwSTnbLLVbD2u9MniN68ocVW8hpAJbAJriTfVsmp6
+#EXTINF:-1 group-title="越南",VTV1 VN
+tvbus://4DZnLUVuvM2cGgxpBHnrgf5EwuivDXyRvzjrxHSkWBcVtVJNbE
+#EXTINF:-1 group-title="越南",VTV2 VN
+tvbus://4Uqdi1e7KLHtMrFMbC3CFY8pqdo516ANjjimDfjueHoT7NHCzA
+#EXTINF:-1 group-title="越南",VTV3 VN
+tvbus://4jPUdNLJDqRwAoiPPuYSbqRNGRvMApkWWsG2vEx7n7CXSKrrWs
+#EXTINF:-1 group-title="越南",VTV4 VN
+tvbus://3BCkCwf2h2bJiZameMRAJ5EsCdTFH8ztyhEtNhDT6AejDHMZM3
+#EXTINF:-1 group-title="越南",VTV5 VN
+tvbus://4H1YeWoUXv8NSD8CdXN7GTDQefubLjSFVYGGTK3nz4Kx6KbAds
+#EXTINF:-1 group-title="越南",VTV7 VN
+tvbus://4r2F6wkRZqaro2efbiREHQ31mZ16ujXXjqd1sy8QPSgUsvRGFK
+#EXTINF:-1 group-title="越南",VTV8 VN
+tvbus://4ccbHp6kVwNku144zsSiqiuuUyULSkAufPWNXcKZV7E1A4JFaC
+#EXTINF:-1 group-title="越南",VTV9 VN
+tvbus://3tEpBHTdnF14SxkSfhGQ1h2ez6Y9yS75idyLedusrGncCqY9hN
+#EXTINF:-1 group-title="電影",AFC
+tvbus://3SayXZ9NLz9UZ82GuPE6MSBj32iySaJRh6Kw42GMBJN3KjwJAG
+#EXTINF:-1 group-title="電影",AFC HD
+tvbus://4P1UL37ZTVyRGj6nL5MH4qyw1eo7djH1R7rNyf4K2S32UrC87x
+#EXTINF:-1 group-title="電影",AMC電影臺
+tvbus://4Gkd1GeLhAtoG427cJFtizrUsZi5KnxyAEqnQ8dS4hVMXemarw
+#EXTINF:-1 group-title="電影",AXN 臺灣
+tvbus://4qLssqfQ5WHuC4Fwx1sCKqTVxxqzF9GYNXFqEoKjouu7TSmhXS
+#EXTINF:-1 group-title="電影",BOO HD
+tvbus://3ceKNKADMa3HJQymvpsEGf75FTqVa8bWzvZw4oPkJcDR5udmZr
+#EXTINF:-1 group-title="電影",CATCHPLAY電影臺
+tvbus://3MgLGQvSfDHdpkWooo5cXFCfNZLpuw5K6jVjsy3hMUMh8aeCFu
+#EXTINF:-1 group-title="電影",CCTV6電影
+tvbus://4q6LqaEh8Par3c7XnzDzFX8PJWWKeyPh2d1HxWCYoAPzzP2wbj
+#EXTINF:-1 group-title="電影",CINEMAX(TW)
+tvbus://38zCne9aznRG1EqnXZUK24BwEioDJcJqDC5BJA6dRVxjWJ97YF
+#EXTINF:-1 group-title="電影",FASHION ONE
+tvbus://2y4Wtf4YaaJCieH4FTAzDNvscjzgFYvYQWA5YBvHRWhUz1gyD4
+#EXTINF:-1 group-title="電影",FOOD NETWORK
+tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
+#EXTINF:-1 group-title="電影",GTV TV
+tvbus://4E4YXfSqRqAVNMtJJEPFu5WZwW7gMMWocCQDa6vNUxSWj5rwY7
+#EXTINF:-1 group-title="電影",HBO TW
+tvbus://3ptVUZLXCeTrQBukNCyYVSQyGzaYa1FdT4ksghbXpghN1DT4mb
+#EXTINF:-1 group-title="電影",三立 INEWS
+tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
+#EXTINF:-1 group-title="電影",中視菁采
+tvbus://4rFLbVG8NMM4dYquQZEJfVDSQHNtNWrhhugpYpJAapwrm2mxc1
+#EXTINF:-1 group-title="電影",亞洲美食 1
+tvbus://4p2VWHqiEVC1gfx231A6Bc1STK4M6rsexjzhNkHiQdoEVNFtGU
+#EXTINF:-1 group-title="電影",全球財經台
+tvbus://3etvW5e9rsVKa8SQWC6QCck8kmGf6ob4QrqTjR8vZBcpFMnHVW
+#EXTINF:-1 group-title="電影",台視HD
+tvbus://3SUooGi8DtpxToUapPkzzugLz73ZbFNxevNMc9pztwAHrLHcwy
+#EXTINF:-1 group-title="電影",國會頻道1
+tvbus://3hr7VCsnYNGeshiMqk71TzPNHs78RgCrnTGDgbYEVE3hFabGYM
+#EXTINF:-1 group-title="電影",好萊塢電影
+tvbus://4bxHwuDVHBoiJUZ4ybdDySvMwyhnyQGuRsMmxgBUAgvnS6gKgH
+#EXTINF:-1 group-title="電影",客家電視
+tvbus://4WYpYGgG1Y5CNmbf9rcvjc2eN1H1fPfHz4x9beCzv8gcyRE2dD
+#EXTINF:-1 group-title="電影",廣東衛視
+tvbus://4H3kZ4HiFvsbMLnMmTuhB2eSrskfbAvohP6BcLmebnCnqGTfnT
+#EXTINF:-1 group-title="電影",新唐人亞太
+tvbus://3SZsbbzjQQKpgp7fxvZB2CcZRsn6eAKR8cYgkDhPAUWhkQuctL
+#EXTINF:-1 group-title="電影",東森戲劇 1
+tvbus://3BA9w9Cd3QaXwX98PvHfbJkrvPQahC83KRNuiyQzQhgunYu79b
+#EXTINF:-1 group-title="電影",美亞電影
+tvbus://4VLYSdkfjCy84x175C5JCfAza81b8w2aGqHBLwKE7sRKS33Kq4
+#EXTINF:-1 group-title="電影",美食星球 1
+tvbus://4jHM6mGBeJNHsL88y532oZEqWjQwGccjxRCsh7hj5FaPjexAJi
+#EXTINF:-1 group-title="電影",霹靂臺灣臺
+tvbus://3hStem9nCVuhdEA8vmuxNrUNUs9Ka66wUxdkTN7HjHTt7n9dX7
+#EXTINF:-1 group-title="電影",韓國娛樂KMTV
+tvbus://3bBS6hYAg5vUt5b7bbckZwZ6GMhqYVhhPND2g8Ni1QoiCtTgzq
+#EXTINF:-1 group-title="韓國",CBS
+tvbus://3suqRHHLfmwuKxh4eQeTjrNRYe4ziZYHTaEniwxeHvoDyEEEcF
+#EXTINF:-1 group-title="韓國",JTBC
+tvbus://4HScJcfKWqnFUuFZGuCa6vWQUb4RPPo7AGr8VuEiZFfn4Pjjst
+#EXTINF:-1 group-title="韓國",JTBC GOLF
+tvbus://4ZfvVSzhH3oJg7Sk6H6XTHv8hB65rcYGUA2BMHMiSdxo4FnzAR
+#EXTINF:-1 group-title="韓國",JTBC골프
+tvbus://4g51cktNNBwh7XcVzLq22tSccQ8sihqTAN4KcVcR1PDwYsd7gF
+#EXTINF:-1 group-title="韓國",KBS 1
+tvbus://4rDTwcfcrJgaaGCwRNivAxYpmqms86jkRpns2dSq9T7BM848p8
+#EXTINF:-1 group-title="韓國",KBS 2
+tvbus://3FfwdtbnZsgvVjmxyrTdMR8XjJg1bL5nXiSNBUtgGeHmPG7iri
+#EXTINF:-1 group-title="韓國",KBS KOREA
+tvbus://3GkcgSY6xmGnC2YUrZ7UrrY9eLxYS4eYLSbnBACieXD1Zw5vkh
+#EXTINF:-1 group-title="韓國",KMTV
+tvbus://35ro7M7fwVeVyhkMFBPLmuQorTjxMk3CGFYGMqmpVEKcV26fat
+#EXTINF:-1 group-title="韓國",MBC
+tvbus://3C25owGRbgv9nFsJuyAJZHdqzusdWZUVSesxKGvn4tqkub4Fbt
+#EXTINF:-1 group-title="韓國",MBN
+tvbus://32YNKeiojNXPskDkBVKCN1m3iRJtWDFb1KJvoN1fs8QEQxmqiD
+#EXTINF:-1 group-title="韓國",NBS골프
+tvbus://3VkCBT7ubD9H9y7VYnf5nTtemKZp1oLvNicKaS1UaM7G4Uiv1K
+#EXTINF:-1 group-title="韓國",SBS
+tvbus://3KrNNTvVowSC2g8xizAeSfi7Gu3X53x8LXBaC4BQyFiPCZ3W9u
+#EXTINF:-1 group-title="韓國",SBS GOLF
+tvbus://3WApZhRuETDjnkyrCXv5H8twoV5bjRhBEGduYNgixWvJ4Qy9hZ
+#EXTINF:-1 group-title="韓國",SBS PLUS
+tvbus://4iEdjEEgfDTRqQ4KkwmE19dSdn83tT4e6uygTHkWMU2evTsbaC
+#EXTINF:-1 group-title="韓國",SBS골프
+tvbus://3b1fpxSz71HMgxxvC6dWY9Qhgnh5CqJZCtGmr6wKyg3FScigbi
+#EXTINF:-1 group-title="韓國",SBS플러스
+tvbus://4TCrKBHtVGXGh8u3XpUrtEWbGshx6fH4FF1fwMue9yy5pFb9Sk
+#EXTINF:-1 group-title="韓國",SPOTV
+tvbus://43FVg2mhYD7ZPwz5z27MKrZR7PDfc2NHzTTK4fjj2FR2nhcKUP
+#EXTINF:-1 group-title="韓國",SPOTV2
+tvbus://4SHEVxbWDY8JzFBEMP7fCCxVAdUDNoDxHNCDkwCK7wVPqEegnr
+#EXTINF:-1 group-title="韓國",TVN
+tvbus://3173La3sCXWK96PNxXy7iGRu58D8MLZgv7sGiCBmtzjubtidcx
+#EXTINF:-1 group-title="韓國",TVN MOVIES
+tvbus://3ERU71FfqYa2SipemmTjKyuEhPXiytoBArBbgsX4gxxcyojYJh
+#EXTINF:-1 group-title="韓國",TV조선
+tvbus://4S73yuoNMqCAXs44NSzrYEaAtf2C8eZfPrKhBRp1pvSXTCxCef
+#EXTINF:-1 group-title="韓國",YTN
+tvbus://4ki286nCjfgBod7uWizudJcbRpZVEkjnJahrAqaWMDbpQ7mBwc
+#EXTINF:-1 group-title="韓國",연합뉴스TV
+tvbus://3SQg6vgXim13D2LLrfMoEUugb7KMX4heu1mKJJYSbvgPkVt5P6
+#EXTINF:-1 group-title="韓國",오락 KMTV
+tvbus://3bBS6hYAg5vUt5b7bbckZwZ6GMhqYVhhPND2g8Ni1QoiCtTgzq
+#EXTINF:-1 group-title="韓國",채널A
+tvbus://3SoZb7EfYn6cVG5x8KmfBGf8JRQkK8QDMvgrrK5TUwKND45UAK
+#EXTINF:-1 group-title="韓國",한국경제 TV
+tvbus://42fvm39DYqs26iqcEJLgJeCWKVV782RTZRsdPqEw1cuM8U6dVW
+#EXTINF:-1 group-title="馬來國際",AEC
+tvbus://3EBPLuBYfNKUrX849tsoiW3B8tmvTvcVrQwU2AT8AAVBwueixa
+#EXTINF:-1 group-title="馬來國際",AL JAZEERA
+tvbus://3o12REeSd8yEh8cPjMh9S4LPDWgfqWXWBGu9a8QdVnAbiEmsKJ
+#EXTINF:-1 group-title="馬來國際",ANIMAX
+tvbus://4ggBzgtHgwd6k7PiniB9VQSotUGHDZdshHH2KoAbVJz8TkwS29
+#EXTINF:-1 group-title="馬來國際",AOD 311
+tvbus://3X8anbo6gKqbqWkKowJVznsDHARhptibXwuGopv9HkwcYwzL7v
+#EXTINF:-1 group-title="馬來國際",AURA
+tvbus://3fWyNATbKvc56NLjthre3QazWc8GzpxXpTVdHmeHy1DPyG3fLW
+#EXTINF:-1 group-title="馬來國際",AXN
+tvbus://35LoV1VnsnhnSpu47bHZK115eNwT3rrBqyTBZgukijC5poyAor
+#EXTINF:-1 group-title="馬來國際",BADMINTON
+tvbus://47NhWn1YiHMwtjMvkMaLhdMjVit5fNtfrLFLksY3kFPLDRvz3x
+#EXTINF:-1 group-title="馬來國際",CERIA
+tvbus://4QTEMBJyq6WdAja8QhWxKsdVpY6hx2YW6MVsn9M5o6XEdVv49r
+#EXTINF:-1 group-title="馬來國際",CHANNEL 5
+tvbus://3xXTNyBszEioxGfNGrXQcg2gtUny4fDDuJ2fPh7Gmx6ZG1ESQ9
+#EXTINF:-1 group-title="馬來國際",CHANNEL 8
+tvbus://3aps7BaKo3L9ANN4bdB62hbLWoXQ3Cz83cFfpkvg4H3nTgfcyi
+#EXTINF:-1 group-title="馬來國際",CNA
+tvbus://43mKE1kmYHosgWse7eqiXjGDcWEFchUXCLL37v51QMeoEAGQYS
+#EXTINF:-1 group-title="馬來國際",CNN
+tvbus://42RG199by3dDESBghkPfMYTDEdxNQ6rTPKbs5gBHRJygX9qnaQ
+#EXTINF:-1 group-title="馬來國際",COLORS TAMIL
+tvbus://4jDCSKaWTfsnAYQe72eofUZ49yFxQJWZvAL4N2p6LBfbvi9CFQ
+#EXTINF:-1 group-title="馬來國際",CTI ASIA
+tvbus://3wzq4GPP8uuBWQoTgQjVqJVHA12A2okgbB5JPzL7iN7ChB4F7p
+#EXTINF:-1 group-title="馬來國際",FOOD NTWK
+tvbus://3f1xMy43aZKXG9eJFHWx3bLXq7Qfwo1NXVcJEFU67ZXzJ7d8Kt
+#EXTINF:-1 group-title="馬來國際",HITS
+tvbus://3h8y1QhrjmuYuupLK7HF8rNk4KFKQQzMJZ5J6uJ5vHmxTVDPpt
+#EXTINF:-1 group-title="馬來國際",KIX
+tvbus://4B4fpC9FkdBFAx6YPGHVkEFxVsyijyfUCtvPRSv24Au1kY3SoT
+#EXTINF:-1 group-title="馬來國際",PHOENIX NEWS
+tvbus://4egCPJWcynuKwPZhfGPoVvJaNwoaNpiJvYagL2VkWEiA14kpWd
+#EXTINF:-1 group-title="馬來國際",SUN TV
+tvbus://4NGEcNNnmRBpuGg7Nwr73e9kQ5XYi1iBMhrX1vLgqWGtopGZDv
+#EXTINF:-1 group-title="馬來國際",TLC
+tvbus://4oqMTnZKh66vpdokcBDHtkaMDkqpuoZjG1reviVADfJsDGvMBr
+#EXTINF:-1 group-title="馬來國際",TVB XING HE
+tvbus://4qxx6HaJfmUJGfRHa1rtY1ScQKsbQCDEXsRuQHQUtup54p8wDj
+#EXTINF:-1 group-title="馬來國際",全佳QUAN JIA
+tvbus://3JEDAzjQwV5AdB9g1MDsm62tCuGArH5Lgh7RhX5Uuvj6jSRGbH
+#EXTINF:-1 group-title="馬來國際",天映經典CCM
+tvbus://3C5SViYpSBaDcywjAHd1khayscUjMjCDP2DpHNBote7dQvgDnf
+#EXTINF:-1 group-title="馬來國際",天映頻道
+tvbus://2xGLJVcu2CHDLabmrVZsXSHGD3Zq6dg6cfzBpHG954SvCNn92o
+#EXTINF:-1 group-title="馬來國際",愛奇藝iQIYI
+tvbus://4RJePu2N2iTys5sWQ31pT5HsdaSbEmZGJ4t1ZL1NgmgTxop7zd
+#EXTINF:-1 group-title="馬來國際",歡喜臺 HUA HEE DAI
+tvbus://3o1H8njwb6QDbNPYLYmapx8PeY9TmX8qwgRzQxsnsnY6yCT2Jt
+#EXTINF:-1 group-title="馬來國際",華麗臺 WAH LAI TOI
+tvbus://3uxehX3ewvnYXZSuy9vsARiCKvcsyzUhn9HS6jwXMWSYW5wnbK
+#EXTINF:-1 group-title="體育",ARENA 2
+tvbus://3xpDDGSVArTL7v1c8oDutPwafMWT8KB4XMixBjRSTog8rKFnYc
+#EXTINF:-1 group-title="體育",ARENA HD
+tvbus://3YpNaHBYR8Cwd4EirEfv5FuVAEHSgfYQAHYyWytRzK1LjgH18d
+#EXTINF:-1 group-title="體育",ARENA SPORT 3
+tvbus://48232frJHrrxxrxoWbFHrrHf8ceJf1riydnTP3TzAPYLRkdu3w
+#EXTINF:-1 group-title="體育",ARENA SPORT 4
+tvbus://4cNwc6r87KUNBbYvvGdnsTv4pCqcZt66d2oJM6PKQm64yfdJVu
+#EXTINF:-1 group-title="體育",ARENA SPORT 5
+tvbus://4Hj4gSSEJwJBPEuUmeopngj9eSQVzmCZbAsp5Ujr1jFqAnu5Ab
+#EXTINF:-1 group-title="體育",BEIN MAX
+tvbus://3DZQbZALJrCQfpQxS1gwDmn1Ez7eSXCeZBm82FrgYje2iSgX97
+#EXTINF:-1 group-title="體育",BEIN SPORTS  3
+tvbus://37MLQNqRJn8bWQw57Mkhu3zWJ1fYE3t6cTZgGtXkN1KkKVkudk
+#EXTINF:-1 group-title="體育",BEIN SPORTS 1
+tvbus://3YEMcHm1MXReVu89Eb2mABYJGrMEWWPLpHHjdazcNXoM7bxVU7
+#EXTINF:-1 group-title="體育",BEIN SPORTS 1 ID
+tvbus://4EWXQ6kC3nkAK6V36wmt7Ptw3njGvFvJsTpW6WePWSJejNJ8ah
+#EXTINF:-1 group-title="體育",BEIN SPORTS 1 MY
+tvbus://3ZhdD11JeXHuRVBttrkPS9N43xiD68bC1LNXNjgjRjYBjRxMcv
+#EXTINF:-1 group-title="體育",BEIN SPORTS 2
+tvbus://4WJJuqu3kZLPKouJ9MNKdpcpZznc14HQTZ5iyd83Cv9fEzX6We
+#EXTINF:-1 group-title="體育",BEIN SPORTS 2 ID
+tvbus://4sdmL8iizmb8jyx9cApKF7TZrZMwrJLr1XWp8ywwoDYVxRTNAY
+#EXTINF:-1 group-title="體育",BEIN SPORTS 3
+tvbus://37MLQNqRJn8bWQw57Mkhu3zWJ1fYE3t6cTZgGtXkN1KkKVkudk
+#EXTINF:-1 group-title="體育",BEIN SPORTS 4
+tvbus://46J1qBqYVYHz3bJ7uYXKLWj7e9G7qzRH6ihgrDAHAs3gb8Fh6G
+#EXTINF:-1 group-title="體育",BEIN SPORTS MAX
+tvbus://3142vwmMDbpw5etwYxWRUahA9YpNr52wt7NrbnyhQT9JB9656G
+#EXTINF:-1 group-title="體育",BT SPORT 3
+tvbus://4hhMgTm25VRGJCktEZe6379aoTUEvivGs8J9NuxurGatNhBNCC
+#EXTINF:-1 group-title="體育",CBS SPORTS NETWORK HD
+tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
+#EXTINF:-1 group-title="體育",CCTV16奧林匹克
+tvbus://3jbJNFGEiEzLNwK4uuU35a2nWTAqnm2y89Y1TJgSc9wCq4d2TC
+#EXTINF:-1 group-title="體育",CCTV5+體育
+tvbus://48zae9UAzWTHn9VyRyJi5zKD6uP1c5E8uxs6nBJTyo1tXEETgX
+#EXTINF:-1 group-title="體育",CCTV5體育
+tvbus://3TochPyHvvaLN7htujxPkWrKcppctJG9ZgS9YUHMeSpWh89osG
+#EXTINF:-1 group-title="體育",CHAMPIONS TV 1
+tvbus://4fddEnCMpyP7nywuBwrTR16gYxHXgruM9oNt4KdPZj6GQTbcL6
+#EXTINF:-1 group-title="體育",CHAMPIONS TV 2
+tvbus://3ZKW5NPEeXiMJkPoBDj8UDYe4RyvdawyGc1DhN2TyxdgHVBk4j
+#EXTINF:-1 group-title="體育",DAZN TV 1
+tvbus://3ZuCH2U3YBQShWXiWYiZXFvb2wPj1AhxzxsLpTa2XjKdrFtT5u
+#EXTINF:-1 group-title="體育",DAZN TV 2
+tvbus://4D13MJQ6AMZqYnxa75k4FY3wACBrxBKE2wSYoeHwpXTP8mbcE1
+#EXTINF:-1 group-title="體育",DIGI SPORTS 3 RO
+tvbus://3zEKg8piR3UYRxkZFiV23Bw6otXBkhd4iLFx6t54i512GsYwCG
+#EXTINF:-1 group-title="體育",ELEVEN SPORTS NETWORK-US
+tvbus://3T7YECRLNimaPLfFQ4JZvTtke4bLggBr1dy6j6UEdhRbCnRi6f
+#EXTINF:-1 group-title="體育",ELTA  4臺
+tvbus://3FiXx5k9GUFfxqPLX9FFcYe61VrXJhJHmTayqsqDLdbxv7xQf8
+#EXTINF:-1 group-title="體育",ELTA 1臺
+tvbus://42ni2DCnZV6WzFYk1hTYJzv3HzXNxbFyHiJHFfLrY1vt6RjmUx
+#EXTINF:-1 group-title="體育",ELTA 1臺 HD
+tvbus://3jWfpipEi6rJR5aGHv2zQJLyodcJpAW7gGt2AdPp62F52VMkBz
+#EXTINF:-1 group-title="體育",ELTA 2臺
+tvbus://4EQyoeS1YykMSSiESW9G8mb63sZ5wuiAQdCBX28rNNn58ojZfW
+#EXTINF:-1 group-title="體育",ELTA 3 臺
+tvbus://4PdmAyg6hUaMpZG2b6PUvXZ8utd1cecpxtw2GVA8eoGJFEeAxJ
+#EXTINF:-1 group-title="體育",ESPN U HD-US
+tvbus://49WMyaFa3dH1kqyFV6eZD5fVnDvtb4dUJDTuGkSY6jXmj9ndeM
+#EXTINF:-1 group-title="體育",ESPN-US
+tvbus://3GGa9t9hRc7B9HtXErYHuCiShiDnazta6YPGLW48vj4PPy3GWx
+#EXTINF:-1 group-title="體育",EUROSPORT HD
+tvbus://3GN7Ynqnc45w6YAnCgkW5PSpDbgaiuw74gypdvMDBzheF9fc2r
+#EXTINF:-1 group-title="體育",FIGHT SPORT
+tvbus://3yySDUWJtEgq2bgU4aXjN1H5P9CvcCDZC7qGd8RHSjy4eLGr2S
+#EXTINF:-1 group-title="體育",FOX SPORTS 1
+tvbus://3GLQLbwdb85n6NEhLcfGCZzgKQFB2VsfG419ktyopzgmWNQCUh
+#EXTINF:-1 group-title="體育",FOX SPORTS 1 HD-US
+tvbus://3GLQLbwdb85n6NEhLcfGCZzgKQFB2VsfG419ktyopzgmWNQCUh
+#EXTINF:-1 group-title="體育",FOX SPORTS 2
+tvbus://4eNpKnMrN1FRCJekDGG4L4WKxt5X13HhENvmsn7Ed6sDL8kq4d
+#EXTINF:-1 group-title="體育",FOX SPORTS 2 HD-US
+tvbus://4eNpKnMrN1FRCJekDGG4L4WKxt5X13HhENvmsn7Ed6sDL8kq4d
+#EXTINF:-1 group-title="體育",FOXWEST
+tvbus://418qUkXKL4arf7hUMbQtrw5PB5tgmpim8YUYr2zXmRumRPt2pL
+#EXTINF:-1 group-title="體育",GINX ESPORTS TV
+tvbus://4LyyhkQaZV8deFcdJxyTugf4akwmCWF13ZMVba3cMqcc8rHp61
+#EXTINF:-1 group-title="體育",GOLF 1
+tvbus://4oZXNMBXB316Bwqf2skxAhg9aNEcPBiZEba7zERahtkNbNm8Dm
+#EXTINF:-1 group-title="體育",J SPORTS 1
+tvbus://3aqYifPNgVtUYp51yURkiX7g2xPC2sdyd1RP8Gz5vKHr4okBTn
+#EXTINF:-1 group-title="體育",J SPORTS 2
+tvbus://3APzHANfQ2norEetdr1P3sXFxSFcFb6xyrvX89EzP3Jzj2utg9
+#EXTINF:-1 group-title="體育",J SPORTS 3
+tvbus://4qF7fyEY5vePA4srPT9MHtPAKRGo99Kz8EBuC4HnE2JhEyMEGd
+#EXTINF:-1 group-title="體育",J SPORTS 4
+tvbus://4raGqo5WLm3fEiz9EsVTtfCKGbGoSqeqc9Bvb9829UHpqVB79Z
+#EXTINF:-1 group-title="體育",MLB NETWORK HD-US
+tvbus://3hWe9iYw5X6dvz34NCSpBRYWe52LwNE597aEVA2RsHeA4DpLn5
+#EXTINF:-1 group-title="體育",MNC SPORT 1
+tvbus://3xAb9QTNkLx9CYwfdwZ1vkpSq8JCzukTmFSnHv3K5vMBXJ7fvq
+#EXTINF:-1 group-title="體育",NBA
+tvbus://426GwAN4KH7ADi2p8rzMoUxWP82vx1KcapuvyRTS2TfRHKwRHM
+#EXTINF:-1 group-title="體育",NBA HD-US
+tvbus://3dqQgYoRen8R1XREVeJaycRVyhoaQHAp3ho3jqEHNk5t41kHak
+#EXTINF:-1 group-title="體育",NBA TV
+tvbus://3DJ57nv3hnu41sPX5CznVTEUkHYnhXqZA7ZgHYEZcL6nJuLzVf
+#EXTINF:-1 group-title="體育",NBC GOLF-US
+tvbus://46UiDE5CgdiodraG4UP4aABCdFdhcpJBVweN2THZSL8ByRQHmN
+#EXTINF:-1 group-title="體育",NBC SPORTS BAY AREA 1
+tvbus://32du9AixPi7fnezzv89MgsvbGdH9Yc9Pe7iNsjaeq7XtGuDtJz
+#EXTINF:-1 group-title="體育",NBC SPORTS NETWORK HD-US
+tvbus://4LdsaiGAf2q4FP6ia9RU5mK9NxLEhtmYmnfrx1tKqBf18KgbKe
+#EXTINF:-1 group-title="體育",NBC-US
+tvbus://4BAS6LKWGFzjB8HyNhYjDFciHJ34UYBUZ86XZP9a2NUwD7Dv3r
+#EXTINF:-1 group-title="體育",NFL NETWORK FHD -US
+tvbus://4MLUyAG7VJkmBR7bSBt4FH4FooJgxnrHxHL5MC9HVtsYisWAai
+#EXTINF:-1 group-title="體育",NHL NETWORK HD-US
+tvbus://39xMBvM9FW19udC57dX6BkSwNUHd5jbDsAKgL8jSsqPE5Xr5AW
+#EXTINF:-1 group-title="體育",PINKFONG - LEARN & PLAY
+tvbus://4ce5T21gZUQKawjdzTWS9iwvQUJ66Pge6g8HBip2CpioG1H59E
+#EXTINF:-1 group-title="體育",RTM
+tvbus://3WoHPjFY9xt7Rx4zZA4dJ9FhM3VQnTKXALkmZ94YNHdEPKoYMC
+#EXTINF:-1 group-title="體育",SBS GOLF 1
+tvbus://3WApZhRuETDjnkyrCXv5H8twoV5bjRhBEGduYNgixWvJ4Qy9hZ
+#EXTINF:-1 group-title="體育",SKY SPORTS ARENA HD
+tvbus://4HuLVHBLjZ6SKrr4vbxGCAYnbtantAGcAT6HvnydFndXTyx9Kq
+#EXTINF:-1 group-title="體育",SKY SPORTS CRICKET HD
+tvbus://4tNX68xeozfHMZReWR7CRm7pzvkDCYcDixoZQABjL6gcSgNDoW
+#EXTINF:-1 group-title="體育",SKY SPORTS F1 4K
+tvbus://3bdcWNhF3mem5tCfvpMUWzTT5A3HAHGwjfWWRovyYbjQkzuBiJ
+#EXTINF:-1 group-title="體育",SKY SPORTS GOLF HD
+tvbus://3Lz5wQnXggCFBHb8JNiNCiCTp7tePjX1tT2X7uTugzCwbkMK9Z
+#EXTINF:-1 group-title="體育",SKY SPORTS MAIN EVENT HD
+tvbus://4meLDDATrBb97X5H1sJNptcrLvs8mvGMaXuAkQ57pne2Yd5LmS
+#EXTINF:-1 group-title="體育",SKY SPORTS MIX HD
+tvbus://4eY6Thi4JUtCzweYgmrtrVQ7uAoSzXVojBuxmaLb5qNuzK6s4J
+#EXTINF:-1 group-title="體育",SKY SPORTS NEWS HD-GB
+tvbus://48ucGUPxqfvKX7mqZzEcKVPrPxPTzEP1VSdkFpRXsstrYPJzo7
+#EXTINF:-1 group-title="體育",SKY SPORTS RACING
+tvbus://36XfJwatbxyFv2tbTgn8orkVm29VKsCiCCeZWRDvqPa2WT98v3
+#EXTINF:-1 group-title="體育",SPO TV2
+tvbus://3b8U44WfdW6V2m7Zzeo41VESHoEanNeCwzw6gRXmEBn5PReThp
+#EXTINF:-1 group-title="體育",SPOTV STADIA
+tvbus://31rPwU1gKRUWDcwCCEaC6yUwizJEjkeiX1DRhU41UHuTfytE5x
+#EXTINF:-1 group-title="體育",SPOTV1
+tvbus://3y6zTBcYhHSRQpBrQcMYaTyxcqkRPVnDUAg4zBruaGtnv85bLC
+#EXTINF:-1 group-title="體育",THE GOLF CHANNEL-US
+tvbus://47Ti5oTUHw4VvpGfBzKMGgGmpkk3cPpqxpd6QfHFEXekgz2EF1
+#EXTINF:-1 group-title="體育",TRACE SPORT STARS 1
+tvbus://4LCLLKmZ6kgQMTFEcMyWpeAUds7FUYHLNtQe4L3CtdUtZnFcKY
+#EXTINF:-1 group-title="體育",TRACE URBAN
+tvbus://3vnLL9Dmut3QQVR3h6edxxf3hNrwtGBFtLcxLFHMsBu5vGZgx8
+#EXTINF:-1 group-title="體育",TSN 1 CA
+tvbus://3oN7NPfmsXJJzFaNours3hFiTS7izMknwAeozQsx3QVP1kVQSJ
+#EXTINF:-1 group-title="體育",TSN 2 CA
+tvbus://45cqwqd4R4tSna14rqDnc9xF5ZvqsUEvivdqaspZCvznycQEBj
+#EXTINF:-1 group-title="體育",TSN 3 CA
+tvbus://4BXwQmMbXhfsHGMvk8zH5eqGFWmctwEm1k798wJdqxgd4jJe5D
+#EXTINF:-1 group-title="體育",TSN 4 CA
+tvbus://4scNyNSYvg1Kzcqp9ys542Ct3WpZkxQ3G3epXm3DNYnkk53G9w
+#EXTINF:-1 group-title="體育",TSN 5 CA
+tvbus://4LvHUAtQmHJCDfVhFdfu3yfQZw5iMGhA5BdhVk2uNNC2cRJQYb
+#EXTINF:-1 group-title="體育",USEESPORTS 1
+tvbus://4SfksRvpoxt9XXD3R7uYwoxaqV4X9ieth4Fs6oS3yvFc7o2SGt
+#EXTINF:-1 group-title="體育",USEESPORTS 2
+tvbus://3wG8xFDj8UaitUzc7HLcqBrC1aHn2qtiZtzJPLRLqjt4twLTSE
+#EXTINF:-1 group-title="體育",WILLOW CRICKET HD USA
+tvbus://3B7ermDyDEDq8rimcJbGkPdJotS9LzRbnQpgrUUeW2STrLHm4c
+#EXTINF:-1 group-title="體育",WWE NETWORK HD-US
+tvbus://4jAJsRc4pqZVdkdRe4BR4XrwbRJy6Va2sFcfR7PukyhcqosGkC
+#EXTINF:-1 group-title="體育",WWE SUPERSLAM-GB
+tvbus://3nyqGiZ2ehHSP6sRwUVfWekTuQGbJmGzuhfrSEKNDP3hU12uBE
+#EXTINF:-1 group-title="體育",五星體育
+tvbus://4971cdPao6cwbneUprhg4VkvT5SYJTG1VVNrdez5FmbfCznriz
+#EXTINF:-1 group-title="體育",博斯高球II HD
+tvbus://4k12Eqcnb9h82vY7zYSzajKieZE8HEAFSCh5BhtQBci9tfpfRe
+#EXTINF:-1 group-title="體育",廣東體育
+tvbus://3FrVhYaJSTDmWXrvZDyoKNjP9yuZ12BAWzF26rNVceTKiqWQ6w
+#EXTINF:-1 group-title="體育",智林體育臺 1
+tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
+#EXTINF:-1 group-title="體育",緯來體育臺 1
+tvbus://4cQCh9Y1WFHtp3cvLck7nosWtjwNWFNtjFKf3nTfvJAcU3p7DH
